@@ -1,0 +1,3001 @@
+make,model,year,km_driven,fuel_type,transmission,engine_cc,previous_owners,selling_price
+Hyundai,Grand i10,2012,146782,Petrol,Manual,1117,1,71600.0
+Hyundai,Venue,2007,163794,Petrol,Automatic,1050,1,209800.0
+Tata,Altroz,2022,17551,Diesel,Manual,1286,0,549400.0
+Tata,Harrier,2013,76820,Diesel,Automatic,1956,3,707100.0
+Mercedes-Benz,C-Class,2008,185199,Diesel,Automatic,1592,3,714300.0
+Mercedes-Benz,C-Class,2010,321236,Petrol,Automatic,2261,1,1369200.0
+Mercedes-Benz,GLA,2011,156622,Diesel,Automatic,1884,2,889200.0
+Honda,City,2008,172919,Diesel,Automatic,1497,2,188300.0
+Maruti Suzuki,Vitara Brezza,2020,48992,Petrol,Manual,1488,0,460600.0
+Audi,Q3,2014,159028,Diesel,Automatic,1589,2,962800.0
+Maruti Suzuki,Baleno,2013,141752,Petrol,Automatic,1197,1,157300.0
+Skoda,Kushaq,2022,34724,Petrol,Manual,1340,0,606800.0
+Hyundai,Venue,2011,135045,Diesel,Automatic,1307,2,217000.0
+Kia,Seltos,2006,209465,Petrol,Automatic,1385,3,303700.0
+Hyundai,Verna,2020,35381,Petrol,Automatic,1501,1,737400.0
+Mahindra,Thar,2008,145944,Diesel,Automatic,1525,2,367400.0
+Mahindra,XUV700,2014,126481,Petrol,Automatic,2126,1,453700.0
+Mercedes-Benz,C-Class,2007,217691,Diesel,Automatic,2845,2,844500.0
+Tata,Nexon,2012,115681,Diesel,Manual,1484,2,397100.0
+Honda,City,2014,96785,Diesel,Automatic,1497,0,347500.0
+Kia,Sonet,2016,124049,Diesel,Manual,1480,2,289300.0
+Hyundai,Creta,2023,5633,Petrol,Automatic,1572,0,938100.0
+Skoda,Slavia,2017,105628,Petrol,Automatic,1388,1,318000.0
+Hyundai,Venue,2008,374647,Petrol,Manual,1240,2,174100.0
+Hyundai,Grand i10,2022,33917,CNG,Manual,1130,1,177600.0
+Skoda,Slavia,2021,40731,Petrol,Automatic,1089,1,1000300.0
+Maruti Suzuki,Vitara Brezza,2019,94330,Diesel,Automatic,1477,0,551600.0
+Maruti Suzuki,Vitara Brezza,2022,27514,Petrol,Automatic,1493,0,654100.0
+Toyota,Glanza,2018,88280,Petrol,Automatic,1197,1,231400.0
+Mercedes-Benz,GLA,2014,104218,Diesel,Automatic,1530,1,875100.0
+BMW,3 Series,2020,39122,Petrol,Automatic,2408,0,2876400.0
+Mercedes-Benz,GLA,2014,245581,Diesel,Automatic,1785,1,860500.0
+Skoda,Slavia,2013,219346,Petrol,Manual,1472,2,354300.0
+Maruti Suzuki,Vitara Brezza,2024,500,Petrol,Automatic,1482,0,667700.0
+Maruti Suzuki,Swift,2020,74008,Petrol,Manual,1197,1,317000.0
+Hyundai,Verna,2014,182136,Diesel,Automatic,1560,1,308600.0
+Audi,Q3,2020,24896,Petrol,Automatic,1843,0,1985800.0
+Hyundai,Venue,2013,206492,Diesel,Automatic,1258,1,366600.0
+BMW,X1,2020,47294,Petrol,Automatic,1774,0,2429600.0
+BMW,3 Series,2009,331612,Diesel,Automatic,2677,2,648600.0
+BMW,X1,2014,140420,Petrol,Automatic,1619,1,1070000.0
+Kia,Sonet,2023,8127,Petrol,Automatic,1465,0,846200.0
+Toyota,Fortuner,2016,118351,Petrol,Manual,2722,2,905400.0
+Maruti Suzuki,Alto,2012,267369,Petrol,Manual,869,2,50000
+Tata,Punch,2010,227562,Petrol,Automatic,1199,4,106500.0
+Kia,Seltos,2005,281801,Petrol,Manual,1473,3,218300.0
+Toyota,Innova Crysta,2019,103971,Petrol,Automatic,2504,1,999500.0
+Maruti Suzuki,Swift,2009,197727,Petrol,Automatic,1197,2,153700.0
+Hyundai,Creta,2020,75026,Diesel,Manual,1505,0,800300.0
+Maruti Suzuki,Dzire,2008,300098,CNG,Automatic,1197,3,125100.0
+Ford,EcoSport,2018,89117,Diesel,Manual,1498,0,474900.0
+Mahindra,Scorpio,2018,72931,Diesel,Automatic,2181,1,674900.0
+Volkswagen,Taigun,2010,203003,Petrol,Automatic,1013,2,167700.0
+Toyota,Innova Crysta,2024,500,Diesel,Automatic,2641,0,1607300.0
+BMW,X1,2017,80306,Diesel,Automatic,1611,1,1579700.0
+Ford,EcoSport,2019,59809,Petrol,Automatic,1497,2,415200.0
+Kia,Seltos,2012,194571,Petrol,Automatic,1380,1,262800.0
+Tata,Nexon,2023,17578,Diesel,Automatic,1487,0,990700.0
+Skoda,Kushaq,2014,134141,Petrol,Automatic,1225,1,387900.0
+Tata,Punch,2006,189039,Petrol,Automatic,1199,3,133600.0
+Hyundai,Venue,2009,174696,Diesel,Manual,1296,2,132900.0
+Hyundai,Creta,2008,317646,Petrol,Manual,1534,2,292000.0
+Toyota,Glanza,2023,14751,Petrol,Manual,1197,0,531200.0
+Hyundai,Creta,2020,58781,Diesel,Manual,1579,1,480700.0
+Volkswagen,Taigun,2019,92271,Petrol,Manual,1417,0,469900.0
+Hyundai,Venue,2020,49601,Petrol,Manual,1144,1,490600.0
+Mercedes-Benz,GLA,2014,100010,Diesel,Automatic,2126,2,1274700.0
+Maruti Suzuki,WagonR,2006,357402,Petrol,Automatic,1118,3,60400.0
+Maruti Suzuki,Baleno,2022,25293,Petrol,Automatic,1197,0,447700.0
+Ford,EcoSport,2010,260502,Diesel,Automatic,1498,2,158000.0
+Maruti Suzuki,Dzire,2021,43404,Petrol,Automatic,1197,1,416500.0
+Hyundai,Venue,2019,49032,Diesel,Automatic,1188,1,448300.0
+Honda,Amaze,2024,500,Diesel,Automatic,1308,0,498600.0
+Maruti Suzuki,Vitara Brezza,2022,28101,Diesel,Automatic,1466,0,468700.0
+Tata,Punch,2005,275751,Petrol,Manual,1199,2,121100.0
+Hyundai,Venue,2015,92281,Diesel,Manual,1080,2,448400.0
+Hyundai,Venue,2023,10930,Petrol,Automatic,1429,0,789900.0
+Maruti Suzuki,Swift,2020,59759,Petrol,Automatic,1197,0,332300.0
+Mahindra,XUV700,2009,213579,Diesel,Automatic,2099,3,294500.0
+Mahindra,Thar,2020,92920,Petrol,Manual,1785,1,790000.0
+Ford,EcoSport,2006,327612,Diesel,Manual,1498,3,120800.0
+Mahindra,XUV700,2014,154065,Petrol,Automatic,2154,2,715500.0
+Tata,Harrier,2021,30658,Diesel,Automatic,1956,0,1299300.0
+BMW,3 Series,2011,192181,Petrol,Automatic,2529,2,978700.0
+Tata,Altroz,2016,185158,Diesel,Automatic,1444,1,192900.0
+Audi,A4,2008,223042,Diesel,Automatic,1535,2,560700.0
+Maruti Suzuki,Baleno,2006,321214,Petrol,Automatic,1197,4,124000.0
+Ford,EcoSport,2017,50054,Diesel,Automatic,1497,2,247700.0
+Maruti Suzuki,Dzire,2010,235502,Petrol,Automatic,1197,4,190100.0
+Mercedes-Benz,GLA,2023,6388,Diesel,Automatic,1411,0,2873100.0
+Hyundai,Grand i10,2023,10769,CNG,Manual,1177,0,292700.0
+Toyota,Glanza,2005,233602,Petrol,Automatic,1197,3,76900.0
+Audi,A4,2005,219958,Diesel,Automatic,1623,2,554700.0
+Toyota,Fortuner,2024,500,Petrol,Automatic,2730,0,3864700.0
+Toyota,Innova Crysta,2022,20553,Petrol,Manual,2611,0,1220100.0
+Tata,Nexon,2014,129004,Diesel,Manual,1314,2,369500.0
+Maruti Suzuki,Baleno,2020,59192,Petrol,Manual,1197,0,282300.0
+Tata,Altroz,2015,102874,Diesel,Manual,1481,3,213800.0
+Hyundai,Venue,2023,20566,Petrol,Automatic,1281,0,634200.0
+Mahindra,Scorpio,2020,45691,Diesel,Automatic,2184,1,911200.0
+Maruti Suzuki,WagonR,2009,115735,Petrol,Manual,1103,3,101800.0
+Mercedes-Benz,GLA,2024,500,Petrol,Automatic,1528,0,3200000.0
+Skoda,Slavia,2007,97726,Petrol,Manual,1152,2,173400.0
+Maruti Suzuki,Baleno,2011,163830,Petrol,Automatic,1197,3,199800.0
+Ford,EcoSport,2019,62749,Diesel,Manual,1498,0,316500.0
+Hyundai,Venue,2008,91822,Diesel,Automatic,1182,2,168300.0
+Mercedes-Benz,GLA,2009,156471,Petrol,Automatic,1505,2,619800.0
+Mahindra,XUV700,2010,279582,Petrol,Automatic,2077,2,355600.0
+Volkswagen,Polo,2014,95976,Petrol,Manual,1161,2,209900.0
+Maruti Suzuki,Vitara Brezza,2010,128327,Petrol,Manual,1484,3,228100.0
+BMW,3 Series,2007,212930,Petrol,Automatic,2423,3,649600.0
+Tata,Nexon,2024,500,Diesel,Automatic,1213,0,797700.0
+Maruti Suzuki,WagonR,2015,97620,Petrol,Manual,1091,1,178500.0
+Maruti Suzuki,Vitara Brezza,2012,108220,Petrol,Automatic,1469,3,188900.0
+Maruti Suzuki,Alto,2017,120923,CNG,Manual,845,0,89500.0
+BMW,X1,2022,28962,Petrol,Automatic,1636,0,2849100.0
+Honda,City,2013,194522,Diesel,Manual,1498,3,229600.0
+Toyota,Fortuner,2021,20318,Diesel,Automatic,2754,1,2045100.0
+Mahindra,XUV700,2009,289640,Petrol,Automatic,2122,2,344300.0
+BMW,X1,2014,140452,Diesel,Automatic,1923,1,940300.0
+Toyota,Glanza,2016,64473,Petrol,Automatic,1197,1,168600.0
+Maruti Suzuki,Alto,2009,155885,CNG,Manual,904,2,50300.0
+Maruti Suzuki,Vitara Brezza,2023,12593,Petrol,Manual,1469,0,531200.0
+Toyota,Fortuner,2021,54239,Petrol,Automatic,2707,1,2029000.0
+BMW,X1,2015,83178,Petrol,Automatic,1683,2,1204600.0
+Volkswagen,Polo,2022,36736,Petrol,Automatic,1020,0,393000.0
+Ford,EcoSport,2012,85426,Petrol,Automatic,1498,2,248900.0
+Hyundai,Grand i10,2018,76162,Petrol,Manual,1189,1,158300.0
+Hyundai,i20,2005,213246,Petrol,Manual,1457,4,95500.0
+Toyota,Glanza,2005,202938,Petrol,Manual,1197,3,111500.0
+Honda,City,2009,127303,Diesel,Automatic,1497,4,213000.0
+Tata,Punch,2008,164185,Petrol,Manual,1199,2,111100.0
+Tata,Nexon,2022,27216,Petrol,Automatic,1430,0,458500.0
+Kia,Seltos,2005,130458,Petrol,Automatic,1372,4,258500.0
+BMW,3 Series,2017,67100,Petrol,Automatic,2284,0,1513400.0
+Toyota,Innova Crysta,2024,500,Petrol,Manual,2556,0,2365200.0
+BMW,3 Series,2010,107736,Diesel,Automatic,2995,2,1559300.0
+BMW,X1,2006,110028,Diesel,Automatic,1750,4,610400.0
+Volkswagen,Taigun,2022,21560,Petrol,Automatic,1088,0,789200.0
+Ford,EcoSport,2024,500,Petrol,Manual,1498,0,537200.0
+Maruti Suzuki,WagonR,2010,166397,Petrol,Automatic,1079,2,79900.0
+Skoda,Kushaq,2005,203195,Petrol,Manual,1149,2,147700.0
+Hyundai,i20,2022,23194,Petrol,Automatic,1489,0,396600.0
+Toyota,Fortuner,2008,256425,Petrol,Automatic,2748,3,516800.0
+Kia,Sonet,2012,159120,Diesel,Automatic,1291,1,153300.0
+Honda,Amaze,2017,109967,Diesel,Manual,1243,2,225400.0
+Hyundai,i20,2022,35508,Petrol,Manual,1343,0,495700.0
+Ford,EcoSport,2012,126461,Petrol,Automatic,1498,3,302600.0
+Tata,Punch,2020,85190,Petrol,Manual,1199,1,236200.0
+Tata,Punch,2006,178431,Petrol,Manual,1199,2,88900.0
+Tata,Harrier,2018,60651,Diesel,Manual,1956,1,535400.0
+Volkswagen,Taigun,2013,123932,Petrol,Automatic,1234,0,432700.0
+Honda,Amaze,2021,47261,Diesel,Manual,1275,1,492500.0
+Honda,Amaze,2006,368525,Diesel,Automatic,1397,2,146800.0
+Toyota,Glanza,2013,161638,Petrol,Automatic,1197,2,202700.0
+Mahindra,XUV700,2015,83433,Petrol,Manual,2121,1,410200.0
+BMW,3 Series,2022,26692,Diesel,Automatic,2036,2,3415100.0
+Toyota,Glanza,2021,44721,Petrol,Manual,1197,0,269000.0
+Volkswagen,Taigun,2020,66653,Petrol,Automatic,1460,1,725900.0
+Maruti Suzuki,Baleno,2024,500,Petrol,Automatic,1197,1,696200.0
+Kia,Sonet,2009,197112,Petrol,Automatic,1240,2,196700.0
+BMW,3 Series,2005,238195,Diesel,Automatic,2000,3,671500.0
+Skoda,Kushaq,2015,68390,Petrol,Manual,1189,1,604500.0
+BMW,3 Series,2017,105777,Diesel,Automatic,2623,1,2075800.0
+Tata,Harrier,2012,167202,Diesel,Manual,1956,2,458700.0
+Skoda,Slavia,2020,52276,Petrol,Automatic,1044,0,990800.0
+Toyota,Glanza,2016,89122,Petrol,Automatic,1197,2,269400.0
+Kia,Seltos,2020,51812,Petrol,Manual,1395,0,710400.0
+Tata,Punch,2006,221899,Petrol,Manual,1199,4,111800.0
+Ford,EcoSport,2009,143199,Diesel,Automatic,1498,2,242200.0
+BMW,3 Series,2018,50149,Diesel,Automatic,2896,1,1881600.0
+Skoda,Kushaq,2022,22708,Petrol,Manual,1379,0,1051100.0
+Kia,Sonet,2022,10841,Diesel,Automatic,1492,0,944100.0
+Audi,A4,2019,75620,Petrol,Automatic,1696,2,1396700.0
+Maruti Suzuki,Alto,2009,93847,CNG,Manual,977,2,78900.0
+Tata,Altroz,2016,96981,Diesel,Manual,1257,1,264300.0
+Mercedes-Benz,GLA,2006,305140,Diesel,Automatic,1830,3,836200.0
+Tata,Harrier,2019,69211,Diesel,Automatic,1956,1,646900.0
+Hyundai,i20,2014,137308,Diesel,Automatic,1241,2,176900.0
+Hyundai,Venue,2023,16268,Petrol,Manual,1000,0,696300.0
+Mahindra,Thar,2021,22590,Petrol,Automatic,2158,0,728100.0
+Skoda,Slavia,2007,139660,Petrol,Automatic,1342,4,267000.0
+Kia,Seltos,2019,67837,Petrol,Automatic,1475,0,484000.0
+Maruti Suzuki,WagonR,2023,17789,Petrol,Manual,1146,1,254100.0
+Audi,A4,2017,107160,Diesel,Automatic,1769,0,1142300.0
+Hyundai,Venue,2012,150693,Diesel,Automatic,1018,1,203500.0
+Kia,Sonet,2013,214734,Diesel,Manual,1262,2,288500.0
+Mahindra,Scorpio,2020,48720,Diesel,Automatic,2184,1,579800.0
+Maruti Suzuki,Dzire,2021,47417,Petrol,Automatic,1197,0,465800.0
+Hyundai,Verna,2009,330662,Petrol,Automatic,1573,2,163500.0
+Hyundai,Grand i10,2009,276737,Petrol,Manual,1170,4,117200.0
+Audi,A4,2005,163824,Diesel,Automatic,1588,3,480500.0
+Hyundai,Grand i10,2010,104152,CNG,Manual,1143,2,96100.0
+Maruti Suzuki,Dzire,2005,275010,Petrol,Automatic,1197,4,125600.0
+Toyota,Innova Crysta,2017,73613,Petrol,Manual,2625,1,811100.0
+Kia,Sonet,2015,159941,Diesel,Manual,1385,2,340600.0
+Toyota,Fortuner,2015,86836,Petrol,Automatic,2737,2,966300.0
+Mahindra,Thar,2007,298085,Petrol,Manual,1619,4,291100.0
+Tata,Nexon,2019,75823,Diesel,Manual,1464,1,458000.0
+BMW,X1,2016,143552,Diesel,Automatic,1713,1,935200.0
+Tata,Nexon,2021,59109,Diesel,Automatic,1267,0,623600.0
+Hyundai,i20,2016,116593,Diesel,Automatic,1330,0,329600.0
+BMW,X1,2024,500,Diesel,Automatic,1694,1,3326800.0
+Maruti Suzuki,WagonR,2012,134539,Petrol,Manual,1085,1,101300.0
+Maruti Suzuki,Vitara Brezza,2008,99634,Petrol,Manual,1487,3,119700.0
+Audi,A4,2022,23384,Diesel,Automatic,1533,0,3016900.0
+BMW,3 Series,2014,130092,Petrol,Automatic,2450,2,1253000.0
+Audi,Q3,2010,254303,Diesel,Automatic,1650,2,540300.0
+Audi,A4,2014,86873,Petrol,Automatic,1499,1,897500.0
+Audi,A4,2013,197926,Diesel,Automatic,1591,2,893500.0
+Mercedes-Benz,GLA,2014,99982,Petrol,Automatic,1824,3,1444700.0
+Honda,City,2024,500,Petrol,Automatic,1497,0,1463600.0
+Audi,A4,2012,219255,Petrol,Automatic,1894,2,1162000.0
+Audi,Q3,2009,192763,Petrol,Automatic,1938,1,566200.0
+Mercedes-Benz,GLA,2010,90765,Petrol,Automatic,1464,2,1145500.0
+Volkswagen,Polo,2013,115964,Petrol,Manual,1156,2,124100.0
+Mahindra,Thar,2010,159500,Diesel,Automatic,1603,1,349000.0
+Toyota,Fortuner,2014,68120,Petrol,Manual,2750,1,806100.0
+Kia,Seltos,2014,100409,Petrol,Manual,1418,1,270900.0
+Mahindra,Scorpio,2008,224560,Diesel,Automatic,2182,2,422400.0
+Audi,Q3,2017,107596,Diesel,Automatic,1482,0,1197500.0
+Volkswagen,Polo,2011,150871,Petrol,Automatic,1088,1,190400.0
+Toyota,Fortuner,2008,199674,Petrol,Automatic,2738,3,577700.0
+Kia,Seltos,2017,114178,Petrol,Manual,1427,1,439100.0
+Mercedes-Benz,GLA,2017,45490,Diesel,Automatic,1833,1,1366300.0
+Mahindra,Scorpio,2017,158356,Diesel,Manual,2179,0,557900.0
+Hyundai,Creta,2009,345172,Diesel,Manual,1552,2,371200.0
+Tata,Harrier,2016,85616,Diesel,Manual,1956,2,579400.0
+Toyota,Innova Crysta,2011,87574,Diesel,Manual,2496,3,635900.0
+Skoda,Slavia,2022,40172,Petrol,Manual,1264,0,548200.0
+Skoda,Kushaq,2014,114069,Petrol,Automatic,1395,1,469300.0
+Tata,Punch,2015,112975,Petrol,Manual,1199,3,146100.0
+Hyundai,Venue,2006,226621,Petrol,Manual,1089,3,113400.0
+Tata,Nexon,2006,239750,Petrol,Manual,1377,1,180600.0
+Toyota,Fortuner,2013,150511,Diesel,Manual,2701,0,1078800.0
+Mercedes-Benz,GLA,2024,500,Diesel,Automatic,1516,0,4127600.0
+Tata,Altroz,2015,129523,Diesel,Automatic,1222,1,182500.0
+Mahindra,Scorpio,2009,172617,Diesel,Automatic,2179,2,302200.0
+Hyundai,Verna,2008,243087,Diesel,Manual,1573,3,186000.0
+Mercedes-Benz,GLA,2006,254335,Petrol,Automatic,2073,3,764900.0
+Audi,Q3,2016,116251,Petrol,Automatic,1950,2,845700.0
+Skoda,Kushaq,2011,144246,Petrol,Automatic,1169,3,421300.0
+Mahindra,Scorpio,2005,168929,Diesel,Automatic,2182,3,192500.0
+Maruti Suzuki,WagonR,2024,500,CNG,Manual,1149,0,258100.0
+Hyundai,i20,2006,132132,Diesel,Automatic,1450,4,183600.0
+Audi,Q3,2016,101026,Petrol,Automatic,1968,2,1395600.0
+Volkswagen,Polo,2009,93220,Petrol,Automatic,1170,2,230000.0
+Honda,City,2006,163619,Diesel,Automatic,1498,3,233200.0
+BMW,3 Series,2014,93497,Diesel,Automatic,2359,1,1265700.0
+Toyota,Innova Crysta,2008,211764,Diesel,Automatic,2400,2,416900.0
+Honda,Amaze,2019,71283,Petrol,Manual,1284,0,432600.0
+Skoda,Kushaq,2021,17636,Petrol,Automatic,1491,0,740000.0
+Hyundai,i20,2012,257560,Diesel,Automatic,1433,1,198300.0
+Hyundai,Grand i10,2023,14520,Petrol,Manual,1134,0,393900.0
+Skoda,Slavia,2015,80212,Petrol,Automatic,1353,3,409400.0
+Tata,Altroz,2008,90281,Petrol,Automatic,1331,3,188500.0
+Maruti Suzuki,Alto,2023,22606,CNG,Manual,827,0,179200.0
+Mahindra,Scorpio,2011,147780,Diesel,Automatic,2181,3,488700.0
+Skoda,Kushaq,2006,299674,Petrol,Manual,1172,3,251600.0
+Hyundai,i20,2007,181080,Petrol,Automatic,1309,3,190000.0
+Hyundai,Verna,2005,114683,Petrol,Automatic,1507,4,211600.0
+Audi,A4,2013,73654,Petrol,Automatic,1608,2,1443100.0
+Audi,A4,2020,45550,Petrol,Automatic,1424,1,1921200.0
+Volkswagen,Polo,2007,285359,Petrol,Automatic,1055,2,79300.0
+Hyundai,Verna,2021,61966,Petrol,Manual,1549,0,572600.0
+Tata,Harrier,2006,217043,Diesel,Manual,1956,4,291000.0
+Hyundai,Creta,2019,51673,Diesel,Manual,1544,2,460700.0
+Mahindra,Scorpio,2008,203826,Diesel,Automatic,2179,3,265000.0
+BMW,X1,2022,44152,Petrol,Automatic,1862,0,2834400.0
+Maruti Suzuki,Vitara Brezza,2014,63661,Petrol,Automatic,1473,2,246100.0
+Maruti Suzuki,WagonR,2015,141060,Petrol,Manual,1131,1,151900.0
+Hyundai,Venue,2010,174102,Diesel,Automatic,1231,1,154900.0
+Maruti Suzuki,Swift,2019,48006,Petrol,Automatic,1197,1,328000.0
+Skoda,Kushaq,2020,24636,Petrol,Manual,1373,0,622400.0
+Tata,Punch,2005,183481,Petrol,Automatic,1199,2,85200.0
+Volkswagen,Polo,2011,165160,Petrol,Manual,1035,3,203800.0
+Toyota,Glanza,2005,110478,Petrol,Automatic,1197,3,129800.0
+Hyundai,Venue,2009,151846,Diesel,Automatic,1447,4,164700.0
+Maruti Suzuki,Alto,2020,51462,Petrol,Manual,891,1,100900.0
+Audi,A4,2007,211421,Petrol,Automatic,1866,3,807900.0
+Volkswagen,Taigun,2006,317436,Petrol,Manual,1054,1,121200.0
+Tata,Punch,2008,246022,Petrol,Manual,1199,3,156500.0
+Kia,Sonet,2014,119236,Diesel,Automatic,1305,0,343900.0
+Hyundai,i20,2011,133891,Petrol,Manual,1383,3,231400.0
+Skoda,Slavia,2020,50679,Petrol,Manual,1127,0,770000.0
+Toyota,Glanza,2019,47202,Petrol,Manual,1197,0,332900.0
+Hyundai,Grand i10,2017,103304,Diesel,Manual,1126,2,190500.0
+BMW,3 Series,2006,210311,Diesel,Automatic,2516,3,707200.0
+Hyundai,Verna,2019,78666,Petrol,Automatic,1501,1,613800.0
+Mahindra,Scorpio,2024,500,Diesel,Automatic,2180,0,1453600.0
+Audi,A4,2006,323650,Petrol,Automatic,1666,3,773600.0
+BMW,X1,2022,40716,Petrol,Automatic,1636,0,2519700.0
+Toyota,Glanza,2007,246027,Petrol,Automatic,1197,3,75600.0
+Maruti Suzuki,Vitara Brezza,2018,95222,Diesel,Automatic,1466,1,535300.0
+Mercedes-Benz,GLA,2012,149280,Diesel,Automatic,1424,2,1126200.0
+Hyundai,Venue,2016,64395,Diesel,Automatic,1364,0,540900.0
+Hyundai,Grand i10,2019,43543,CNG,Manual,1195,2,259200.0
+Volkswagen,Polo,2020,74789,Petrol,Automatic,1019,0,429100.0
+Volkswagen,Polo,2005,187230,Petrol,Automatic,1176,4,93000.0
+Tata,Harrier,2007,200874,Diesel,Manual,1956,4,315600.0
+Tata,Altroz,2010,253830,Diesel,Manual,1413,4,103800.0
+Maruti Suzuki,Baleno,2014,164479,Petrol,Automatic,1197,2,141400.0
+Toyota,Innova Crysta,2013,137371,Diesel,Automatic,2537,1,741400.0
+Audi,Q3,2008,116580,Diesel,Automatic,1899,3,560100.0
+Hyundai,i20,2007,334071,Diesel,Manual,1211,2,191700.0
+Ford,EcoSport,2010,246076,Petrol,Manual,1497,2,165000.0
+Kia,Seltos,2007,148825,Petrol,Automatic,1462,4,277000.0
+Honda,Amaze,2007,169324,Diesel,Automatic,1498,3,148700.0
+BMW,3 Series,2024,500,Diesel,Automatic,2887,0,4363300.0
+Hyundai,Creta,2005,271056,Petrol,Manual,1511,2,163800.0
+Volkswagen,Taigun,2023,21045,Petrol,Automatic,1376,0,965400.0
+BMW,X1,2005,300686,Petrol,Automatic,1769,3,665600.0
+Kia,Seltos,2014,106698,Diesel,Manual,1406,2,332600.0
+Volkswagen,Taigun,2022,23087,Petrol,Manual,1060,0,1159900.0
+Hyundai,Venue,2019,106108,Petrol,Manual,1472,1,433200.0
+Kia,Seltos,2021,57517,Petrol,Automatic,1466,0,512800.0
+Maruti Suzuki,Alto,2014,119940,Petrol,Manual,883,1,88600.0
+Skoda,Kushaq,2021,18311,Petrol,Manual,1366,1,597200.0
+Hyundai,Venue,2017,155198,Petrol,Automatic,1212,1,322800.0
+Ford,EcoSport,2006,262438,Petrol,Automatic,1497,2,164900.0
+Hyundai,Grand i10,2005,255305,Diesel,Manual,1159,3,67600.0
+Tata,Altroz,2021,46885,Diesel,Manual,1388,1,394900.0
+BMW,X1,2021,29877,Diesel,Automatic,1572,0,2251700.0
+Hyundai,Grand i10,2008,237790,CNG,Manual,1100,3,52800.0
+Kia,Sonet,2009,270692,Diesel,Manual,1388,3,131200.0
+Maruti Suzuki,Vitara Brezza,2021,39985,Petrol,Manual,1498,0,450100.0
+Tata,Altroz,2022,30729,Petrol,Automatic,1242,0,594200.0
+Maruti Suzuki,Vitara Brezza,2010,126917,Petrol,Manual,1496,2,136100.0
+Honda,City,2013,84546,Diesel,Automatic,1497,1,220600.0
+Audi,A4,2018,98610,Petrol,Automatic,1945,1,1322500.0
+Kia,Sonet,2021,24072,Diesel,Manual,1297,0,433000.0
+Volkswagen,Taigun,2015,152952,Petrol,Automatic,1451,0,429500.0
+BMW,X1,2007,178696,Diesel,Automatic,1902,3,622200.0
+Toyota,Innova Crysta,2011,129732,Diesel,Manual,2396,1,444900.0
+Audi,A4,2018,68124,Diesel,Automatic,1397,0,1642000.0
+Mahindra,XUV700,2015,109620,Petrol,Automatic,2046,3,693700.0
+Mahindra,Scorpio,2020,65098,Diesel,Manual,2179,1,693400.0
+Maruti Suzuki,Dzire,2007,111415,Petrol,Automatic,1197,2,124900.0
+Mercedes-Benz,GLA,2008,141206,Diesel,Automatic,1442,4,542600.0
+Hyundai,Venue,2022,16678,Petrol,Manual,1257,0,467200.0
+BMW,3 Series,2023,23673,Diesel,Automatic,2870,0,2287500.0
+Tata,Harrier,2012,226265,Diesel,Automatic,1956,1,525800.0
+Tata,Nexon,2011,80439,Diesel,Manual,1290,2,285800.0
+Hyundai,Creta,2017,84510,Petrol,Manual,1565,1,517900.0
+Toyota,Innova Crysta,2007,329264,Petrol,Automatic,2500,3,338100.0
+Kia,Seltos,2007,208491,Diesel,Manual,1387,3,195100.0
+Maruti Suzuki,Baleno,2015,91682,Petrol,Automatic,1197,2,237600.0
+Maruti Suzuki,Alto,2012,165725,CNG,Manual,897,1,50000
+Maruti Suzuki,Alto,2012,167802,CNG,Manual,882,2,77100.0
+Mahindra,Scorpio,2010,154943,Diesel,Automatic,2179,1,248800.0
+Tata,Altroz,2018,68826,Petrol,Manual,1357,0,266200.0
+Mahindra,Scorpio,2023,10280,Diesel,Automatic,2182,0,997600.0
+Tata,Nexon,2024,500,Diesel,Manual,1290,0,962000.0
+Honda,City,2007,260757,Petrol,Automatic,1498,3,156900.0
+Skoda,Slavia,2007,325016,Petrol,Automatic,1033,3,207500.0
+Hyundai,i20,2006,193435,Diesel,Automatic,1424,2,166300.0
+Hyundai,Grand i10,2016,78606,Petrol,Manual,1099,1,150300.0
+Hyundai,i20,2024,500,Petrol,Automatic,1245,0,831800.0
+Mahindra,Scorpio,2020,31619,Diesel,Automatic,2184,0,777700.0
+Volkswagen,Taigun,2009,211823,Petrol,Manual,1029,2,191100.0
+Maruti Suzuki,Dzire,2021,29729,Petrol,Manual,1197,0,365500.0
+Tata,Nexon,2007,300556,Petrol,Manual,1458,3,141400.0
+Maruti Suzuki,Vitara Brezza,2010,154654,Diesel,Manual,1497,2,213400.0
+Hyundai,Grand i10,2018,88954,Diesel,Manual,1110,1,209300.0
+BMW,3 Series,2005,160209,Petrol,Automatic,2644,2,585300.0
+Mahindra,Thar,2017,55266,Petrol,Automatic,1711,1,382500.0
+BMW,X1,2023,8594,Petrol,Automatic,1729,0,3012200.0
+Hyundai,i20,2007,168775,Petrol,Manual,1347,3,82600.0
+Mahindra,Scorpio,2017,108211,Diesel,Manual,2181,3,536400.0
+Skoda,Kushaq,2011,145371,Petrol,Automatic,1337,2,438700.0
+Kia,Sonet,2009,322384,Diesel,Manual,1362,3,126700.0
+Kia,Sonet,2013,236622,Diesel,Manual,1366,0,334200.0
+Audi,Q3,2013,90644,Diesel,Automatic,1623,2,1192600.0
+Hyundai,Creta,2005,409641,Petrol,Manual,1547,4,144900.0
+Tata,Altroz,2020,48406,Petrol,Manual,1290,1,269700.0
+Maruti Suzuki,WagonR,2011,201957,CNG,Automatic,1176,0,85400.0
+Hyundai,Venue,2010,84542,Diesel,Automatic,1345,3,187800.0
+Kia,Sonet,2005,131279,Diesel,Automatic,1186,3,146000.0
+Mercedes-Benz,GLA,2023,19707,Diesel,Automatic,1863,0,3248900.0
+Audi,Q3,2006,192910,Diesel,Automatic,1520,3,569300.0
+Maruti Suzuki,Baleno,2009,248814,Petrol,Manual,1197,3,138100.0
+Mercedes-Benz,C-Class,2015,122771,Petrol,Automatic,1810,2,1596100.0
+Tata,Harrier,2010,275264,Diesel,Manual,1956,2,420300.0
+Hyundai,Venue,2023,7951,Petrol,Manual,1191,1,757800.0
+Volkswagen,Polo,2016,125647,Petrol,Manual,1111,1,313000.0
+Hyundai,Verna,2022,40078,Petrol,Manual,1533,1,423000.0
+BMW,X1,2024,500,Petrol,Automatic,1506,0,3657900.0
+Mercedes-Benz,GLA,2021,25939,Petrol,Automatic,1504,0,1921800.0
+Mahindra,Scorpio,2014,132864,Diesel,Manual,2181,2,415000.0
+Tata,Nexon,2008,239394,Diesel,Automatic,1203,4,95700.0
+Tata,Punch,2017,124636,Petrol,Manual,1199,1,200300.0
+Mercedes-Benz,C-Class,2008,93595,Diesel,Automatic,1720,2,891800.0
+BMW,3 Series,2023,8176,Petrol,Automatic,2191,0,4245000.0
+Maruti Suzuki,Dzire,2012,121300,CNG,Automatic,1197,2,131100.0
+BMW,X1,2008,174124,Diesel,Automatic,1654,2,509400.0
+BMW,3 Series,2009,156166,Petrol,Automatic,2042,1,1176900.0
+Tata,Punch,2010,255013,Petrol,Automatic,1199,1,118400.0
+Toyota,Innova Crysta,2012,141079,Petrol,Automatic,2419,3,349000.0
+Maruti Suzuki,Swift,2024,500,Petrol,Automatic,1197,0,443900.0
+Skoda,Kushaq,2009,160449,Petrol,Automatic,1187,3,181700.0
+Hyundai,i20,2008,159277,Diesel,Automatic,1207,3,86700.0
+Maruti Suzuki,Baleno,2021,31686,Petrol,Automatic,1197,0,499300.0
+Kia,Sonet,2008,127316,Petrol,Automatic,1084,3,233600.0
+Maruti Suzuki,WagonR,2009,142714,Petrol,Manual,1197,2,108600.0
+Honda,City,2022,33291,Diesel,Automatic,1498,0,507800.0
+Kia,Seltos,2016,134322,Petrol,Manual,1357,1,302100.0
+Tata,Altroz,2008,149279,Petrol,Manual,1269,4,119500.0
+Maruti Suzuki,Alto,2006,166257,CNG,Manual,835,3,50000
+Skoda,Slavia,2017,72915,Petrol,Automatic,1333,1,405900.0
+Toyota,Glanza,2012,99483,Petrol,Manual,1197,1,179600.0
+Hyundai,i20,2008,323500,Diesel,Automatic,1454,3,145900.0
+Volkswagen,Taigun,2011,254007,Petrol,Automatic,1121,3,363800.0
+Skoda,Slavia,2019,69627,Petrol,Automatic,1130,1,560100.0
+Maruti Suzuki,Vitara Brezza,2006,191822,Diesel,Automatic,1478,3,120300.0
+BMW,3 Series,2006,220812,Petrol,Automatic,2463,2,647400.0
+Maruti Suzuki,Vitara Brezza,2010,138545,Diesel,Automatic,1481,3,183300.0
+Hyundai,Venue,2015,109481,Diesel,Manual,1253,1,379000.0
+Tata,Altroz,2023,7380,Diesel,Manual,1296,0,505200.0
+Hyundai,Grand i10,2019,68615,CNG,Manual,1169,0,194000.0
+Volkswagen,Taigun,2008,169621,Petrol,Manual,1043,4,242900.0
+Ford,EcoSport,2021,30884,Petrol,Automatic,1497,0,590700.0
+Kia,Seltos,2023,11937,Diesel,Automatic,1396,0,1409100.0
+Volkswagen,Taigun,2010,270564,Petrol,Automatic,1371,1,195200.0
+Hyundai,Creta,2012,116916,Diesel,Automatic,1520,2,376300.0
+BMW,X1,2008,317396,Diesel,Automatic,1699,2,700500.0
+Mercedes-Benz,GLA,2008,115280,Petrol,Automatic,1705,3,534000.0
+Toyota,Glanza,2018,86249,Petrol,Manual,1197,1,269900.0
+Mercedes-Benz,C-Class,2024,500,Diesel,Automatic,2097,0,3047900.0
+Maruti Suzuki,WagonR,2009,137659,Petrol,Automatic,1093,2,92000.0
+BMW,X1,2018,41759,Diesel,Automatic,1639,1,1274100.0
+Ford,EcoSport,2005,169421,Petrol,Manual,1498,4,116800.0
+Kia,Seltos,2006,112786,Petrol,Manual,1419,2,220800.0
+BMW,3 Series,2014,82558,Petrol,Automatic,2268,2,1519300.0
+Mahindra,XUV700,2009,167007,Diesel,Automatic,2164,2,244000.0
+Hyundai,Grand i10,2018,49601,CNG,Manual,1131,0,120300.0
+BMW,X1,2006,297229,Diesel,Automatic,1847,3,378900.0
+Honda,City,2010,134157,Petrol,Automatic,1497,0,298800.0
+Hyundai,Venue,2015,137698,Petrol,Manual,1153,2,255600.0
+Toyota,Innova Crysta,2012,109691,Petrol,Manual,2603,3,514500.0
+Mahindra,Scorpio,2014,70388,Diesel,Automatic,2181,2,548500.0
+Hyundai,Verna,2007,133565,Diesel,Automatic,1533,4,196900.0
+Kia,Sonet,2008,262527,Diesel,Automatic,1493,3,183900.0
+Mahindra,Thar,2018,58071,Diesel,Automatic,1927,0,613900.0
+Ford,EcoSport,2019,79811,Petrol,Automatic,1497,0,275100.0
+Maruti Suzuki,Dzire,2021,32625,Petrol,Manual,1197,1,471400.0
+BMW,X1,2005,216209,Petrol,Automatic,1533,3,432700.0
+BMW,3 Series,2008,280746,Diesel,Automatic,2294,2,902500.0
+Mercedes-Benz,GLA,2009,232215,Diesel,Automatic,1510,2,892400.0
+Maruti Suzuki,WagonR,2010,111840,Petrol,Manual,1185,4,95700.0
+Maruti Suzuki,Swift,2019,50120,Petrol,Automatic,1197,2,290400.0
+Tata,Punch,2011,138618,Petrol,Manual,1199,3,148700.0
+Kia,Sonet,2021,26315,Petrol,Manual,1063,0,501200.0
+Honda,Amaze,2010,117491,Diesel,Automatic,1233,1,227700.0
+Maruti Suzuki,Dzire,2023,20917,Petrol,Automatic,1197,0,572200.0
+Maruti Suzuki,Vitara Brezza,2006,109777,Diesel,Manual,1479,2,149700.0
+Tata,Punch,2012,95388,Petrol,Automatic,1199,2,142400.0
+Toyota,Fortuner,2008,97927,Petrol,Automatic,2724,3,962700.0
+Mercedes-Benz,GLA,2022,15992,Petrol,Automatic,2091,0,2887600.0
+Hyundai,Grand i10,2006,183968,Petrol,Manual,1193,2,50000
+Volkswagen,Taigun,2008,248599,Petrol,Manual,1412,4,259700.0
+Toyota,Innova Crysta,2024,500,Diesel,Automatic,2521,0,1653400.0
+Mahindra,Thar,2006,425464,Diesel,Manual,1915,3,154300.0
+Mahindra,Thar,2008,149127,Petrol,Manual,1855,3,210700.0
+Hyundai,i20,2021,61534,Petrol,Automatic,1458,0,616800.0
+Maruti Suzuki,WagonR,2008,329874,Petrol,Automatic,1135,2,90400.0
+Tata,Harrier,2023,11129,Diesel,Manual,1956,0,1495500.0
+Hyundai,Venue,2010,132369,Diesel,Manual,1458,3,268200.0
+Hyundai,i20,2019,81187,Petrol,Manual,1378,1,449200.0
+Mercedes-Benz,C-Class,2023,15871,Petrol,Automatic,1511,0,3313900.0
+Toyota,Glanza,2023,21719,Petrol,Automatic,1197,0,520800.0
+Tata,Nexon,2018,81462,Petrol,Manual,1306,1,339500.0
+Hyundai,i20,2008,189811,Petrol,Automatic,1269,2,151500.0
+Maruti Suzuki,Vitara Brezza,2016,88891,Petrol,Automatic,1469,1,256700.0
+Tata,Punch,2009,237936,Petrol,Manual,1199,3,156600.0
+Honda,City,2014,153390,Diesel,Automatic,1497,1,355200.0
+Hyundai,Creta,2018,44296,Diesel,Automatic,1573,0,488300.0
+Maruti Suzuki,Dzire,2015,66663,CNG,Automatic,1197,0,201200.0
+Audi,Q3,2011,186255,Petrol,Automatic,1926,3,904000.0
+Honda,City,2017,71873,Petrol,Automatic,1497,1,321900.0
+Tata,Punch,2021,21168,Petrol,Automatic,1199,0,376000.0
+Volkswagen,Polo,2022,25939,Petrol,Automatic,1071,1,437500.0
+Ford,EcoSport,2020,47347,Petrol,Automatic,1498,0,399400.0
+Maruti Suzuki,Vitara Brezza,2021,62657,Petrol,Automatic,1492,1,496800.0
+Toyota,Innova Crysta,2020,71814,Petrol,Automatic,2672,1,922100.0
+Maruti Suzuki,WagonR,2005,205674,CNG,Manual,1191,4,76200.0
+BMW,3 Series,2015,67253,Diesel,Automatic,2956,2,1626000.0
+Maruti Suzuki,WagonR,2005,173739,CNG,Manual,1086,4,59800.0
+Tata,Harrier,2009,157349,Diesel,Manual,1956,1,225900.0
+Toyota,Innova Crysta,2019,92654,Petrol,Automatic,2679,0,1459200.0
+Tata,Punch,2005,203084,Petrol,Automatic,1199,4,108100.0
+Hyundai,i20,2024,500,Petrol,Automatic,1211,0,449300.0
+Maruti Suzuki,Dzire,2011,93151,CNG,Manual,1197,3,175100.0
+Maruti Suzuki,Baleno,2010,95698,Petrol,Manual,1197,2,166200.0
+Toyota,Glanza,2006,297998,Petrol,Manual,1197,3,79100.0
+Mahindra,Thar,2021,64598,Diesel,Manual,1847,0,843800.0
+Hyundai,Creta,2023,15988,Diesel,Automatic,1544,0,1259200.0
+BMW,3 Series,2008,235555,Diesel,Automatic,2661,2,639200.0
+Mercedes-Benz,C-Class,2021,45944,Petrol,Automatic,2718,1,2927100.0
+Hyundai,Venue,2010,130733,Diesel,Automatic,1200,3,177100.0
+Hyundai,i20,2009,265979,Diesel,Manual,1359,4,176300.0
+Tata,Punch,2018,49794,Petrol,Manual,1199,0,262100.0
+Skoda,Slavia,2008,290844,Petrol,Automatic,1350,2,182300.0
+Audi,A4,2005,349064,Diesel,Automatic,1548,3,515000.0
+Audi,A4,2020,79181,Petrol,Automatic,1543,0,2137400.0
+Maruti Suzuki,Baleno,2006,203655,Petrol,Automatic,1197,3,104200.0
+Volkswagen,Taigun,2021,28443,Petrol,Manual,1140,0,904200.0
+Hyundai,Creta,2024,500,Diesel,Automatic,1556,0,982900.0
+Volkswagen,Polo,2022,14348,Petrol,Automatic,1120,1,390800.0
+Hyundai,Verna,2006,429403,Diesel,Automatic,1548,2,159400.0
+Toyota,Fortuner,2017,110368,Petrol,Manual,2743,0,1466800.0
+Ford,EcoSport,2019,80004,Petrol,Automatic,1498,0,319800.0
+Volkswagen,Polo,2005,157658,Petrol,Manual,1161,4,109400.0
+Toyota,Fortuner,2023,15047,Petrol,Manual,2707,0,1898200.0
+Mahindra,Scorpio,2007,165331,Diesel,Manual,2182,2,359000.0
+Skoda,Kushaq,2009,222572,Petrol,Manual,1052,1,254400.0
+Hyundai,Creta,2012,177498,Petrol,Automatic,1500,1,341800.0
+Kia,Seltos,2016,90309,Diesel,Automatic,1396,0,462500.0
+Hyundai,Grand i10,2020,65548,CNG,Manual,1131,0,249100.0
+Maruti Suzuki,Baleno,2021,22308,Petrol,Manual,1197,2,357200.0
+Tata,Nexon,2010,167716,Petrol,Manual,1432,2,156900.0
+BMW,3 Series,2023,12428,Petrol,Automatic,2553,0,3296000.0
+Skoda,Slavia,2018,87467,Petrol,Automatic,1385,1,628300.0
+Skoda,Kushaq,2005,330449,Petrol,Manual,1248,2,139900.0
+Hyundai,Verna,2024,500,Diesel,Automatic,1580,0,836200.0
+Hyundai,Venue,2016,101090,Diesel,Automatic,1370,0,348600.0
+Kia,Seltos,2017,97688,Petrol,Automatic,1462,1,650600.0
+Maruti Suzuki,Baleno,2013,210935,Petrol,Automatic,1197,2,179200.0
+Honda,Amaze,2007,305153,Diesel,Manual,1270,3,114600.0
+Maruti Suzuki,Baleno,2023,14915,Petrol,Automatic,1197,0,758000.0
+Maruti Suzuki,Vitara Brezza,2018,73152,Diesel,Manual,1466,0,515200.0
+Maruti Suzuki,Swift,2024,500,Petrol,Automatic,1197,0,454200.0
+Skoda,Slavia,2023,7886,Petrol,Automatic,1456,1,779000.0
+Maruti Suzuki,Baleno,2015,159110,Petrol,Automatic,1197,1,168300.0
+Skoda,Kushaq,2017,154810,Petrol,Manual,1104,0,275600.0
+Maruti Suzuki,Vitara Brezza,2021,40002,Diesel,Automatic,1478,1,492300.0
+Tata,Harrier,2005,281129,Diesel,Automatic,1956,3,274400.0
+Ford,EcoSport,2005,138474,Diesel,Automatic,1498,3,168200.0
+Hyundai,i20,2011,101423,Diesel,Automatic,1489,2,125400.0
+Volkswagen,Taigun,2006,284715,Petrol,Manual,1295,4,133600.0
+BMW,X1,2015,120357,Diesel,Automatic,1841,0,1435500.0
+Mercedes-Benz,C-Class,2011,170669,Petrol,Automatic,2542,2,1154200.0
+Volkswagen,Taigun,2017,82062,Petrol,Automatic,1024,1,499700.0
+Maruti Suzuki,WagonR,2009,299625,Petrol,Automatic,1033,3,122500.0
+Hyundai,i20,2014,103765,Diesel,Manual,1421,0,282300.0
+BMW,X1,2008,211412,Diesel,Automatic,1766,2,721700.0
+Hyundai,i20,2017,65769,Diesel,Automatic,1462,0,374500.0
+Mahindra,Thar,2021,34926,Diesel,Automatic,2084,1,1033300.0
+Maruti Suzuki,Swift,2016,151928,Petrol,Automatic,1197,0,164800.0
+BMW,X1,2024,500,Petrol,Automatic,1679,0,3975700.0
+Mahindra,XUV700,2011,206037,Diesel,Manual,2094,2,365700.0
+Ford,EcoSport,2022,25313,Diesel,Manual,1498,0,733600.0
+Tata,Harrier,2022,23902,Diesel,Manual,1956,0,930200.0
+Tata,Altroz,2012,128705,Petrol,Manual,1350,1,220600.0
+Honda,City,2009,256367,Diesel,Automatic,1497,3,357500.0
+Hyundai,Verna,2006,241900,Petrol,Automatic,1568,3,183500.0
+Maruti Suzuki,Dzire,2024,500,CNG,Manual,1197,0,623000.0
+Tata,Nexon,2008,144310,Petrol,Manual,1452,4,216600.0
+Maruti Suzuki,Dzire,2010,154075,Petrol,Automatic,1197,2,150200.0
+Tata,Nexon,2024,500,Petrol,Automatic,1214,1,560900.0
+Tata,Nexon,2011,168399,Petrol,Manual,1453,1,229300.0
+Hyundai,i20,2023,20240,Petrol,Automatic,1466,0,598900.0
+Volkswagen,Taigun,2007,168754,Petrol,Automatic,1192,3,163700.0
+Volkswagen,Taigun,2006,140707,Petrol,Automatic,1347,4,251000.0
+Volkswagen,Taigun,2013,186365,Petrol,Manual,1480,1,330400.0
+BMW,X1,2015,130979,Petrol,Automatic,1773,1,1495600.0
+BMW,3 Series,2012,131049,Diesel,Automatic,2112,3,931800.0
+Tata,Nexon,2006,234502,Diesel,Automatic,1301,4,93400.0
+Maruti Suzuki,Dzire,2006,321524,CNG,Manual,1197,3,75200.0
+Maruti Suzuki,Swift,2006,259579,Petrol,Automatic,1197,4,137900.0
+Kia,Seltos,2009,161810,Diesel,Manual,1453,1,278300.0
+Tata,Punch,2019,77827,Petrol,Automatic,1199,2,275600.0
+Maruti Suzuki,Dzire,2016,108264,CNG,Manual,1197,2,233700.0
+Hyundai,Verna,2024,500,Diesel,Manual,1565,0,1450500.0
+Hyundai,Venue,2006,239941,Diesel,Manual,1384,3,149000.0
+Tata,Punch,2016,198331,Petrol,Automatic,1199,0,254800.0
+Mahindra,Scorpio,2019,40345,Diesel,Automatic,2184,1,497400.0
+Toyota,Innova Crysta,2021,41534,Diesel,Automatic,2580,0,1521700.0
+Mahindra,XUV700,2008,126419,Petrol,Manual,2029,4,277500.0
+Maruti Suzuki,Vitara Brezza,2005,353662,Petrol,Manual,1467,3,83100.0
+Tata,Harrier,2024,500,Diesel,Automatic,1956,0,1435900.0
+Honda,Amaze,2006,161713,Diesel,Manual,1232,3,164000.0
+Tata,Harrier,2018,122185,Diesel,Manual,1956,1,689500.0
+Mahindra,XUV700,2016,62368,Diesel,Manual,2099,2,429600.0
+Tata,Punch,2018,63062,Petrol,Automatic,1199,0,325000.0
+BMW,X1,2010,209452,Petrol,Automatic,1822,2,544100.0
+Mahindra,Scorpio,2023,13706,Diesel,Manual,2181,0,1319200.0
+Mahindra,XUV700,2024,500,Petrol,Automatic,2034,0,2126200.0
+Tata,Punch,2006,226183,Petrol,Manual,1199,3,129700.0
+Maruti Suzuki,Alto,2009,119558,CNG,Manual,848,2,50000
+Mahindra,XUV700,2018,73164,Diesel,Manual,2157,0,687300.0
+Maruti Suzuki,WagonR,2008,193666,Petrol,Manual,1036,3,63700.0
+Tata,Harrier,2012,192751,Diesel,Manual,1956,2,396400.0
+Kia,Seltos,2009,152545,Petrol,Automatic,1407,2,214900.0
+Toyota,Glanza,2019,49706,Petrol,Automatic,1197,0,257800.0
+Kia,Sonet,2024,500,Diesel,Automatic,1198,0,1070500.0
+Hyundai,i20,2005,319051,Petrol,Manual,1222,3,81900.0
+BMW,3 Series,2007,194188,Petrol,Automatic,2113,4,618700.0
+Tata,Punch,2006,393286,Petrol,Automatic,1199,2,113800.0
+BMW,X1,2018,61112,Diesel,Automatic,1991,1,1389000.0
+Hyundai,Verna,2007,329651,Petrol,Manual,1547,2,253600.0
+Skoda,Slavia,2005,383187,Petrol,Manual,1365,2,218700.0
+BMW,3 Series,2006,249385,Petrol,Automatic,2998,3,507200.0
+BMW,3 Series,2022,23803,Petrol,Automatic,2315,0,2291700.0
+Skoda,Slavia,2022,14121,Petrol,Automatic,1409,0,601100.0
+Mahindra,Scorpio,2009,105443,Diesel,Manual,2184,2,412400.0
+Volkswagen,Taigun,2022,18215,Petrol,Automatic,1324,0,582100.0
+Mahindra,Thar,2012,85732,Diesel,Automatic,2016,2,413800.0
+Hyundai,Grand i10,2021,20590,CNG,Manual,1160,1,284700.0
+Tata,Altroz,2022,43421,Petrol,Manual,1397,1,591700.0
+Maruti Suzuki,WagonR,2018,112807,Petrol,Manual,1158,1,203400.0
+Tata,Harrier,2010,180607,Diesel,Automatic,1956,2,341900.0
+Audi,Q3,2007,375925,Petrol,Automatic,1740,4,620900.0
+Toyota,Fortuner,2022,29234,Petrol,Automatic,2739,0,1815200.0
+Mahindra,Scorpio,2012,170825,Diesel,Automatic,2181,1,322600.0
+Maruti Suzuki,Dzire,2020,55159,CNG,Automatic,1197,1,323000.0
+Volkswagen,Taigun,2023,5459,Petrol,Manual,1455,0,802100.0
+Tata,Harrier,2012,77802,Diesel,Automatic,1956,1,456900.0
+Toyota,Innova Crysta,2014,160939,Petrol,Manual,2515,1,542500.0
+Mercedes-Benz,GLA,2020,71297,Diesel,Automatic,1353,1,1730000.0
+Ford,EcoSport,2012,184298,Diesel,Manual,1498,1,209000.0
+BMW,3 Series,2023,17779,Petrol,Automatic,2222,0,4398300.0
+Maruti Suzuki,Vitara Brezza,2021,35169,Petrol,Automatic,1467,0,459100.0
+Tata,Harrier,2014,165729,Diesel,Manual,1956,1,324400.0
+Hyundai,Verna,2021,24516,Diesel,Manual,1561,0,497700.0
+Skoda,Slavia,2008,140867,Petrol,Automatic,1088,3,391100.0
+Maruti Suzuki,Baleno,2014,107181,Petrol,Manual,1197,1,180700.0
+Honda,City,2019,60072,Petrol,Manual,1497,0,694900.0
+Maruti Suzuki,Dzire,2018,60049,CNG,Automatic,1197,1,286100.0
+Hyundai,Venue,2021,38381,Diesel,Manual,1010,0,490100.0
+Hyundai,Grand i10,2021,29205,Diesel,Manual,1141,1,293500.0
+Mahindra,Scorpio,2009,113486,Diesel,Automatic,2180,2,208300.0
+Maruti Suzuki,Vitara Brezza,2020,51926,Diesel,Automatic,1485,1,523300.0
+Toyota,Innova Crysta,2018,78106,Petrol,Manual,2404,1,1306100.0
+Tata,Harrier,2008,271390,Diesel,Automatic,1956,2,300300.0
+Volkswagen,Taigun,2024,500,Petrol,Automatic,1123,0,1470800.0
+Hyundai,Venue,2007,248450,Diesel,Automatic,1457,2,107700.0
+Mercedes-Benz,GLA,2007,287245,Petrol,Automatic,1473,3,663100.0
+Hyundai,Grand i10,2009,184614,Petrol,Manual,1143,4,66100.0
+Kia,Sonet,2017,89353,Petrol,Automatic,1235,1,522500.0
+Mahindra,Scorpio,2012,213174,Diesel,Manual,2180,1,524300.0
+Mercedes-Benz,GLA,2006,381436,Diesel,Automatic,1777,3,818900.0
+Skoda,Kushaq,2018,72025,Petrol,Automatic,1000,0,702700.0
+Maruti Suzuki,Dzire,2008,254095,CNG,Manual,1197,2,82500.0
+Maruti Suzuki,WagonR,2012,133265,Petrol,Manual,998,3,139900.0
+Tata,Punch,2007,129847,Petrol,Manual,1199,4,139500.0
+Audi,Q3,2016,118924,Diesel,Automatic,1724,2,762800.0
+Hyundai,Grand i10,2020,95375,CNG,Manual,1146,0,242700.0
+Maruti Suzuki,Dzire,2017,60643,CNG,Manual,1197,0,289300.0
+Hyundai,Creta,2008,239537,Petrol,Automatic,1511,3,250000.0
+Maruti Suzuki,Dzire,2023,5528,Petrol,Manual,1197,0,469300.0
+Honda,Amaze,2015,72432,Petrol,Manual,1240,2,188700.0
+Tata,Punch,2018,74970,Petrol,Manual,1199,0,286800.0
+Hyundai,Grand i10,2024,500,CNG,Manual,1118,0,475300.0
+Hyundai,Grand i10,2006,296591,CNG,Manual,1102,4,82200.0
+Tata,Altroz,2012,190606,Diesel,Automatic,1295,2,115700.0
+Skoda,Kushaq,2020,46981,Petrol,Automatic,1428,1,673400.0
+Hyundai,Venue,2016,106442,Petrol,Automatic,1367,2,310900.0
+Mercedes-Benz,GLA,2005,271189,Petrol,Automatic,1873,4,510900.0
+BMW,X1,2022,19048,Petrol,Automatic,1989,1,1777600.0
+Audi,Q3,2011,134977,Diesel,Automatic,1621,3,546600.0
+Maruti Suzuki,Alto,2018,54751,CNG,Manual,999,0,128800.0
+Toyota,Innova Crysta,2012,124382,Petrol,Manual,2473,2,361400.0
+Hyundai,Verna,2010,124304,Diesel,Automatic,1497,3,241100.0
+Tata,Altroz,2024,500,Diesel,Automatic,1287,1,599000.0
+Maruti Suzuki,Swift,2017,114104,Petrol,Automatic,1197,2,229500.0
+Tata,Nexon,2006,378172,Petrol,Manual,1322,4,122200.0
+Toyota,Innova Crysta,2005,195840,Diesel,Manual,2409,3,324000.0
+Hyundai,Venue,2021,20003,Diesel,Automatic,1249,0,623600.0
+Maruti Suzuki,Swift,2013,119344,Petrol,Manual,1197,1,172200.0
+Audi,Q3,2018,54222,Petrol,Automatic,1449,0,1819100.0
+Hyundai,Creta,2006,232712,Petrol,Manual,1531,3,284500.0
+Toyota,Glanza,2005,296616,Petrol,Automatic,1197,4,105300.0
+Maruti Suzuki,Swift,2014,181794,Petrol,Automatic,1197,2,205700.0
+Mahindra,Scorpio,2006,181874,Diesel,Automatic,2184,2,301700.0
+Mahindra,XUV700,2006,227463,Petrol,Manual,2101,4,283200.0
+BMW,3 Series,2014,123608,Diesel,Automatic,2744,1,1312200.0
+Tata,Harrier,2015,81142,Diesel,Automatic,1956,1,479200.0
+Mercedes-Benz,GLA,2005,203100,Diesel,Automatic,1707,2,881600.0
+Honda,Amaze,2018,101984,Diesel,Automatic,1225,0,297900.0
+Audi,Q3,2015,91633,Petrol,Automatic,1593,1,1393700.0
+Maruti Suzuki,Dzire,2014,129740,CNG,Manual,1197,4,223300.0
+Skoda,Slavia,2022,29773,Petrol,Automatic,1073,0,999800.0
+Toyota,Glanza,2008,224367,Petrol,Manual,1197,3,144800.0
+Mahindra,XUV700,2009,310920,Diesel,Manual,2130,2,524800.0
+Kia,Sonet,2007,120145,Diesel,Automatic,1320,2,188900.0
+Maruti Suzuki,Alto,2007,104950,CNG,Manual,895,3,59700.0
+Skoda,Kushaq,2016,103114,Petrol,Manual,1024,1,372400.0
+Maruti Suzuki,Vitara Brezza,2006,201486,Diesel,Automatic,1486,4,204900.0
+Maruti Suzuki,Vitara Brezza,2008,222482,Petrol,Manual,1486,3,148400.0
+Maruti Suzuki,Dzire,2013,97660,Petrol,Automatic,1197,3,221200.0
+Tata,Punch,2023,14779,Petrol,Automatic,1199,0,567200.0
+Audi,A4,2010,271024,Petrol,Automatic,1922,1,784200.0
+Maruti Suzuki,Alto,2022,13820,CNG,Manual,892,0,189400.0
+Maruti Suzuki,Alto,2013,169915,CNG,Manual,822,1,92200.0
+Maruti Suzuki,Swift,2015,104799,Petrol,Manual,1197,1,226600.0
+Maruti Suzuki,Vitara Brezza,2022,31530,Diesel,Automatic,1490,0,789900.0
+Ford,EcoSport,2011,265971,Diesel,Automatic,1498,2,219400.0
+Maruti Suzuki,Baleno,2010,148972,Petrol,Manual,1197,2,191600.0
+Mercedes-Benz,GLA,2017,55907,Diesel,Automatic,1939,1,1499800.0
+Hyundai,i20,2013,117447,Diesel,Automatic,1281,1,316400.0
+Hyundai,i20,2017,87785,Petrol,Manual,1483,2,216400.0
+Toyota,Glanza,2020,70358,Petrol,Manual,1197,0,261300.0
+Tata,Altroz,2015,111026,Diesel,Automatic,1244,1,204200.0
+Hyundai,Venue,2007,178021,Petrol,Automatic,1484,4,132600.0
+Mahindra,XUV700,2019,52763,Diesel,Automatic,2134,1,801800.0
+Toyota,Fortuner,2024,500,Petrol,Manual,2713,0,3491000.0
+Hyundai,Creta,2009,175474,Petrol,Manual,1502,3,184300.0
+Kia,Sonet,2020,43687,Diesel,Automatic,1071,1,714300.0
+Hyundai,Verna,2007,218832,Diesel,Automatic,1523,3,230400.0
+Tata,Nexon,2019,53572,Petrol,Automatic,1444,0,577000.0
+Skoda,Slavia,2008,148335,Petrol,Manual,1372,4,290800.0
+Hyundai,i20,2007,173930,Diesel,Automatic,1496,2,148400.0
+BMW,X1,2019,112691,Petrol,Automatic,1956,1,993400.0
+BMW,X1,2022,26219,Diesel,Automatic,1795,0,2028700.0
+Maruti Suzuki,Dzire,2006,268628,Petrol,Manual,1197,2,134500.0
+Maruti Suzuki,Vitara Brezza,2007,294985,Diesel,Manual,1491,3,114200.0
+Tata,Altroz,2009,139087,Diesel,Manual,1257,3,116200.0
+Mercedes-Benz,GLA,2024,500,Diesel,Automatic,1534,0,3679700.0
+Skoda,Slavia,2014,74057,Petrol,Manual,1075,1,476500.0
+Kia,Seltos,2005,256556,Diesel,Automatic,1369,4,179100.0
+Hyundai,Verna,2020,32549,Diesel,Manual,1568,0,661600.0
+Hyundai,i20,2010,88426,Diesel,Automatic,1330,2,216000.0
+Volkswagen,Taigun,2020,27650,Petrol,Manual,1127,1,351100.0
+Volkswagen,Polo,2017,106144,Petrol,Manual,1114,0,177000.0
+Mahindra,Scorpio,2011,134575,Diesel,Automatic,2179,2,309200.0
+Volkswagen,Taigun,2011,136016,Petrol,Automatic,1014,2,324300.0
+Maruti Suzuki,Swift,2017,97404,Petrol,Manual,1197,1,249200.0
+Honda,City,2015,123347,Petrol,Automatic,1497,2,396700.0
+Tata,Harrier,2023,17442,Diesel,Manual,1956,0,1204400.0
+Tata,Altroz,2020,67052,Diesel,Automatic,1224,0,356300.0
+Toyota,Fortuner,2005,202086,Petrol,Automatic,2745,4,486300.0
+Mercedes-Benz,C-Class,2007,355898,Diesel,Automatic,1725,3,1159600.0
+Tata,Nexon,2022,16394,Petrol,Manual,1331,0,718600.0
+Ford,EcoSport,2021,55330,Petrol,Manual,1497,1,477800.0
+Ford,EcoSport,2006,280707,Diesel,Manual,1498,3,181100.0
+Toyota,Fortuner,2012,199645,Diesel,Automatic,2728,1,787600.0
+Toyota,Innova Crysta,2018,85379,Diesel,Manual,2414,0,1131600.0
+Honda,City,2018,46072,Diesel,Manual,1497,1,464400.0
+Maruti Suzuki,Swift,2014,115366,Petrol,Automatic,1197,2,128800.0
+Audi,A4,2019,60998,Petrol,Automatic,1805,1,1521600.0
+Kia,Sonet,2022,28001,Diesel,Automatic,1313,0,729300.0
+Mahindra,XUV700,2006,123506,Diesel,Automatic,2077,2,266000.0
+Honda,Amaze,2017,67692,Diesel,Automatic,1227,2,337300.0
+Audi,Q3,2018,45585,Diesel,Automatic,1904,1,1513300.0
+Toyota,Glanza,2021,33593,Petrol,Manual,1197,1,337000.0
+Volkswagen,Polo,2008,256544,Petrol,Automatic,1012,4,120800.0
+Hyundai,i20,2013,227860,Petrol,Automatic,1454,0,145400.0
+Toyota,Innova Crysta,2013,130603,Diesel,Manual,2602,0,548200.0
+Hyundai,Verna,2010,128562,Diesel,Automatic,1562,2,227900.0
+Toyota,Fortuner,2019,87960,Diesel,Manual,2722,0,1240500.0
+Hyundai,Verna,2005,208198,Petrol,Automatic,1542,4,141200.0
+Toyota,Fortuner,2010,141339,Petrol,Automatic,2716,1,1028000.0
+Hyundai,Grand i10,2021,47496,Petrol,Manual,1150,0,288400.0
+Maruti Suzuki,Dzire,2023,12923,CNG,Automatic,1197,0,379100.0
+Audi,A4,2013,148003,Diesel,Automatic,1574,2,1118400.0
+Audi,Q3,2008,175075,Petrol,Automatic,1544,2,433100.0
+Honda,City,2007,302702,Diesel,Automatic,1497,4,178400.0
+Maruti Suzuki,Swift,2017,85083,Petrol,Automatic,1197,1,180200.0
+Skoda,Kushaq,2024,500,Petrol,Manual,1203,0,1203900.0
+Tata,Punch,2014,121694,Petrol,Automatic,1199,1,219100.0
+Maruti Suzuki,WagonR,2023,11185,CNG,Manual,1092,0,271300.0
+Maruti Suzuki,Vitara Brezza,2019,87878,Petrol,Automatic,1484,1,461400.0
+Hyundai,Creta,2015,125395,Petrol,Automatic,1543,2,417800.0
+Hyundai,Creta,2010,156221,Diesel,Automatic,1519,2,258600.0
+Kia,Seltos,2006,179878,Diesel,Manual,1357,3,168000.0
+Volkswagen,Polo,2016,63855,Petrol,Automatic,1137,2,174900.0
+Maruti Suzuki,Vitara Brezza,2007,177038,Diesel,Manual,1489,3,155900.0
+Audi,Q3,2009,214522,Petrol,Automatic,1747,4,771300.0
+Tata,Nexon,2011,171678,Petrol,Automatic,1350,0,197300.0
+Tata,Harrier,2009,161240,Diesel,Automatic,1956,2,299600.0
+Hyundai,i20,2008,304901,Petrol,Manual,1239,3,150300.0
+Skoda,Kushaq,2006,106852,Petrol,Automatic,1445,3,222100.0
+Audi,Q3,2005,253576,Petrol,Automatic,1769,3,553300.0
+Tata,Nexon,2016,120673,Diesel,Automatic,1323,1,182400.0
+Kia,Sonet,2006,300672,Diesel,Automatic,1132,2,122900.0
+Toyota,Fortuner,2013,129065,Petrol,Automatic,2728,2,923100.0
+Audi,A4,2005,260696,Diesel,Automatic,1643,4,566600.0
+Maruti Suzuki,Alto,2016,99078,Petrol,Manual,890,2,94600.0
+Maruti Suzuki,Alto,2010,150537,Petrol,Manual,906,1,50000
+BMW,3 Series,2022,20930,Petrol,Automatic,2388,0,2202000.0
+Tata,Altroz,2021,51740,Petrol,Automatic,1278,1,413400.0
+BMW,3 Series,2010,183822,Petrol,Automatic,2053,3,788800.0
+Maruti Suzuki,Alto,2006,283903,Petrol,Manual,828,3,50000
+Skoda,Kushaq,2017,83268,Petrol,Automatic,1181,2,446100.0
+Kia,Sonet,2021,24147,Petrol,Manual,1296,0,681700.0
+Maruti Suzuki,Vitara Brezza,2020,32944,Petrol,Manual,1488,0,421300.0
+Maruti Suzuki,Baleno,2009,148584,Petrol,Manual,1197,3,116600.0
+Kia,Sonet,2008,126452,Petrol,Automatic,1449,2,179000.0
+Hyundai,Venue,2007,320534,Petrol,Automatic,1462,2,187700.0
+Toyota,Innova Crysta,2023,12393,Diesel,Automatic,2592,0,2107700.0
+Mahindra,Scorpio,2018,88782,Diesel,Automatic,2180,1,607100.0
+Maruti Suzuki,Alto,2007,172979,CNG,Manual,926,3,50000
+Tata,Punch,2008,252703,Petrol,Manual,1199,3,143200.0
+Mahindra,XUV700,2013,113332,Petrol,Manual,2089,1,677700.0
+Hyundai,Venue,2019,53957,Petrol,Automatic,1234,0,383900.0
+Skoda,Kushaq,2016,119375,Petrol,Manual,1473,2,344900.0
+Maruti Suzuki,Swift,2011,193152,Petrol,Manual,1197,2,186200.0
+Mahindra,Thar,2010,162989,Petrol,Manual,1648,2,309700.0
+Maruti Suzuki,Vitara Brezza,2021,30263,Petrol,Automatic,1464,0,566300.0
+Ford,EcoSport,2022,37987,Petrol,Automatic,1497,0,449400.0
+Honda,Amaze,2011,165123,Diesel,Automatic,1443,2,231600.0
+Mahindra,Thar,2010,145635,Diesel,Manual,1883,3,383000.0
+Hyundai,Grand i10,2005,135241,CNG,Manual,1105,3,50000
+Maruti Suzuki,Swift,2023,12737,Petrol,Automatic,1197,0,500800.0
+Maruti Suzuki,Swift,2010,75816,Petrol,Manual,1197,3,107600.0
+BMW,3 Series,2024,500,Petrol,Automatic,2815,0,4529700.0
+Mercedes-Benz,GLA,2012,185144,Diesel,Automatic,1692,1,941900.0
+Kia,Sonet,2019,62254,Diesel,Automatic,1286,0,520300.0
+Skoda,Kushaq,2007,316888,Petrol,Automatic,1452,2,252700.0
+Skoda,Slavia,2016,57193,Petrol,Manual,1187,2,377900.0
+Mahindra,Scorpio,2018,72431,Diesel,Automatic,2181,2,901000.0
+Honda,City,2023,12741,Petrol,Automatic,1498,0,906500.0
+Audi,Q3,2006,275119,Petrol,Automatic,1624,2,613200.0
+Volkswagen,Polo,2023,13080,Petrol,Automatic,1119,0,370400.0
+Toyota,Glanza,2024,500,Petrol,Manual,1197,0,619800.0
+Hyundai,Grand i10,2017,99080,Petrol,Manual,1128,1,206500.0
+Tata,Altroz,2022,19366,Petrol,Automatic,1383,0,377900.0
+Tata,Nexon,2009,164939,Petrol,Automatic,1279,2,159500.0
+Toyota,Innova Crysta,2007,258267,Diesel,Manual,2471,3,247400.0
+Maruti Suzuki,Alto,2015,138890,Petrol,Manual,830,2,55900.0
+Skoda,Kushaq,2020,78281,Petrol,Manual,1396,0,710700.0
+Tata,Harrier,2012,78657,Diesel,Automatic,1956,1,570000.0
+Kia,Seltos,2013,180898,Petrol,Automatic,1458,2,440500.0
+Hyundai,Venue,2009,213455,Diesel,Manual,1090,2,212800.0
+Mercedes-Benz,C-Class,2016,127278,Petrol,Automatic,2923,2,1830100.0
+Honda,Amaze,2008,175508,Diesel,Manual,1361,2,100100.0
+Audi,A4,2014,123556,Petrol,Automatic,1691,2,1170600.0
+Tata,Punch,2024,500,Petrol,Automatic,1199,0,715100.0
+Mahindra,XUV700,2010,288468,Diesel,Manual,2065,1,275600.0
+Mahindra,XUV700,2018,69901,Diesel,Automatic,2056,1,967500.0
+Mercedes-Benz,C-Class,2011,174034,Petrol,Automatic,1694,2,1218300.0
+Volkswagen,Taigun,2014,55597,Petrol,Automatic,1204,2,481700.0
+Skoda,Kushaq,2015,128230,Petrol,Manual,1424,1,368600.0
+Tata,Nexon,2005,284732,Petrol,Manual,1292,3,85300.0
+Audi,Q3,2018,83050,Petrol,Automatic,1619,1,1418400.0
+Maruti Suzuki,Baleno,2012,263979,Petrol,Manual,1197,1,163400.0
+Tata,Harrier,2011,187348,Diesel,Manual,1956,1,419000.0
+Hyundai,Venue,2010,259072,Petrol,Manual,1176,3,197200.0
+Toyota,Innova Crysta,2019,85724,Petrol,Manual,2458,0,994500.0
+BMW,X1,2009,194750,Petrol,Automatic,1865,3,820100.0
+Maruti Suzuki,Swift,2009,207630,Petrol,Automatic,1197,3,131500.0
+Skoda,Slavia,2023,20930,Petrol,Manual,1203,0,688300.0
+Honda,Amaze,2024,500,Diesel,Automatic,1204,0,441700.0
+Maruti Suzuki,Baleno,2019,39630,Petrol,Automatic,1197,0,320700.0
+Maruti Suzuki,Alto,2020,58932,Petrol,Manual,880,0,173400.0
+Honda,City,2016,41880,Petrol,Manual,1498,1,383400.0
+Mahindra,Thar,2022,29803,Diesel,Automatic,1596,0,1050400.0
+Maruti Suzuki,Swift,2018,32144,Petrol,Automatic,1197,2,243700.0
+Maruti Suzuki,Baleno,2015,140511,Petrol,Automatic,1197,3,193700.0
+Tata,Nexon,2012,186162,Petrol,Manual,1368,1,250400.0
+BMW,X1,2015,95471,Petrol,Automatic,1646,2,1525700.0
+Skoda,Slavia,2013,205652,Petrol,Manual,1216,3,336200.0
+Maruti Suzuki,Vitara Brezza,2015,81549,Diesel,Manual,1465,1,291100.0
+Skoda,Slavia,2014,167931,Petrol,Automatic,1296,1,274600.0
+Tata,Nexon,2020,66981,Diesel,Manual,1461,1,305300.0
+Maruti Suzuki,WagonR,2019,60288,CNG,Manual,1029,2,254400.0
+Mahindra,Thar,2014,162894,Diesel,Automatic,1689,0,398000.0
+Maruti Suzuki,Swift,2022,37051,Petrol,Manual,1197,0,408700.0
+Mahindra,Scorpio,2007,308130,Diesel,Manual,2184,3,235700.0
+Maruti Suzuki,Dzire,2019,85208,Petrol,Manual,1197,0,296300.0
+Skoda,Kushaq,2015,161279,Petrol,Automatic,1006,2,297000.0
+Volkswagen,Taigun,2012,299826,Petrol,Manual,1294,2,319800.0
+Hyundai,Venue,2011,190123,Diesel,Automatic,1297,1,234700.0
+BMW,3 Series,2015,86110,Diesel,Automatic,2659,2,1580500.0
+Maruti Suzuki,WagonR,2017,72690,CNG,Automatic,1050,0,158100.0
+Volkswagen,Taigun,2014,174160,Petrol,Automatic,1323,2,254800.0
+BMW,3 Series,2005,208504,Diesel,Automatic,2465,2,602100.0
+Audi,A4,2011,85793,Petrol,Automatic,1897,3,919900.0
+Ford,EcoSport,2010,234647,Diesel,Manual,1497,3,176800.0
+Hyundai,i20,2011,229414,Diesel,Automatic,1214,1,186500.0
+Mahindra,Thar,2010,166409,Petrol,Automatic,1520,3,203800.0
+Hyundai,Verna,2022,11958,Diesel,Automatic,1527,0,723500.0
+Skoda,Slavia,2017,110283,Petrol,Automatic,1076,0,332100.0
+Maruti Suzuki,Dzire,2017,109942,Petrol,Manual,1197,1,237800.0
+Honda,City,2007,262143,Diesel,Automatic,1497,2,109900.0
+Kia,Sonet,2008,167273,Diesel,Manual,1093,3,143700.0
+Hyundai,Creta,2007,151029,Petrol,Automatic,1515,3,286300.0
+Audi,Q3,2016,118558,Petrol,Automatic,1671,2,1087500.0
+Toyota,Fortuner,2022,37015,Diesel,Automatic,2724,1,1907300.0
+Honda,Amaze,2022,26110,Petrol,Manual,1423,0,291600.0
+Volkswagen,Taigun,2017,144549,Petrol,Manual,1024,1,493700.0
+Toyota,Innova Crysta,2010,108226,Diesel,Manual,2651,0,524300.0
+Mercedes-Benz,GLA,2017,85475,Diesel,Automatic,1630,1,1583100.0
+Hyundai,Venue,2020,60897,Petrol,Manual,1348,0,606800.0
+Kia,Sonet,2022,25313,Petrol,Automatic,1151,1,663600.0
+Mercedes-Benz,C-Class,2018,78302,Diesel,Automatic,2006,0,2364600.0
+Hyundai,Venue,2005,233790,Diesel,Manual,1496,4,79100.0
+Hyundai,Creta,2014,57684,Petrol,Automatic,1573,0,568800.0
+Tata,Harrier,2005,163227,Diesel,Automatic,1956,1,216200.0
+Tata,Nexon,2018,48211,Petrol,Manual,1489,0,274000.0
+Honda,Amaze,2014,143486,Diesel,Automatic,1222,2,178700.0
+Mahindra,Thar,2018,73942,Diesel,Manual,1999,1,826500.0
+Kia,Sonet,2009,124728,Diesel,Automatic,1485,4,310100.0
+Hyundai,Creta,2011,108979,Petrol,Automatic,1531,3,409000.0
+Maruti Suzuki,Vitara Brezza,2011,229334,Petrol,Manual,1493,1,132100.0
+Hyundai,i20,2007,226423,Petrol,Manual,1290,3,106500.0
+Tata,Punch,2007,200498,Petrol,Automatic,1199,3,114600.0
+Toyota,Fortuner,2016,71947,Diesel,Automatic,2749,1,821500.0
+Skoda,Slavia,2008,162196,Petrol,Manual,1238,4,204500.0
+Audi,Q3,2019,50639,Petrol,Automatic,1755,1,1400500.0
+Hyundai,Grand i10,2017,141991,Diesel,Manual,1187,0,156600.0
+Kia,Seltos,2006,226283,Petrol,Manual,1435,4,285100.0
+Maruti Suzuki,Alto,2018,133539,CNG,Manual,985,1,129000.0
+Honda,City,2014,114404,Petrol,Automatic,1497,2,213900.0
+Mahindra,XUV700,2007,346199,Petrol,Manual,2136,3,217100.0
+Maruti Suzuki,Baleno,2008,130902,Petrol,Manual,1197,3,98900.0
+Mahindra,XUV700,2006,201379,Diesel,Manual,2095,2,258600.0
+Hyundai,Creta,2020,46076,Petrol,Automatic,1561,1,924800.0
+Maruti Suzuki,Dzire,2013,78164,CNG,Automatic,1197,3,234100.0
+Mercedes-Benz,C-Class,2015,98668,Diesel,Automatic,2951,1,1357700.0
+Tata,Nexon,2008,188509,Petrol,Manual,1445,3,195200.0
+Tata,Nexon,2018,128391,Petrol,Manual,1291,0,213300.0
+Skoda,Slavia,2007,331312,Petrol,Manual,1411,2,283900.0
+Mahindra,XUV700,2016,117041,Diesel,Manual,2037,2,690900.0
+Maruti Suzuki,Dzire,2009,265251,CNG,Automatic,1197,1,149800.0
+Hyundai,i20,2010,171792,Petrol,Manual,1281,3,155800.0
+Mahindra,Scorpio,2024,500,Diesel,Manual,2179,0,1568500.0
+Audi,Q3,2012,174064,Diesel,Automatic,1593,3,704400.0
+Ford,EcoSport,2008,131351,Diesel,Manual,1497,2,160700.0
+Volkswagen,Taigun,2009,270403,Petrol,Automatic,1162,3,195500.0
+Mahindra,Scorpio,2008,152819,Diesel,Manual,2181,3,297300.0
+Hyundai,Grand i10,2005,299662,CNG,Manual,1180,3,63400.0
+Tata,Punch,2020,37724,Petrol,Automatic,1199,1,319200.0
+Mahindra,XUV700,2017,78697,Diesel,Manual,2146,2,517100.0
+Tata,Nexon,2010,77279,Diesel,Manual,1327,4,190000.0
+Kia,Seltos,2007,341178,Diesel,Manual,1400,2,213500.0
+Maruti Suzuki,Baleno,2017,91989,Petrol,Automatic,1197,1,209800.0
+Toyota,Innova Crysta,2018,80256,Diesel,Manual,2620,0,942200.0
+Volkswagen,Taigun,2011,114011,Petrol,Manual,1479,2,234400.0
+Volkswagen,Taigun,2015,87555,Petrol,Automatic,1166,3,438600.0
+Maruti Suzuki,WagonR,2013,141632,CNG,Manual,1054,1,139600.0
+Volkswagen,Taigun,2005,164690,Petrol,Manual,1333,4,143400.0
+Mercedes-Benz,GLA,2019,40524,Diesel,Automatic,1549,0,1834700.0
+Audi,Q3,2007,252101,Petrol,Automatic,1699,4,485900.0
+Toyota,Innova Crysta,2005,271632,Diesel,Manual,2501,3,415900.0
+Tata,Altroz,2024,500,Diesel,Manual,1462,0,924100.0
+Mahindra,XUV700,2009,194659,Petrol,Automatic,2143,2,397600.0
+Mercedes-Benz,C-Class,2008,199064,Petrol,Automatic,2500,2,1114700.0
+Mahindra,XUV700,2014,169321,Diesel,Manual,2025,1,315100.0
+Maruti Suzuki,Dzire,2022,18310,Petrol,Manual,1197,0,445800.0
+Tata,Harrier,2008,254893,Diesel,Automatic,1956,3,373800.0
+Hyundai,Venue,2010,227796,Petrol,Automatic,1279,4,242900.0
+Hyundai,Grand i10,2017,43595,Petrol,Manual,1137,1,116100.0
+Tata,Altroz,2013,207269,Diesel,Automatic,1293,2,202500.0
+Kia,Seltos,2022,26106,Petrol,Manual,1399,0,863100.0
+Toyota,Fortuner,2009,124041,Petrol,Automatic,2714,3,662200.0
+BMW,X1,2017,74451,Petrol,Automatic,1640,1,1341700.0
+Tata,Nexon,2010,255627,Petrol,Manual,1330,3,163400.0
+Audi,Q3,2022,40888,Petrol,Automatic,1723,0,2392900.0
+Honda,City,2021,47855,Diesel,Manual,1497,1,715300.0
+Hyundai,Creta,2005,143622,Diesel,Manual,1500,4,277800.0
+Mahindra,XUV700,2009,256013,Diesel,Automatic,2037,3,356600.0
+Maruti Suzuki,Baleno,2005,174771,Petrol,Automatic,1197,3,84800.0
+Maruti Suzuki,Dzire,2011,92281,CNG,Automatic,1197,3,186600.0
+Tata,Nexon,2019,66011,Diesel,Automatic,1339,1,458100.0
+BMW,3 Series,2024,500,Diesel,Automatic,2076,0,4858300.0
+Maruti Suzuki,Vitara Brezza,2022,31100,Diesel,Manual,1472,0,660100.0
+Mahindra,Thar,2019,50118,Petrol,Manual,1825,1,747200.0
+Maruti Suzuki,Alto,2023,15801,Petrol,Manual,798,0,186200.0
+Honda,City,2022,19220,Petrol,Manual,1497,0,779800.0
+Honda,City,2005,298394,Diesel,Automatic,1498,4,156100.0
+Maruti Suzuki,Baleno,2024,500,Petrol,Manual,1197,0,746400.0
+Toyota,Fortuner,2011,168470,Petrol,Manual,2699,2,682400.0
+BMW,3 Series,2013,139159,Diesel,Automatic,2370,2,1458400.0
+BMW,X1,2018,52441,Diesel,Automatic,1566,0,2017900.0
+Tata,Altroz,2015,72847,Diesel,Automatic,1223,0,171800.0
+Tata,Altroz,2006,237775,Petrol,Manual,1283,3,120100.0
+Toyota,Innova Crysta,2014,234604,Petrol,Manual,2556,2,424100.0
+Ford,EcoSport,2024,500,Diesel,Manual,1497,0,714200.0
+Volkswagen,Polo,2014,158372,Petrol,Automatic,1034,2,153600.0
+Maruti Suzuki,Vitara Brezza,2015,86446,Diesel,Automatic,1468,0,253500.0
+Skoda,Slavia,2019,52996,Petrol,Automatic,1369,0,856700.0
+Tata,Altroz,2008,215255,Diesel,Automatic,1397,4,149700.0
+Tata,Altroz,2011,101702,Petrol,Manual,1444,1,230800.0
+Hyundai,Verna,2009,93258,Petrol,Automatic,1580,2,185800.0
+Mahindra,Scorpio,2017,83376,Diesel,Automatic,2180,1,552500.0
+Hyundai,Venue,2009,150637,Petrol,Automatic,1318,2,215100.0
+Maruti Suzuki,Baleno,2009,197442,Petrol,Automatic,1197,3,159800.0
+Honda,Amaze,2023,12481,Diesel,Manual,1343,0,423000.0
+BMW,X1,2024,500,Diesel,Automatic,1630,0,3574800.0
+Tata,Altroz,2014,81058,Petrol,Automatic,1422,1,203700.0
+Honda,Amaze,2010,204443,Petrol,Manual,1236,0,212700.0
+Hyundai,Venue,2021,56895,Petrol,Manual,1228,1,676900.0
+Tata,Punch,2014,187618,Petrol,Automatic,1199,2,197100.0
+Skoda,Kushaq,2008,179641,Petrol,Manual,1201,4,201400.0
+Maruti Suzuki,Alto,2021,39969,Petrol,Manual,894,1,179600.0
+Volkswagen,Polo,2015,63421,Petrol,Automatic,1064,3,187800.0
+Mahindra,XUV700,2007,161400,Diesel,Manual,2183,2,236900.0
+Maruti Suzuki,WagonR,2020,51971,CNG,Automatic,1145,0,176000.0
+Kia,Sonet,2005,283292,Diesel,Automatic,1258,4,208300.0
+Skoda,Slavia,2006,142900,Petrol,Automatic,1077,3,234500.0
+Volkswagen,Polo,2012,177730,Petrol,Manual,1164,1,168100.0
+Maruti Suzuki,Vitara Brezza,2007,275260,Diesel,Manual,1495,4,178800.0
+Volkswagen,Taigun,2022,19773,Petrol,Automatic,1445,1,968600.0
+Skoda,Kushaq,2015,109468,Petrol,Automatic,1159,3,512800.0
+Kia,Sonet,2022,22985,Petrol,Automatic,1421,1,598400.0
+BMW,3 Series,2012,195550,Diesel,Automatic,2152,2,1290000.0
+Maruti Suzuki,Alto,2024,500,CNG,Manual,979,0,155500.0
+Audi,Q3,2024,500,Petrol,Automatic,1961,0,4074800.0
+Maruti Suzuki,Baleno,2018,82995,Petrol,Automatic,1197,0,320900.0
+Honda,City,2008,183596,Petrol,Manual,1497,2,236100.0
+Hyundai,i20,2006,186413,Petrol,Manual,1362,2,155700.0
+Toyota,Fortuner,2018,122672,Petrol,Manual,2746,1,896200.0
+Hyundai,Verna,2008,239165,Petrol,Automatic,1526,2,216800.0
+Skoda,Slavia,2017,128399,Petrol,Automatic,1148,0,410600.0
+Maruti Suzuki,Alto,2021,26433,Petrol,Manual,815,1,186400.0
+Toyota,Glanza,2006,255887,Petrol,Automatic,1197,2,138000.0
+Kia,Sonet,2024,500,Diesel,Automatic,1061,0,902000.0
+Ford,EcoSport,2006,226744,Petrol,Automatic,1497,3,153100.0
+Mahindra,Thar,2017,92224,Petrol,Automatic,1808,1,502000.0
+Kia,Sonet,2010,152174,Diesel,Automatic,1296,1,209600.0
+Ford,EcoSport,2022,26275,Diesel,Manual,1497,0,355700.0
+Kia,Sonet,2020,54444,Petrol,Automatic,1349,1,352600.0
+Maruti Suzuki,Alto,2015,90706,CNG,Manual,945,2,76500.0
+Maruti Suzuki,Vitara Brezza,2013,122325,Diesel,Manual,1466,1,195900.0
+Hyundai,Venue,2007,324447,Diesel,Manual,1123,3,105400.0
+Mahindra,XUV700,2023,12325,Petrol,Automatic,2078,1,1143100.0
+Hyundai,Creta,2015,137578,Diesel,Manual,1501,2,378900.0
+Hyundai,i20,2016,88987,Petrol,Manual,1286,1,209800.0
+Toyota,Glanza,2010,184022,Petrol,Automatic,1197,2,137700.0
+Maruti Suzuki,Vitara Brezza,2017,123297,Diesel,Manual,1486,1,344600.0
+Tata,Harrier,2010,232081,Diesel,Automatic,1956,2,549500.0
+Hyundai,Venue,2020,27098,Diesel,Manual,1171,0,707400.0
+Toyota,Fortuner,2018,81965,Diesel,Automatic,2726,1,1043000.0
+Maruti Suzuki,WagonR,2012,129539,CNG,Manual,1088,1,129000.0
+Maruti Suzuki,Swift,2023,7919,Petrol,Automatic,1197,1,626500.0
+Skoda,Kushaq,2013,136643,Petrol,Manual,1164,3,289500.0
+Mercedes-Benz,C-Class,2018,100657,Petrol,Automatic,1867,1,1690800.0
+Kia,Sonet,2023,5838,Petrol,Manual,1177,0,828400.0
+Tata,Punch,2013,124408,Petrol,Manual,1199,1,215400.0
+Tata,Altroz,2022,12967,Petrol,Manual,1327,1,471600.0
+Toyota,Glanza,2021,65270,Petrol,Manual,1197,0,364200.0
+Maruti Suzuki,WagonR,2009,204531,Petrol,Manual,1072,3,88500.0
+Maruti Suzuki,Vitara Brezza,2009,153573,Diesel,Manual,1475,2,140800.0
+Volkswagen,Taigun,2017,115652,Petrol,Automatic,1250,1,503500.0
+Hyundai,Grand i10,2007,134602,Diesel,Manual,1092,3,79900.0
+Audi,A4,2017,103503,Diesel,Automatic,1831,0,1195800.0
+Hyundai,Venue,2007,190566,Petrol,Automatic,1324,2,161000.0
+Maruti Suzuki,Alto,2022,23068,Petrol,Manual,900,0,217400.0
+Tata,Punch,2010,112903,Petrol,Manual,1199,4,123800.0
+Kia,Seltos,2016,85595,Petrol,Manual,1416,2,381900.0
+Kia,Seltos,2021,22321,Diesel,Manual,1471,0,1011800.0
+Mahindra,Scorpio,2024,500,Diesel,Automatic,2179,0,1704200.0
+Skoda,Slavia,2006,130713,Petrol,Manual,1280,4,190600.0
+Ford,EcoSport,2022,36326,Petrol,Automatic,1498,1,587600.0
+Maruti Suzuki,Alto,2006,205789,CNG,Manual,941,2,50000
+Toyota,Innova Crysta,2024,500,Petrol,Automatic,2597,0,1780700.0
+Mahindra,XUV700,2010,199749,Petrol,Automatic,2169,2,443100.0
+Kia,Sonet,2010,189094,Petrol,Manual,1140,2,143800.0
+Maruti Suzuki,Vitara Brezza,2020,69907,Diesel,Manual,1468,2,393000.0
+Honda,City,2024,500,Petrol,Automatic,1498,0,748600.0
+Tata,Altroz,2021,22065,Petrol,Manual,1279,0,489400.0
+Maruti Suzuki,Dzire,2011,201062,Petrol,Manual,1197,1,147500.0
+Hyundai,Venue,2016,65591,Petrol,Manual,1144,1,304000.0
+Skoda,Kushaq,2014,104258,Petrol,Manual,1313,0,444700.0
+Maruti Suzuki,Vitara Brezza,2006,298198,Diesel,Automatic,1497,2,170900.0
+Tata,Harrier,2014,113861,Diesel,Manual,1956,2,660500.0
+Kia,Sonet,2020,78547,Diesel,Manual,1062,1,373200.0
+Mahindra,Scorpio,2008,188091,Diesel,Manual,2179,3,238400.0
+BMW,3 Series,2019,68357,Diesel,Automatic,2539,0,1949100.0
+Volkswagen,Polo,2017,157434,Petrol,Automatic,1082,1,287600.0
+Toyota,Innova Crysta,2023,8246,Petrol,Manual,2460,0,1856300.0
+Tata,Punch,2022,13441,Petrol,Automatic,1199,0,501000.0
+Maruti Suzuki,Dzire,2012,141528,CNG,Manual,1197,3,146100.0
+Skoda,Kushaq,2018,79109,Petrol,Automatic,1099,2,614900.0
+Mercedes-Benz,GLA,2017,103615,Diesel,Automatic,1461,0,1848400.0
+Maruti Suzuki,Vitara Brezza,2015,118654,Petrol,Automatic,1462,1,347200.0
+Kia,Seltos,2008,179165,Petrol,Manual,1372,4,158800.0
+Maruti Suzuki,WagonR,2021,23819,Petrol,Automatic,1046,0,231300.0
+Mahindra,XUV700,2008,325367,Diesel,Automatic,2111,2,348900.0
+Kia,Sonet,2021,38374,Diesel,Automatic,1294,0,735100.0
+Mahindra,Thar,2015,159341,Petrol,Automatic,1929,2,392400.0
+Maruti Suzuki,WagonR,2018,100641,CNG,Automatic,1106,1,203900.0
+Mahindra,XUV700,2006,164793,Petrol,Automatic,2178,3,466000.0
+Hyundai,Grand i10,2015,104966,Petrol,Manual,1103,0,107500.0
+Maruti Suzuki,Dzire,2020,46012,CNG,Automatic,1197,0,466100.0
+Volkswagen,Taigun,2019,61349,Petrol,Automatic,1205,0,590900.0
+Toyota,Fortuner,2016,109841,Petrol,Automatic,2737,0,1210000.0
+Maruti Suzuki,Dzire,2023,6575,Petrol,Automatic,1197,0,511300.0
+Maruti Suzuki,Alto,2017,100631,Petrol,Manual,830,1,132000.0
+Mahindra,Thar,2010,113063,Diesel,Manual,2111,1,488700.0
+Hyundai,Venue,2015,142698,Diesel,Automatic,1273,2,287600.0
+Kia,Sonet,2023,8793,Petrol,Automatic,1042,0,606600.0
+Tata,Punch,2011,199785,Petrol,Automatic,1199,3,177200.0
+Tata,Harrier,2015,198527,Diesel,Automatic,1956,1,572600.0
+Volkswagen,Taigun,2023,15867,Petrol,Automatic,1435,0,1394300.0
+Tata,Harrier,2016,184468,Diesel,Manual,1956,0,343400.0
+Volkswagen,Polo,2008,292841,Petrol,Manual,1192,2,127900.0
+Hyundai,Verna,2018,92711,Petrol,Automatic,1552,1,529500.0
+Audi,A4,2023,13935,Petrol,Automatic,1693,0,2633700.0
+Skoda,Slavia,2024,500,Petrol,Automatic,1164,1,1453600.0
+Maruti Suzuki,Swift,2019,64305,Petrol,Automatic,1197,1,324900.0
+Ford,EcoSport,2007,213632,Diesel,Manual,1498,3,91000.0
+Mercedes-Benz,C-Class,2013,125606,Diesel,Automatic,2506,2,1777600.0
+Hyundai,Creta,2018,49791,Diesel,Manual,1546,1,465200.0
+Toyota,Innova Crysta,2018,77851,Diesel,Automatic,2581,0,1134300.0
+Audi,Q3,2011,161864,Diesel,Automatic,1921,2,1221700.0
+Toyota,Fortuner,2018,113226,Petrol,Manual,2743,0,1533500.0
+Toyota,Glanza,2006,236556,Petrol,Manual,1197,3,126000.0
+Mahindra,Scorpio,2006,210819,Diesel,Manual,2181,4,224000.0
+Mahindra,Thar,2017,72564,Petrol,Automatic,1667,0,564200.0
+Mahindra,Thar,2007,230265,Diesel,Automatic,1847,3,203000.0
+Hyundai,Creta,2016,140407,Petrol,Automatic,1557,1,468400.0
+Tata,Harrier,2005,301280,Diesel,Automatic,1956,2,299900.0
+Maruti Suzuki,Vitara Brezza,2009,228926,Diesel,Manual,1465,3,106300.0
+Toyota,Glanza,2012,147450,Petrol,Automatic,1197,3,170000.0
+Skoda,Kushaq,2008,171132,Petrol,Manual,1259,2,293200.0
+Maruti Suzuki,Vitara Brezza,2013,117372,Diesel,Manual,1465,1,172800.0
+Skoda,Kushaq,2006,136083,Petrol,Manual,1120,3,184900.0
+Hyundai,Verna,2012,226628,Petrol,Manual,1509,1,193700.0
+BMW,3 Series,2005,356192,Petrol,Automatic,2612,3,677500.0
+Maruti Suzuki,Vitara Brezza,2013,143698,Diesel,Automatic,1485,1,234900.0
+Mahindra,Thar,2017,133586,Diesel,Manual,1634,0,347800.0
+Toyota,Fortuner,2014,188503,Diesel,Manual,2713,2,574400.0
+Audi,A4,2013,108412,Diesel,Automatic,1820,2,1253700.0
+Mahindra,Thar,2008,169552,Petrol,Manual,2105,3,139400.0
+Maruti Suzuki,Dzire,2021,55785,CNG,Automatic,1197,1,290000.0
+Toyota,Innova Crysta,2016,156784,Diesel,Automatic,2606,0,788700.0
+Hyundai,i20,2016,154037,Petrol,Automatic,1384,1,161900.0
+Mercedes-Benz,GLA,2011,106721,Petrol,Automatic,1448,1,851700.0
+Maruti Suzuki,Dzire,2024,500,Petrol,Automatic,1197,0,647400.0
+Honda,City,2013,137810,Petrol,Manual,1498,3,234600.0
+Honda,Amaze,2008,204819,Diesel,Automatic,1290,3,144300.0
+Toyota,Glanza,2013,98468,Petrol,Automatic,1197,2,211800.0
+Tata,Punch,2020,28511,Petrol,Automatic,1199,0,454600.0
+Mercedes-Benz,GLA,2012,157058,Petrol,Automatic,1753,1,812900.0
+Toyota,Glanza,2007,191597,Petrol,Automatic,1197,2,142200.0
+Maruti Suzuki,WagonR,2017,101279,Petrol,Manual,1079,1,118300.0
+Tata,Nexon,2012,182868,Petrol,Automatic,1318,2,141200.0
+Toyota,Glanza,2011,183526,Petrol,Manual,1197,2,169200.0
+Mahindra,Scorpio,2022,41275,Diesel,Automatic,2180,1,1422100.0
+Volkswagen,Taigun,2015,108713,Petrol,Automatic,1106,1,505200.0
+Toyota,Fortuner,2018,86628,Diesel,Automatic,2727,0,1415200.0
+Skoda,Kushaq,2011,174257,Petrol,Manual,1012,2,410400.0
+Tata,Nexon,2016,128315,Petrol,Automatic,1305,0,485100.0
+Honda,Amaze,2020,71917,Petrol,Automatic,1235,2,559100.0
+Honda,City,2010,257748,Diesel,Automatic,1498,2,175900.0
+Tata,Altroz,2016,110419,Petrol,Automatic,1456,3,280200.0
+Tata,Altroz,2024,500,Diesel,Automatic,1459,0,690400.0
+Volkswagen,Polo,2006,360866,Petrol,Automatic,1181,3,157600.0
+Honda,City,2023,17649,Diesel,Automatic,1497,0,731900.0
+Volkswagen,Polo,2013,71123,Petrol,Automatic,1005,2,237800.0
+Maruti Suzuki,Baleno,2016,102927,Petrol,Manual,1197,1,204300.0
+Volkswagen,Polo,2005,132103,Petrol,Manual,1160,3,83200.0
+Toyota,Innova Crysta,2014,127115,Diesel,Automatic,2432,1,707500.0
+Ford,EcoSport,2021,22437,Diesel,Automatic,1497,0,372100.0
+Maruti Suzuki,Swift,2012,188679,Petrol,Automatic,1197,2,87600.0
+Tata,Punch,2008,177905,Petrol,Automatic,1199,3,155300.0
+Hyundai,Venue,2013,199020,Diesel,Automatic,1098,1,238900.0
+Audi,Q3,2021,26534,Diesel,Automatic,1764,0,1933900.0
+Maruti Suzuki,Vitara Brezza,2022,22758,Petrol,Manual,1474,0,403300.0
+Kia,Seltos,2023,7138,Diesel,Manual,1366,0,893400.0
+Maruti Suzuki,Vitara Brezza,2011,104818,Diesel,Automatic,1467,3,144800.0
+Volkswagen,Taigun,2014,122156,Petrol,Automatic,1165,1,412900.0
+Hyundai,i20,2005,224159,Diesel,Automatic,1244,4,136100.0
+Maruti Suzuki,Vitara Brezza,2023,8375,Petrol,Manual,1484,0,769300.0
+BMW,X1,2019,51190,Petrol,Automatic,1781,1,2272400.0
+Hyundai,Grand i10,2014,100989,Petrol,Manual,1097,2,134400.0
+Tata,Nexon,2016,135332,Diesel,Manual,1413,1,298000.0
+Maruti Suzuki,Baleno,2016,149981,Petrol,Automatic,1197,3,196200.0
+Maruti Suzuki,Dzire,2023,10955,CNG,Manual,1197,1,564600.0
+Toyota,Innova Crysta,2024,500,Diesel,Manual,2688,0,1317800.0
+Mercedes-Benz,GLA,2010,201842,Diesel,Automatic,1905,3,541700.0
+Mercedes-Benz,GLA,2017,78554,Diesel,Automatic,1671,1,1236000.0
+Hyundai,Venue,2006,359730,Petrol,Automatic,1105,2,189700.0
+Hyundai,Verna,2019,41946,Diesel,Automatic,1565,0,710800.0
+Hyundai,Grand i10,2013,115559,CNG,Manual,1140,1,111900.0
+Hyundai,Grand i10,2006,204334,Diesel,Manual,1193,3,50000
+Maruti Suzuki,Alto,2022,10629,Petrol,Manual,872,1,163700.0
+BMW,X1,2013,127991,Petrol,Automatic,1666,0,706300.0
+Toyota,Glanza,2021,38150,Petrol,Manual,1197,0,308800.0
+Mahindra,Thar,2012,113717,Diesel,Manual,2067,0,371300.0
+Mahindra,Scorpio,2021,26222,Diesel,Manual,2183,0,882900.0
+Hyundai,i20,2010,279246,Diesel,Automatic,1474,3,206100.0
+BMW,X1,2018,76500,Petrol,Automatic,1939,1,1562600.0
+Skoda,Slavia,2006,123182,Petrol,Manual,1025,3,177400.0
+Ford,EcoSport,2011,123262,Diesel,Automatic,1498,3,278300.0
+Hyundai,Grand i10,2012,164622,Petrol,Manual,1107,1,120400.0
+Toyota,Fortuner,2015,136325,Petrol,Automatic,2739,3,1001100.0
+Skoda,Kushaq,2023,13159,Petrol,Automatic,1234,0,933200.0
+Hyundai,i20,2016,174507,Diesel,Manual,1253,1,271000.0
+BMW,X1,2009,258923,Petrol,Automatic,1564,4,606800.0
+Volkswagen,Polo,2013,249097,Petrol,Manual,1176,2,264300.0
+Volkswagen,Polo,2013,71539,Petrol,Automatic,1150,3,218400.0
+Hyundai,i20,2024,500,Diesel,Manual,1367,0,849800.0
+Kia,Seltos,2015,93948,Petrol,Manual,1448,1,290100.0
+Mahindra,Scorpio,2022,22916,Diesel,Manual,2180,0,1254200.0
+BMW,X1,2009,100031,Petrol,Automatic,1694,2,527800.0
+BMW,3 Series,2022,29010,Diesel,Automatic,2992,0,2857400.0
+BMW,X1,2022,42319,Petrol,Automatic,1643,1,1878400.0
+Tata,Harrier,2015,105556,Diesel,Automatic,1956,1,607800.0
+Tata,Harrier,2008,273044,Diesel,Manual,1956,3,247800.0
+Hyundai,Creta,2023,8749,Petrol,Manual,1551,0,791600.0
+Tata,Harrier,2021,29129,Diesel,Automatic,1956,0,1274500.0
+Mahindra,Scorpio,2011,123851,Diesel,Automatic,2183,3,309700.0
+BMW,X1,2016,117869,Petrol,Automatic,1515,0,1524200.0
+Mahindra,XUV700,2017,96902,Petrol,Manual,2111,1,856700.0
+Skoda,Slavia,2020,30187,Petrol,Manual,1326,0,613600.0
+BMW,X1,2005,254503,Diesel,Automatic,1558,4,598100.0
+Skoda,Kushaq,2016,103749,Petrol,Automatic,1343,0,298600.0
+Kia,Sonet,2018,100494,Diesel,Automatic,1003,1,576800.0
+Skoda,Slavia,2006,215849,Petrol,Automatic,1238,3,254200.0
+Tata,Punch,2011,308315,Petrol,Manual,1199,2,193500.0
+Maruti Suzuki,Vitara Brezza,2020,22036,Petrol,Automatic,1477,1,474500.0
+Honda,City,2013,105019,Petrol,Manual,1497,3,254900.0
+Maruti Suzuki,Swift,2023,7445,Petrol,Manual,1197,0,366100.0
+Maruti Suzuki,Vitara Brezza,2011,280800,Diesel,Automatic,1488,2,198900.0
+Tata,Nexon,2005,167644,Petrol,Automatic,1201,2,91700.0
+Maruti Suzuki,Swift,2017,116378,Petrol,Automatic,1197,1,184800.0
+BMW,X1,2022,21196,Petrol,Automatic,1851,1,2283200.0
+Hyundai,Venue,2020,30083,Petrol,Manual,1203,0,517100.0
+BMW,3 Series,2009,135797,Petrol,Automatic,2630,2,783400.0
+Kia,Seltos,2018,85354,Diesel,Manual,1372,0,722200.0
+Toyota,Glanza,2012,195759,Petrol,Automatic,1197,2,150300.0
+Toyota,Glanza,2015,128330,Petrol,Automatic,1197,0,224000.0
+Tata,Harrier,2009,187530,Diesel,Manual,1956,3,412100.0
+Tata,Harrier,2006,198377,Diesel,Manual,1956,3,381100.0
+Honda,City,2020,78273,Diesel,Automatic,1498,1,401500.0
+Honda,City,2006,145632,Diesel,Automatic,1497,2,267400.0
+Kia,Seltos,2014,135211,Diesel,Manual,1403,1,345300.0
+Mercedes-Benz,C-Class,2005,237242,Petrol,Automatic,2000,3,723900.0
+Mahindra,Thar,2023,13696,Diesel,Automatic,1552,1,1133800.0
+Mahindra,Scorpio,2007,330446,Diesel,Automatic,2179,2,183300.0
+Mahindra,XUV700,2017,130695,Diesel,Automatic,2028,1,496500.0
+Kia,Seltos,2009,158846,Diesel,Manual,1433,3,151900.0
+Toyota,Fortuner,2006,224456,Diesel,Manual,2748,3,511700.0
+Kia,Sonet,2022,40519,Diesel,Automatic,1386,0,449200.0
+Audi,Q3,2009,161846,Petrol,Automatic,1853,3,625500.0
+Maruti Suzuki,Vitara Brezza,2013,119176,Diesel,Automatic,1492,1,270700.0
+Skoda,Kushaq,2006,161588,Petrol,Manual,1007,3,201100.0
+Kia,Seltos,2005,237553,Diesel,Automatic,1435,3,209300.0
+Tata,Harrier,2008,338174,Diesel,Automatic,1956,4,291300.0
+Skoda,Slavia,2016,83800,Petrol,Manual,1093,0,643600.0
+Hyundai,Grand i10,2009,245100,Petrol,Manual,1160,2,66900.0
+Audi,A4,2012,147100,Diesel,Automatic,1467,3,778900.0
+Maruti Suzuki,Vitara Brezza,2015,174451,Petrol,Manual,1470,2,208700.0
+Audi,Q3,2015,98033,Petrol,Automatic,1404,1,892500.0
+Mercedes-Benz,C-Class,2005,146026,Diesel,Automatic,1637,4,1045200.0
+Tata,Harrier,2010,280705,Diesel,Automatic,1956,4,197100.0
+Kia,Sonet,2013,139391,Diesel,Manual,1029,2,253000.0
+Maruti Suzuki,Dzire,2007,256943,CNG,Automatic,1197,4,121700.0
+Volkswagen,Taigun,2012,160656,Petrol,Automatic,1115,1,294600.0
+Tata,Nexon,2011,218602,Diesel,Automatic,1377,3,252000.0
+Honda,City,2022,34892,Petrol,Automatic,1498,0,642600.0
+BMW,3 Series,2006,163832,Diesel,Automatic,2957,2,699200.0
+Tata,Harrier,2020,45394,Diesel,Automatic,1956,1,1277900.0
+Tata,Nexon,2006,205711,Diesel,Manual,1202,3,218300.0
+Maruti Suzuki,Dzire,2011,99116,CNG,Automatic,1197,2,154100.0
+Hyundai,Creta,2007,333942,Petrol,Automatic,1524,2,184900.0
+Tata,Harrier,2022,27330,Diesel,Automatic,1956,0,1261200.0
+Honda,Amaze,2015,131604,Diesel,Manual,1294,1,211500.0
+Tata,Harrier,2013,100137,Diesel,Manual,1956,2,475700.0
+Hyundai,Verna,2005,320362,Diesel,Manual,1516,4,114300.0
+Maruti Suzuki,WagonR,2019,71116,Petrol,Automatic,1182,0,158800.0
+Ford,EcoSport,2008,151622,Diesel,Automatic,1497,1,124000.0
+Hyundai,Verna,2016,105744,Diesel,Manual,1551,1,230000.0
+Volkswagen,Taigun,2007,197654,Petrol,Automatic,1166,3,131200.0
+Tata,Punch,2011,174071,Petrol,Manual,1199,1,116600.0
+Tata,Altroz,2013,86990,Petrol,Automatic,1390,2,202900.0
+Mercedes-Benz,GLA,2008,141185,Petrol,Automatic,1634,3,739800.0
+Skoda,Slavia,2016,118641,Petrol,Automatic,1119,3,370100.0
+Volkswagen,Taigun,2022,35136,Petrol,Automatic,1227,0,851700.0
+Maruti Suzuki,Swift,2023,10909,Petrol,Automatic,1197,0,591800.0
+Tata,Harrier,2016,185284,Diesel,Automatic,1956,1,353600.0
+Mahindra,Scorpio,2019,52023,Diesel,Automatic,2180,1,960100.0
+Mahindra,Thar,2011,132670,Petrol,Manual,1616,2,342800.0
+Hyundai,i20,2024,500,Petrol,Manual,1489,0,676800.0
+Ford,EcoSport,2021,57378,Petrol,Manual,1497,0,634800.0
+Audi,Q3,2013,179228,Diesel,Automatic,1954,0,860600.0
+Toyota,Innova Crysta,2017,162501,Petrol,Manual,2624,1,458000.0
+Honda,Amaze,2021,45832,Petrol,Automatic,1495,0,562100.0
+Kia,Seltos,2012,167318,Diesel,Automatic,1482,2,424000.0
+Tata,Punch,2020,67087,Petrol,Manual,1199,0,281200.0
+Mahindra,Scorpio,2006,155268,Diesel,Automatic,2184,3,274400.0
+Kia,Seltos,2009,81645,Diesel,Automatic,1363,3,236300.0
+Maruti Suzuki,Swift,2009,209201,Petrol,Automatic,1197,3,144300.0
+Audi,A4,2009,222667,Diesel,Automatic,1632,4,743100.0
+Hyundai,i20,2019,55960,Diesel,Manual,1418,0,221900.0
+BMW,3 Series,2010,134224,Petrol,Automatic,2389,3,880600.0
+Hyundai,Venue,2013,116327,Petrol,Automatic,1225,2,176900.0
+Maruti Suzuki,Vitara Brezza,2022,23433,Petrol,Automatic,1498,0,472700.0
+Volkswagen,Polo,2019,60963,Petrol,Automatic,1066,2,261800.0
+Audi,A4,2005,278660,Diesel,Automatic,1847,3,742400.0
+Maruti Suzuki,Baleno,2022,20008,Petrol,Automatic,1197,1,402300.0
+Kia,Seltos,2023,12480,Petrol,Manual,1472,0,1088700.0
+Kia,Seltos,2005,189331,Diesel,Manual,1455,4,123000.0
+Kia,Sonet,2014,98348,Diesel,Manual,1329,4,195900.0
+Toyota,Fortuner,2012,81736,Diesel,Manual,2737,3,615500.0
+Skoda,Kushaq,2010,138070,Petrol,Automatic,1424,2,335000.0
+Skoda,Kushaq,2023,17202,Petrol,Automatic,1378,0,936800.0
+Mercedes-Benz,GLA,2007,221588,Diesel,Automatic,1840,2,699500.0
+Hyundai,i20,2006,266380,Petrol,Manual,1243,2,122800.0
+Maruti Suzuki,Baleno,2013,101642,Petrol,Manual,1197,3,255500.0
+Toyota,Fortuner,2022,24105,Diesel,Automatic,2732,0,2128200.0
+Honda,Amaze,2013,109663,Diesel,Manual,1240,2,159100.0
+Mahindra,Scorpio,2021,47930,Diesel,Automatic,2181,1,1107800.0
+Tata,Altroz,2024,500,Diesel,Manual,1367,0,453400.0
+Kia,Sonet,2009,240002,Petrol,Manual,1054,3,223800.0
+Honda,Amaze,2008,142754,Petrol,Automatic,1317,2,175400.0
+Audi,A4,2010,317437,Petrol,Automatic,1952,1,886300.0
+Maruti Suzuki,WagonR,2023,11534,Petrol,Automatic,1108,0,281800.0
+Audi,A4,2006,174184,Petrol,Automatic,1854,4,584000.0
+Mahindra,Scorpio,2021,55672,Diesel,Automatic,2180,1,716600.0
+Maruti Suzuki,Alto,2022,29533,CNG,Manual,966,0,154300.0
+Kia,Seltos,2018,49068,Diesel,Manual,1440,0,693100.0
+Hyundai,Creta,2009,168390,Diesel,Manual,1578,1,365800.0
+Hyundai,i20,2022,16213,Diesel,Automatic,1482,0,700000.0
+Kia,Sonet,2013,205558,Petrol,Automatic,1491,1,351100.0
+Hyundai,Verna,2023,20226,Petrol,Automatic,1537,0,668000.0
+Maruti Suzuki,Dzire,2012,152911,Petrol,Manual,1197,2,105400.0
+Kia,Seltos,2013,106427,Petrol,Manual,1470,1,414100.0
+Mahindra,Scorpio,2015,157804,Diesel,Automatic,2179,1,335900.0
+Kia,Seltos,2021,35541,Petrol,Manual,1469,0,713200.0
+Kia,Seltos,2015,60889,Diesel,Automatic,1428,1,402900.0
+Honda,City,2014,77060,Petrol,Manual,1497,1,513400.0
+Mahindra,Thar,2023,10494,Diesel,Automatic,2093,0,980900.0
+Honda,City,2018,32649,Petrol,Automatic,1498,1,663000.0
+Volkswagen,Taigun,2022,19844,Petrol,Automatic,1217,0,814300.0
+Maruti Suzuki,Vitara Brezza,2006,142436,Petrol,Manual,1476,4,113100.0
+Hyundai,i20,2018,86428,Diesel,Manual,1316,0,461400.0
+Maruti Suzuki,Vitara Brezza,2006,298472,Petrol,Automatic,1480,4,121900.0
+Hyundai,Grand i10,2011,287158,Diesel,Manual,1192,2,117400.0
+Skoda,Slavia,2024,500,Petrol,Manual,1175,1,1548000.0
+Hyundai,Creta,2006,151785,Petrol,Manual,1556,2,297600.0
+Hyundai,Verna,2024,500,Petrol,Automatic,1539,0,1297100.0
+Kia,Seltos,2015,68153,Diesel,Automatic,1444,1,698600.0
+Ford,EcoSport,2022,10364,Petrol,Manual,1497,0,503900.0
+Volkswagen,Taigun,2017,81886,Petrol,Automatic,1049,0,310100.0
+Mercedes-Benz,C-Class,2013,91669,Petrol,Automatic,2047,2,1078200.0
+Mahindra,Scorpio,2013,215251,Diesel,Automatic,2184,2,556200.0
+Toyota,Innova Crysta,2018,30848,Diesel,Automatic,2603,2,630500.0
+Hyundai,Creta,2017,91753,Petrol,Automatic,1523,1,491200.0
+Maruti Suzuki,Vitara Brezza,2022,12929,Diesel,Automatic,1464,0,502700.0
+Toyota,Innova Crysta,2006,171297,Petrol,Automatic,2630,4,257100.0
+Maruti Suzuki,Alto,2007,198912,Petrol,Manual,902,3,50000
+Toyota,Fortuner,2007,128244,Diesel,Automatic,2719,4,644700.0
+Ford,EcoSport,2006,172207,Diesel,Manual,1497,3,143400.0
+Honda,Amaze,2023,12901,Diesel,Manual,1251,0,606300.0
+Toyota,Glanza,2010,166918,Petrol,Manual,1197,2,109600.0
+BMW,3 Series,2017,122075,Petrol,Automatic,2679,0,1380400.0
+Mercedes-Benz,GLA,2005,117411,Petrol,Automatic,2118,4,667800.0
+Toyota,Innova Crysta,2014,160542,Petrol,Automatic,2644,1,571300.0
+Mercedes-Benz,C-Class,2013,174490,Petrol,Automatic,2696,1,1485000.0
+Skoda,Kushaq,2024,500,Petrol,Manual,1004,1,983300.0
+Maruti Suzuki,Baleno,2007,259578,Petrol,Manual,1197,3,109800.0
+Audi,A4,2021,34366,Diesel,Automatic,1558,0,2954900.0
+Tata,Harrier,2005,370658,Diesel,Automatic,1956,3,232200.0
+Kia,Seltos,2023,14780,Petrol,Automatic,1460,1,1315400.0
+Toyota,Glanza,2016,145138,Petrol,Manual,1197,1,224600.0
+Tata,Altroz,2022,25487,Diesel,Manual,1468,0,525500.0
+Mercedes-Benz,GLA,2016,52951,Petrol,Automatic,1414,2,1565500.0
+Mercedes-Benz,GLA,2019,81147,Diesel,Automatic,1744,1,1957500.0
+Maruti Suzuki,Alto,2014,133687,Petrol,Manual,843,1,73500.0
+Mahindra,Thar,2016,148065,Diesel,Automatic,1921,1,488600.0
+Hyundai,Verna,2019,66764,Diesel,Automatic,1581,1,622400.0
+Maruti Suzuki,Baleno,2017,70246,Petrol,Automatic,1197,0,261500.0
+Mahindra,Thar,2020,74439,Diesel,Automatic,1590,1,517000.0
+Hyundai,i20,2020,56496,Petrol,Automatic,1376,0,392700.0
+Skoda,Kushaq,2021,32537,Petrol,Automatic,1065,0,914000.0
+Mercedes-Benz,GLA,2012,130715,Petrol,Automatic,1612,3,814200.0
+Tata,Harrier,2013,169404,Diesel,Manual,1956,0,308900.0
+Honda,Amaze,2018,73497,Diesel,Automatic,1434,3,321700.0
+Mahindra,Thar,2023,5532,Diesel,Manual,2150,0,995200.0
+Ford,EcoSport,2021,33609,Petrol,Manual,1497,0,307100.0
+Mercedes-Benz,GLA,2007,240629,Petrol,Automatic,1363,3,555200.0
+Skoda,Kushaq,2020,36529,Petrol,Automatic,1406,0,779100.0
+Audi,Q3,2008,267652,Diesel,Automatic,1897,3,547100.0
+Kia,Sonet,2010,254948,Diesel,Manual,1032,3,247800.0
+Tata,Harrier,2010,165135,Diesel,Manual,1956,3,363000.0
+Audi,Q3,2005,189236,Petrol,Automatic,1762,3,449300.0
+Honda,Amaze,2017,61478,Diesel,Automatic,1214,1,395300.0
+Mahindra,Thar,2009,373599,Petrol,Automatic,1761,1,189900.0
+Toyota,Fortuner,2017,68437,Diesel,Manual,2727,1,1730300.0
+Kia,Sonet,2005,178692,Petrol,Automatic,1220,4,150700.0
+Tata,Punch,2017,35959,Petrol,Manual,1199,0,311600.0
+Tata,Harrier,2011,130905,Diesel,Manual,1956,3,356100.0
+Toyota,Innova Crysta,2022,32214,Petrol,Automatic,2408,0,1904300.0
+Hyundai,Venue,2009,192959,Diesel,Manual,1385,4,153700.0
+Volkswagen,Taigun,2021,45442,Petrol,Automatic,1184,0,611100.0
+BMW,X1,2014,77582,Petrol,Automatic,1658,3,802000.0
+BMW,3 Series,2019,70918,Petrol,Automatic,2266,0,1431500.0
+Maruti Suzuki,Dzire,2007,229883,CNG,Automatic,1197,3,97200.0
+Toyota,Glanza,2013,96271,Petrol,Automatic,1197,1,222800.0
+Toyota,Glanza,2024,500,Petrol,Automatic,1197,0,691600.0
+Volkswagen,Polo,2021,28180,Petrol,Manual,1120,0,435400.0
+Volkswagen,Taigun,2014,227185,Petrol,Manual,1250,0,437700.0
+Mercedes-Benz,GLA,2019,63264,Petrol,Automatic,1900,0,1297500.0
+Kia,Sonet,2022,14664,Petrol,Manual,1435,0,909300.0
+Tata,Altroz,2022,29730,Diesel,Manual,1445,0,589200.0
+Volkswagen,Taigun,2017,115039,Petrol,Manual,1459,1,447200.0
+Audi,Q3,2014,133006,Petrol,Automatic,1928,2,859000.0
+Mahindra,Scorpio,2022,29838,Diesel,Automatic,2184,0,787100.0
+Volkswagen,Polo,2023,11969,Petrol,Automatic,1085,0,517100.0
+Maruti Suzuki,WagonR,2020,68303,Petrol,Automatic,1020,1,158700.0
+Volkswagen,Taigun,2011,253424,Petrol,Manual,1097,2,200300.0
+Maruti Suzuki,Alto,2017,106730,CNG,Manual,1000,0,116800.0
+Kia,Sonet,2019,75836,Diesel,Manual,1196,0,287600.0
+Kia,Sonet,2013,168212,Diesel,Manual,1456,1,234800.0
+Tata,Nexon,2021,37672,Diesel,Manual,1416,0,630300.0
+Tata,Punch,2023,16179,Petrol,Automatic,1199,0,676600.0
+BMW,X1,2011,134931,Petrol,Automatic,1694,3,1023400.0
+Toyota,Innova Crysta,2006,146264,Diesel,Automatic,2556,2,454300.0
+Audi,A4,2010,175049,Diesel,Automatic,1588,2,1090200.0
+Mercedes-Benz,GLA,2023,11529,Petrol,Automatic,1978,0,3503400.0
+Ford,EcoSport,2011,176014,Diesel,Manual,1497,3,178600.0
+Mercedes-Benz,GLA,2023,11951,Diesel,Automatic,1819,1,2020400.0
+Mahindra,XUV700,2020,71406,Diesel,Automatic,2066,0,1223000.0
+Mercedes-Benz,GLA,2020,35410,Diesel,Automatic,1775,0,2642600.0
+Tata,Altroz,2020,49981,Petrol,Manual,1295,0,500700.0
+Mercedes-Benz,C-Class,2021,24362,Diesel,Automatic,2180,0,1908000.0
+Maruti Suzuki,Baleno,2021,41198,Petrol,Manual,1197,0,426600.0
+Mahindra,Thar,2015,131319,Diesel,Manual,1940,1,255500.0
+Honda,Amaze,2020,56816,Petrol,Manual,1418,0,615800.0
+Tata,Altroz,2006,308287,Petrol,Manual,1294,2,101300.0
+Honda,Amaze,2019,99074,Petrol,Manual,1214,1,460600.0
+Mahindra,Thar,2015,44861,Petrol,Manual,2068,2,372100.0
+Maruti Suzuki,Baleno,2014,138611,Petrol,Manual,1197,0,197400.0
+Maruti Suzuki,Vitara Brezza,2011,277056,Petrol,Automatic,1471,3,180300.0
+Volkswagen,Taigun,2021,42127,Petrol,Automatic,1133,0,1006600.0
+Maruti Suzuki,Swift,2018,48447,Petrol,Automatic,1197,0,332200.0
+Mahindra,Scorpio,2009,150761,Diesel,Manual,2183,3,347600.0
+Kia,Seltos,2019,82557,Diesel,Automatic,1459,0,786200.0
+Tata,Harrier,2019,72092,Diesel,Manual,1956,0,721900.0
+Toyota,Fortuner,2011,111149,Diesel,Manual,2738,1,1037500.0
+Tata,Altroz,2018,63052,Diesel,Automatic,1411,1,393700.0
+BMW,3 Series,2023,16513,Diesel,Automatic,2093,0,3009700.0
+Maruti Suzuki,WagonR,2023,22853,CNG,Manual,1132,0,197700.0
+Maruti Suzuki,Vitara Brezza,2011,89454,Petrol,Manual,1485,2,179700.0
+Hyundai,Verna,2014,172193,Petrol,Manual,1564,1,352000.0
+BMW,3 Series,2018,64091,Diesel,Automatic,2743,1,1446100.0
+Mercedes-Benz,GLA,2014,135568,Petrol,Automatic,1786,2,998100.0
+Toyota,Innova Crysta,2023,10452,Petrol,Manual,2586,0,2213600.0
+Kia,Sonet,2021,37097,Diesel,Automatic,1339,2,432200.0
+Hyundai,Creta,2020,30692,Diesel,Automatic,1568,2,441400.0
+Volkswagen,Polo,2021,39923,Petrol,Automatic,1179,0,483600.0
+Ford,EcoSport,2022,10336,Diesel,Automatic,1498,2,466600.0
+Honda,Amaze,2012,125151,Diesel,Manual,1411,2,223500.0
+Mercedes-Benz,GLA,2018,93404,Diesel,Automatic,1680,1,1460300.0
+BMW,3 Series,2011,184355,Diesel,Automatic,2725,2,646500.0
+Volkswagen,Polo,2009,145330,Petrol,Manual,1084,1,125500.0
+Hyundai,Venue,2022,34008,Petrol,Manual,1203,0,767600.0
+Maruti Suzuki,Baleno,2024,500,Petrol,Manual,1197,1,517800.0
+Volkswagen,Polo,2010,123916,Petrol,Automatic,1010,3,122500.0
+Volkswagen,Taigun,2023,6880,Petrol,Manual,1217,0,1162000.0
+Mercedes-Benz,GLA,2024,500,Petrol,Automatic,1796,0,4042700.0
+Tata,Harrier,2021,44942,Diesel,Automatic,1956,0,1202100.0
+Hyundai,Venue,2009,138395,Petrol,Manual,1014,2,187000.0
+Honda,City,2012,82930,Petrol,Automatic,1497,1,406300.0
+Maruti Suzuki,Alto,2008,153795,CNG,Manual,811,2,53600.0
+Maruti Suzuki,WagonR,2016,94263,Petrol,Automatic,1182,0,177900.0
+Toyota,Glanza,2014,174404,Petrol,Automatic,1197,2,161100.0
+Skoda,Kushaq,2005,265522,Petrol,Manual,1209,3,226500.0
+Ford,EcoSport,2021,45388,Petrol,Manual,1498,0,304400.0
+Hyundai,i20,2024,500,Petrol,Automatic,1415,0,414900.0
+Kia,Seltos,2009,113996,Diesel,Manual,1395,3,402700.0
+BMW,3 Series,2008,191948,Petrol,Automatic,2552,1,668200.0
+Maruti Suzuki,Vitara Brezza,2013,183240,Petrol,Manual,1486,2,193200.0
+BMW,3 Series,2015,89734,Diesel,Automatic,2239,2,1566500.0
+Hyundai,Grand i10,2010,100278,Diesel,Manual,1159,2,101700.0
+Skoda,Slavia,2009,149272,Petrol,Manual,1036,3,286700.0
+Volkswagen,Polo,2011,154307,Petrol,Automatic,1049,0,200500.0
+Tata,Punch,2008,87978,Petrol,Automatic,1199,2,152400.0
+BMW,X1,2019,64393,Petrol,Automatic,1652,0,2063200.0
+Hyundai,Verna,2012,190465,Petrol,Manual,1512,1,288000.0
+Honda,Amaze,2018,65537,Diesel,Manual,1224,1,390500.0
+Maruti Suzuki,Vitara Brezza,2010,197786,Petrol,Manual,1472,3,170300.0
+Maruti Suzuki,WagonR,2015,106330,CNG,Automatic,1176,1,107300.0
+Toyota,Innova Crysta,2014,97414,Petrol,Automatic,2449,1,576000.0
+Hyundai,i20,2009,145351,Diesel,Automatic,1218,2,155600.0
+Hyundai,Grand i10,2009,155000,Diesel,Manual,1187,2,53100.0
+Tata,Nexon,2012,77267,Diesel,Automatic,1240,2,382400.0
+Audi,A4,2020,33237,Diesel,Automatic,1799,1,2213800.0
+Maruti Suzuki,Dzire,2006,325032,Petrol,Manual,1197,4,124400.0
+Audi,Q3,2022,24117,Diesel,Automatic,1619,0,2152400.0
+Skoda,Slavia,2006,167409,Petrol,Manual,1243,4,233200.0
+Audi,Q3,2011,171552,Diesel,Automatic,1804,2,926400.0
+Tata,Punch,2016,69429,Petrol,Automatic,1199,0,236300.0
+Mahindra,Thar,2013,98994,Petrol,Automatic,1528,2,491600.0
+Tata,Altroz,2007,168432,Petrol,Manual,1463,3,159200.0
+Tata,Altroz,2022,29980,Petrol,Manual,1207,0,606100.0
+Honda,Amaze,2022,19274,Petrol,Manual,1319,1,437800.0
+Hyundai,Creta,2007,127767,Petrol,Manual,1535,3,157700.0
+Honda,Amaze,2014,69212,Petrol,Manual,1356,1,125100.0
+BMW,3 Series,2012,291843,Petrol,Automatic,2693,2,1089200.0
+Skoda,Kushaq,2021,46266,Petrol,Manual,1110,1,732300.0
+Hyundai,Verna,2020,29491,Petrol,Automatic,1561,1,536200.0
+Skoda,Slavia,2022,45114,Petrol,Automatic,1057,2,858900.0
+Hyundai,i20,2021,44151,Diesel,Automatic,1360,0,544800.0
+Kia,Seltos,2012,157230,Diesel,Automatic,1401,3,222900.0
+Tata,Harrier,2006,334058,Diesel,Automatic,1956,4,481500.0
+Maruti Suzuki,WagonR,2017,78358,Petrol,Manual,1073,0,211400.0
+Honda,Amaze,2009,161236,Diesel,Manual,1420,3,201400.0
+Volkswagen,Taigun,2006,230072,Petrol,Automatic,1306,4,198500.0
+Kia,Sonet,2008,166541,Diesel,Manual,1259,3,187500.0
+Tata,Altroz,2013,119479,Petrol,Manual,1371,3,222900.0
+Volkswagen,Taigun,2016,94601,Petrol,Manual,1382,2,461500.0
+Hyundai,Venue,2013,125507,Diesel,Manual,1271,0,291100.0
+Mahindra,Thar,2021,30892,Diesel,Manual,1853,1,1051900.0
+BMW,X1,2020,43792,Diesel,Automatic,1945,0,2533000.0
+BMW,X1,2014,131338,Diesel,Automatic,1628,0,961900.0
+Tata,Altroz,2022,36399,Diesel,Automatic,1315,1,417400.0
+Hyundai,Verna,2011,220364,Diesel,Automatic,1542,1,196400.0
+Tata,Altroz,2012,176684,Petrol,Automatic,1229,1,230600.0
+Mahindra,Thar,2019,65884,Diesel,Manual,1674,0,769100.0
+Toyota,Innova Crysta,2024,500,Petrol,Manual,2502,0,1817700.0
+Toyota,Innova Crysta,2013,137471,Petrol,Automatic,2413,1,447000.0
+Mahindra,Scorpio,2009,279906,Diesel,Manual,2183,3,320000.0
+Maruti Suzuki,Alto,2010,102781,CNG,Manual,989,2,89500.0
+Tata,Punch,2005,457352,Petrol,Automatic,1199,4,131700.0
+Maruti Suzuki,Dzire,2005,367100,CNG,Manual,1197,4,85300.0
+Hyundai,Verna,2021,32566,Petrol,Manual,1567,0,689300.0
+Hyundai,Grand i10,2019,90261,Petrol,Manual,1092,1,222000.0
+Mahindra,Scorpio,2006,253445,Diesel,Automatic,2181,4,227500.0
+Toyota,Fortuner,2018,81658,Petrol,Automatic,2700,0,2346700.0
+Kia,Seltos,2024,500,Diesel,Automatic,1422,0,1534500.0
+Maruti Suzuki,Vitara Brezza,2022,20405,Diesel,Manual,1490,0,488700.0
+Toyota,Innova Crysta,2012,189010,Diesel,Manual,2525,2,385700.0
+Hyundai,Verna,2020,28311,Diesel,Manual,1540,0,501200.0
+Mercedes-Benz,C-Class,2012,144268,Diesel,Automatic,2248,2,1335800.0
+Ford,EcoSport,2023,14120,Diesel,Manual,1497,1,772400.0
+Skoda,Kushaq,2020,32790,Petrol,Manual,1376,1,608500.0
+Maruti Suzuki,Vitara Brezza,2011,195463,Diesel,Automatic,1480,2,132600.0
+Audi,A4,2013,117648,Diesel,Automatic,1463,1,917500.0
+Hyundai,Verna,2005,151568,Petrol,Automatic,1569,4,198400.0
+Toyota,Glanza,2020,73885,Petrol,Automatic,1197,0,321100.0
+Mahindra,Scorpio,2015,159981,Diesel,Automatic,2181,2,293500.0
+Maruti Suzuki,Baleno,2012,188569,Petrol,Manual,1197,2,141100.0
+Maruti Suzuki,Vitara Brezza,2013,84547,Petrol,Manual,1494,2,186800.0
+Mercedes-Benz,GLA,2019,113224,Petrol,Automatic,1406,1,1729400.0
+Audi,A4,2007,297748,Diesel,Automatic,1651,4,996300.0
+Hyundai,Grand i10,2018,100247,Diesel,Manual,1110,2,130300.0
+Mahindra,XUV700,2022,22453,Petrol,Manual,2045,0,1408300.0
+Maruti Suzuki,Baleno,2010,227797,Petrol,Automatic,1197,2,113600.0
+Mercedes-Benz,GLA,2013,75784,Diesel,Automatic,2020,1,1482200.0
+Skoda,Slavia,2013,74673,Petrol,Manual,1134,2,506300.0
+Mahindra,Scorpio,2007,180980,Diesel,Automatic,2182,3,239300.0
+Honda,Amaze,2006,198053,Petrol,Manual,1490,2,158900.0
+Maruti Suzuki,Vitara Brezza,2007,342637,Diesel,Manual,1467,2,120600.0
+Maruti Suzuki,Alto,2009,214508,Petrol,Manual,957,3,51100.0
+Hyundai,Creta,2020,80066,Diesel,Automatic,1579,0,567400.0
+Volkswagen,Polo,2014,125398,Petrol,Manual,1046,2,181800.0
+Mercedes-Benz,C-Class,2020,61137,Diesel,Automatic,2989,0,2603000.0
+Tata,Harrier,2009,173950,Diesel,Automatic,1956,2,228900.0
+BMW,3 Series,2020,31340,Petrol,Automatic,2223,1,2368400.0
+Hyundai,Venue,2007,233106,Petrol,Automatic,1014,4,97600.0
+Audi,Q3,2023,10039,Petrol,Automatic,1399,0,2446700.0
+Mercedes-Benz,GLA,2010,231983,Diesel,Automatic,1925,1,1032200.0
+Tata,Punch,2018,81635,Petrol,Automatic,1199,1,189900.0
+Audi,Q3,2013,144241,Diesel,Automatic,1568,3,1119000.0
+Hyundai,i20,2017,146062,Petrol,Manual,1259,1,235500.0
+Audi,Q3,2010,78292,Petrol,Automatic,1556,3,630800.0
+Honda,City,2010,152049,Petrol,Automatic,1498,3,159900.0
+Tata,Altroz,2021,28779,Petrol,Automatic,1357,0,521400.0
+Hyundai,Grand i10,2006,295180,Petrol,Manual,1166,4,52700.0
+Tata,Altroz,2022,16815,Petrol,Automatic,1237,0,506800.0
+Tata,Harrier,2019,75602,Diesel,Manual,1956,0,705800.0
+Skoda,Kushaq,2018,116198,Petrol,Manual,1410,1,317600.0
+Hyundai,Verna,2023,8600,Petrol,Manual,1575,0,953900.0
+Maruti Suzuki,Swift,2011,130968,Petrol,Manual,1197,2,137000.0
+Tata,Harrier,2013,178309,Diesel,Automatic,1956,2,379200.0
+Kia,Seltos,2007,152710,Petrol,Manual,1393,2,190100.0
+Mercedes-Benz,C-Class,2007,238799,Diesel,Automatic,2787,3,914400.0
+Mahindra,Scorpio,2017,40166,Diesel,Automatic,2183,1,417300.0
+Mahindra,Thar,2021,30444,Petrol,Automatic,1959,0,841200.0
+Tata,Nexon,2016,129680,Diesel,Automatic,1319,3,320900.0
+Ford,EcoSport,2017,91211,Diesel,Manual,1498,1,292600.0
+Audi,Q3,2010,144520,Diesel,Automatic,1809,1,634100.0
+Tata,Altroz,2022,22178,Diesel,Manual,1469,2,376700.0
+Hyundai,Grand i10,2013,189079,CNG,Manual,1112,2,96900.0
+Hyundai,Grand i10,2020,57328,Petrol,Manual,1120,0,275900.0
+Tata,Altroz,2020,68526,Diesel,Manual,1469,0,332300.0
+Tata,Harrier,2012,92028,Diesel,Automatic,1956,2,454400.0
+Tata,Altroz,2018,46374,Petrol,Manual,1336,1,255900.0
+Hyundai,Venue,2006,224388,Petrol,Automatic,1304,2,160000.0
+Hyundai,Grand i10,2017,52874,Petrol,Manual,1156,1,120500.0
+Maruti Suzuki,Baleno,2007,271259,Petrol,Manual,1197,2,108600.0
+BMW,X1,2015,118247,Petrol,Automatic,1513,0,1049100.0
+Toyota,Innova Crysta,2015,162261,Petrol,Manual,2514,1,685400.0
+BMW,X1,2010,85189,Diesel,Automatic,1907,2,711600.0
+BMW,3 Series,2019,99179,Diesel,Automatic,2036,0,3211900.0
+Hyundai,Venue,2010,253782,Diesel,Manual,1085,2,220900.0
+BMW,X1,2006,237770,Diesel,Automatic,1571,2,534000.0
+Volkswagen,Taigun,2006,260346,Petrol,Manual,1137,4,169600.0
+Tata,Harrier,2014,96416,Diesel,Automatic,1956,2,501700.0
+Honda,City,2020,76033,Diesel,Automatic,1498,0,586000.0
+Hyundai,Grand i10,2013,110299,CNG,Manual,1189,2,117800.0
+Maruti Suzuki,WagonR,2005,183372,CNG,Automatic,1084,3,51000.0
+Volkswagen,Taigun,2010,140302,Petrol,Automatic,1469,2,197200.0
+Mahindra,Thar,2024,500,Petrol,Automatic,1838,0,1076500.0
+Toyota,Glanza,2009,224919,Petrol,Automatic,1197,1,101800.0
+Skoda,Kushaq,2020,49955,Petrol,Manual,1215,2,726800.0
+Maruti Suzuki,Baleno,2018,59434,Petrol,Manual,1197,0,227300.0
+Toyota,Innova Crysta,2010,196181,Diesel,Automatic,2558,2,596300.0
+Maruti Suzuki,Vitara Brezza,2023,17912,Diesel,Automatic,1497,0,632200.0
+Kia,Seltos,2008,113809,Diesel,Manual,1458,2,225000.0
+Mercedes-Benz,C-Class,2023,20102,Diesel,Automatic,1670,0,2506200.0
+Tata,Nexon,2007,202905,Petrol,Automatic,1487,3,104300.0
+Mahindra,Thar,2016,123623,Diesel,Automatic,1708,3,419600.0
+Hyundai,Creta,2014,109031,Diesel,Manual,1553,2,478800.0
+Mercedes-Benz,C-Class,2007,253913,Diesel,Automatic,2850,2,1160300.0
+Toyota,Innova Crysta,2011,227196,Diesel,Manual,2491,2,513100.0
+Maruti Suzuki,Dzire,2017,109384,Petrol,Manual,1197,0,182900.0
+Hyundai,Verna,2007,158387,Petrol,Manual,1497,2,205800.0
+Toyota,Glanza,2013,140748,Petrol,Automatic,1197,1,252500.0
+Mahindra,Thar,2011,182037,Diesel,Automatic,2024,1,407000.0
+Skoda,Kushaq,2009,168067,Petrol,Manual,1341,2,355500.0
+Kia,Sonet,2005,328386,Diesel,Automatic,1245,2,150600.0
+Mahindra,Thar,2010,144590,Diesel,Manual,1556,2,220600.0
+Maruti Suzuki,Alto,2023,12232,Petrol,Manual,814,0,217300.0
+Tata,Harrier,2012,210462,Diesel,Automatic,1956,2,318200.0
+Tata,Nexon,2007,335635,Diesel,Manual,1252,3,143700.0
+Hyundai,Verna,2014,92503,Diesel,Manual,1522,2,377700.0
+Skoda,Kushaq,2017,84446,Petrol,Manual,1196,2,355900.0
+Skoda,Kushaq,2019,52843,Petrol,Automatic,1430,0,502700.0
+Mercedes-Benz,GLA,2013,83310,Diesel,Automatic,1780,0,964200.0
+Ford,EcoSport,2013,103738,Diesel,Automatic,1498,0,339100.0
+Maruti Suzuki,Dzire,2008,134070,Petrol,Automatic,1197,1,152700.0
+Maruti Suzuki,Dzire,2021,28891,Petrol,Automatic,1197,1,441500.0
+Audi,A4,2024,500,Petrol,Automatic,1702,0,3251700.0
+BMW,3 Series,2022,20497,Petrol,Automatic,2194,0,3634300.0
+Skoda,Slavia,2021,52572,Petrol,Automatic,1055,0,1140900.0
+Tata,Altroz,2022,30594,Diesel,Manual,1306,0,390200.0
+Mercedes-Benz,GLA,2024,500,Petrol,Automatic,1457,0,4143600.0
+Tata,Harrier,2010,152116,Diesel,Manual,1956,2,381300.0
+Mercedes-Benz,C-Class,2011,196794,Petrol,Automatic,2468,2,1413600.0
+Toyota,Fortuner,2017,70952,Petrol,Automatic,2722,1,1357400.0
+Skoda,Slavia,2007,187778,Petrol,Automatic,1106,4,200900.0
+Maruti Suzuki,Baleno,2008,213593,Petrol,Manual,1197,3,156200.0
+Volkswagen,Taigun,2018,62327,Petrol,Manual,1194,1,447400.0
+Hyundai,i20,2013,138632,Diesel,Manual,1356,1,196400.0
+Mercedes-Benz,GLA,2013,87688,Petrol,Automatic,1604,2,773100.0
+Tata,Harrier,2007,199504,Diesel,Manual,1956,2,374900.0
+Ford,EcoSport,2018,101672,Petrol,Manual,1497,1,265800.0
+Honda,City,2010,178949,Petrol,Automatic,1497,3,226600.0
+Maruti Suzuki,Swift,2021,49162,Petrol,Manual,1197,0,320000.0
+Mahindra,Scorpio,2021,54577,Diesel,Automatic,2184,0,681700.0
+Maruti Suzuki,Dzire,2013,182805,CNG,Automatic,1197,2,105000.0
+Kia,Sonet,2005,205152,Diesel,Automatic,1482,4,163800.0
+Mahindra,Scorpio,2009,211129,Diesel,Automatic,2181,2,190000.0
+Kia,Seltos,2021,69833,Petrol,Automatic,1363,1,544000.0
+Maruti Suzuki,Vitara Brezza,2019,54760,Diesel,Automatic,1481,0,469300.0
+Kia,Sonet,2019,64265,Diesel,Automatic,1482,1,395400.0
+Hyundai,i20,2008,354611,Petrol,Manual,1347,2,101800.0
+Maruti Suzuki,Baleno,2022,28540,Petrol,Automatic,1197,1,596800.0
+Maruti Suzuki,WagonR,2020,75661,Petrol,Manual,1040,1,259100.0
+Mercedes-Benz,GLA,2016,168039,Diesel,Automatic,2068,0,1445000.0
+Honda,Amaze,2014,48529,Diesel,Manual,1337,1,286400.0
+Mercedes-Benz,GLA,2022,36695,Petrol,Automatic,2082,0,2145100.0
+BMW,X1,2024,500,Petrol,Automatic,1557,0,3922200.0
+Kia,Seltos,2007,194123,Diesel,Manual,1476,2,210100.0
+Hyundai,Grand i10,2017,109510,Petrol,Manual,1138,2,79900.0
+Toyota,Fortuner,2023,23938,Petrol,Automatic,2704,1,2787600.0
+Volkswagen,Polo,2010,133419,Petrol,Automatic,1033,2,224500.0
+Ford,EcoSport,2006,181475,Petrol,Automatic,1498,2,103200.0
+Tata,Harrier,2021,60348,Diesel,Manual,1956,0,913900.0
+Hyundai,Grand i10,2019,103334,Petrol,Manual,1185,1,216600.0
+Mahindra,Thar,2016,92812,Diesel,Automatic,1505,0,636200.0
+Mahindra,XUV700,2012,148938,Diesel,Manual,2099,3,298800.0
+Tata,Nexon,2013,151788,Diesel,Manual,1335,2,289600.0
+Honda,Amaze,2008,88206,Diesel,Manual,1460,3,174600.0
+Ford,EcoSport,2005,159060,Petrol,Automatic,1497,4,155500.0
+Maruti Suzuki,Baleno,2007,151444,Petrol,Manual,1197,3,105100.0
+Mercedes-Benz,C-Class,2007,167575,Diesel,Automatic,2722,3,723000.0
+Hyundai,i20,2006,272374,Diesel,Automatic,1377,3,144200.0
+Mahindra,XUV700,2005,324271,Diesel,Manual,2126,3,322700.0
+Audi,A4,2020,42610,Petrol,Automatic,1573,1,1964300.0
+Audi,Q3,2021,16671,Petrol,Automatic,1532,0,2415000.0
+Toyota,Fortuner,2016,75616,Diesel,Automatic,2708,1,1661000.0
+Skoda,Slavia,2020,47694,Petrol,Automatic,1215,0,485100.0
+Skoda,Slavia,2007,275908,Petrol,Automatic,1008,3,263900.0
+Mercedes-Benz,GLA,2008,206157,Diesel,Automatic,1427,3,852500.0
+Maruti Suzuki,Dzire,2021,32300,CNG,Manual,1197,0,377400.0
+BMW,3 Series,2019,78606,Diesel,Automatic,2762,1,2444400.0
+Mahindra,XUV700,2022,32346,Petrol,Manual,2026,0,852600.0
+Toyota,Innova Crysta,2020,65113,Diesel,Manual,2646,0,1531600.0
+Skoda,Slavia,2009,94417,Petrol,Automatic,1282,3,298900.0
+Skoda,Kushaq,2021,14662,Petrol,Manual,1338,0,719100.0
+Toyota,Fortuner,2009,241907,Diesel,Automatic,2716,4,466200.0
+Kia,Sonet,2006,232142,Diesel,Automatic,1163,4,190000.0
+Maruti Suzuki,Vitara Brezza,2014,105312,Diesel,Manual,1472,2,241500.0
+Kia,Sonet,2005,412322,Diesel,Manual,1161,3,153300.0
+Ford,EcoSport,2023,9199,Diesel,Automatic,1497,0,527700.0
+Maruti Suzuki,Dzire,2009,183901,CNG,Manual,1197,4,116100.0
+Volkswagen,Polo,2010,212207,Petrol,Manual,1122,3,150900.0
+BMW,3 Series,2009,208257,Petrol,Automatic,2670,3,648900.0
+Mahindra,Thar,2018,72838,Diesel,Manual,1981,0,666400.0
+Tata,Punch,2022,23700,Petrol,Manual,1199,0,533500.0
+Tata,Punch,2020,39239,Petrol,Automatic,1199,1,394600.0
+Mercedes-Benz,GLA,2005,266149,Petrol,Automatic,2108,4,371900.0
+Audi,A4,2017,81899,Diesel,Automatic,1593,0,1512300.0
+Volkswagen,Taigun,2007,139336,Petrol,Manual,1314,3,215000.0
+Honda,City,2023,20085,Diesel,Automatic,1497,0,1194300.0
+Tata,Harrier,2011,221014,Diesel,Automatic,1956,1,548100.0
+Honda,Amaze,2013,124291,Diesel,Automatic,1446,2,161700.0
+Tata,Harrier,2005,146521,Diesel,Manual,1956,4,305000.0
+Tata,Punch,2023,10396,Petrol,Automatic,1199,0,475900.0
+Ford,EcoSport,2015,141879,Petrol,Automatic,1498,2,306900.0
+BMW,X1,2015,90778,Diesel,Automatic,1975,1,1663700.0
+Maruti Suzuki,Swift,2009,194128,Petrol,Manual,1197,2,86100.0
+Audi,Q3,2021,23592,Diesel,Automatic,1913,0,1825000.0
+BMW,3 Series,2011,114666,Petrol,Automatic,2532,1,587100.0
+Audi,Q3,2023,9155,Petrol,Automatic,1690,0,2137900.0
+Tata,Punch,2006,276844,Petrol,Automatic,1199,3,158600.0
+Skoda,Kushaq,2005,153659,Petrol,Manual,1180,2,163500.0
+Toyota,Glanza,2017,58634,Petrol,Manual,1197,2,287300.0
+Mahindra,Thar,2014,140615,Petrol,Manual,1539,2,262500.0
+Mahindra,Thar,2017,84218,Petrol,Manual,2168,0,682600.0
+Toyota,Fortuner,2024,500,Petrol,Automatic,2711,0,2592300.0
+Honda,Amaze,2005,275250,Diesel,Manual,1479,4,159000.0
+Audi,A4,2010,161093,Diesel,Automatic,1506,1,669000.0
+Toyota,Glanza,2006,199424,Petrol,Automatic,1197,2,135400.0
+Mercedes-Benz,C-Class,2014,113157,Petrol,Automatic,2716,1,1436000.0
+Honda,City,2014,135918,Diesel,Automatic,1497,1,385700.0
+Volkswagen,Taigun,2022,32942,Petrol,Manual,1105,0,991700.0
+Toyota,Innova Crysta,2020,32826,Petrol,Automatic,2465,0,1306700.0
+Hyundai,Venue,2014,98466,Diesel,Manual,1103,2,241400.0
+Volkswagen,Taigun,2024,500,Petrol,Automatic,1221,0,1248500.0
+Skoda,Kushaq,2009,217340,Petrol,Automatic,1297,1,260800.0
+Tata,Nexon,2017,92712,Petrol,Manual,1237,1,228000.0
+Hyundai,i20,2017,90916,Petrol,Manual,1400,0,171100.0
+Kia,Seltos,2016,122206,Petrol,Manual,1381,1,456400.0
+Tata,Nexon,2006,210555,Petrol,Automatic,1379,3,212000.0
+Toyota,Fortuner,2020,69935,Petrol,Manual,2714,0,1923400.0
+Volkswagen,Taigun,2016,97601,Petrol,Automatic,1476,0,404100.0
+Skoda,Slavia,2011,139588,Petrol,Automatic,1385,1,421100.0
+Mercedes-Benz,GLA,2010,170575,Petrol,Automatic,1568,2,601100.0
+Honda,City,2016,116209,Petrol,Automatic,1498,1,517100.0
+Kia,Seltos,2022,24755,Petrol,Automatic,1439,0,793100.0
+Maruti Suzuki,Dzire,2009,158264,Petrol,Manual,1197,3,111100.0
+Volkswagen,Taigun,2017,71542,Petrol,Manual,1413,1,358300.0
+Audi,Q3,2005,168467,Petrol,Automatic,1502,3,614000.0
+Honda,City,2008,214097,Diesel,Manual,1498,2,137800.0
+Hyundai,Venue,2024,500,Petrol,Automatic,1440,0,863300.0
+Mercedes-Benz,GLA,2022,16407,Petrol,Automatic,2078,0,3293300.0
+Hyundai,Grand i10,2021,54860,Petrol,Manual,1175,2,231200.0
+Honda,Amaze,2017,106672,Petrol,Manual,1408,0,349400.0
+Ford,EcoSport,2017,51988,Petrol,Automatic,1497,1,440900.0
+BMW,3 Series,2018,44825,Diesel,Automatic,2975,0,1563700.0
+Audi,Q3,2008,308979,Petrol,Automatic,1471,3,582000.0
+Mercedes-Benz,C-Class,2012,246505,Diesel,Automatic,1608,3,1522200.0
+Mahindra,XUV700,2015,78145,Petrol,Automatic,2005,1,992800.0
+Maruti Suzuki,Baleno,2019,45498,Petrol,Automatic,1197,0,365800.0
+BMW,X1,2012,172611,Diesel,Automatic,1622,1,1006300.0
+BMW,3 Series,2008,227452,Petrol,Automatic,2931,4,738700.0
+Tata,Nexon,2008,163429,Diesel,Manual,1417,3,229400.0
+Hyundai,Creta,2012,83797,Petrol,Manual,1523,2,310800.0
+Toyota,Innova Crysta,2011,102504,Petrol,Automatic,2646,2,445100.0
+Mahindra,Scorpio,2005,294920,Diesel,Automatic,2180,3,243000.0
+Hyundai,i20,2011,248810,Petrol,Automatic,1365,2,136200.0
+BMW,3 Series,2023,7762,Petrol,Automatic,2210,0,2410200.0
+Tata,Altroz,2012,110789,Diesel,Manual,1262,3,141000.0
+Audi,A4,2013,218652,Petrol,Automatic,1849,1,1374100.0
+Mahindra,XUV700,2022,21894,Petrol,Manual,2064,0,1281900.0
+Maruti Suzuki,Dzire,2020,97676,Petrol,Automatic,1197,0,449700.0
+Hyundai,i20,2006,335525,Diesel,Manual,1307,2,177500.0
+Maruti Suzuki,WagonR,2011,219415,CNG,Manual,1196,3,87300.0
+BMW,3 Series,2015,98275,Petrol,Automatic,2366,3,1598400.0
+Maruti Suzuki,Baleno,2012,182318,Petrol,Automatic,1197,1,218000.0
+Maruti Suzuki,Vitara Brezza,2010,164681,Diesel,Automatic,1480,2,265400.0
+Maruti Suzuki,Vitara Brezza,2022,16115,Diesel,Manual,1484,2,515200.0
+Toyota,Glanza,2005,215755,Petrol,Manual,1197,4,75300.0
+Maruti Suzuki,Vitara Brezza,2008,201762,Petrol,Manual,1472,3,175100.0
+Tata,Punch,2010,117685,Petrol,Manual,1199,1,116800.0
+Maruti Suzuki,WagonR,2009,252825,Petrol,Manual,1111,3,100900.0
+Mahindra,Scorpio,2023,11750,Diesel,Automatic,2180,0,1473700.0
+BMW,3 Series,2023,21040,Diesel,Automatic,2872,1,3069100.0
+Audi,A4,2009,266730,Diesel,Automatic,1828,2,784600.0
+Skoda,Kushaq,2016,143798,Petrol,Manual,1012,2,381000.0
+Hyundai,Grand i10,2019,106206,Diesel,Manual,1131,2,263400.0
+Audi,A4,2009,192315,Diesel,Automatic,1726,3,952200.0
+Tata,Altroz,2020,44254,Petrol,Automatic,1281,0,316100.0
+Toyota,Innova Crysta,2005,208823,Petrol,Automatic,2599,2,312100.0
+Toyota,Innova Crysta,2014,240722,Diesel,Manual,2608,1,689000.0
+Maruti Suzuki,Dzire,2021,20532,CNG,Manual,1197,0,442900.0
+Tata,Harrier,2013,94064,Diesel,Automatic,1956,3,557200.0
+Volkswagen,Taigun,2007,109725,Petrol,Automatic,1048,3,213000.0
+Mercedes-Benz,GLA,2020,50289,Diesel,Automatic,1580,0,1736700.0
+Skoda,Slavia,2010,123664,Petrol,Manual,1204,1,371400.0
+Mercedes-Benz,C-Class,2021,43345,Diesel,Automatic,1847,0,3086000.0
+Hyundai,Verna,2010,120141,Diesel,Automatic,1537,2,182500.0
+Hyundai,i20,2016,65926,Diesel,Automatic,1310,0,336600.0
+Maruti Suzuki,Baleno,2023,7494,Petrol,Automatic,1197,0,733500.0
+Maruti Suzuki,Alto,2019,55301,Petrol,Manual,976,1,160400.0
+Volkswagen,Polo,2024,500,Petrol,Manual,1140,1,472500.0
+Maruti Suzuki,Alto,2011,195160,Petrol,Manual,815,2,56500.0
+Maruti Suzuki,Vitara Brezza,2008,376663,Diesel,Manual,1466,4,194200.0
+Mahindra,XUV700,2013,88098,Diesel,Automatic,1999,1,405900.0
+Audi,Q3,2016,84458,Petrol,Automatic,1451,1,896500.0
+Toyota,Innova Crysta,2013,123958,Diesel,Manual,2546,3,658200.0
+Skoda,Kushaq,2013,92235,Petrol,Automatic,1072,1,418900.0
+Hyundai,Venue,2018,66838,Petrol,Automatic,1198,1,356300.0
+Audi,A4,2020,54647,Petrol,Automatic,1854,1,2259100.0
+Volkswagen,Taigun,2007,359288,Petrol,Automatic,1066,3,257700.0
+Mahindra,Thar,2017,146987,Diesel,Automatic,1973,0,532700.0
+Hyundai,Venue,2006,210664,Diesel,Automatic,1419,3,95400.0
+Kia,Seltos,2020,59428,Petrol,Automatic,1484,0,977400.0
+Kia,Sonet,2019,106450,Diesel,Manual,1311,0,635300.0
+Maruti Suzuki,Dzire,2017,95964,Petrol,Manual,1197,1,280900.0
+Maruti Suzuki,Dzire,2005,345912,Petrol,Automatic,1197,4,110500.0
+Maruti Suzuki,Dzire,2024,500,CNG,Manual,1197,0,460400.0
+Audi,A4,2020,32305,Petrol,Automatic,1579,1,1617200.0
+Maruti Suzuki,WagonR,2008,153206,CNG,Automatic,1012,3,58900.0
+Honda,Amaze,2007,215062,Petrol,Automatic,1390,2,100200.0
+Maruti Suzuki,Vitara Brezza,2011,157134,Petrol,Automatic,1469,1,242600.0
+Toyota,Innova Crysta,2008,140395,Diesel,Automatic,2675,2,311300.0
+Kia,Sonet,2005,199091,Petrol,Manual,1164,3,109200.0
+Audi,Q3,2006,300557,Petrol,Automatic,1589,4,530900.0
+Maruti Suzuki,Alto,2017,130295,Petrol,Manual,994,2,104400.0
+Volkswagen,Taigun,2009,175170,Petrol,Automatic,1304,3,279800.0
+Tata,Punch,2022,37839,Petrol,Automatic,1199,1,396400.0
+Mercedes-Benz,C-Class,2018,74419,Petrol,Automatic,2936,0,2549200.0
+Mahindra,Scorpio,2009,264654,Diesel,Automatic,2179,4,314300.0
+Honda,Amaze,2020,49228,Petrol,Manual,1255,1,303500.0
+Skoda,Kushaq,2005,162547,Petrol,Automatic,1128,4,156400.0
+Volkswagen,Taigun,2013,83513,Petrol,Manual,1159,2,512200.0
+Mercedes-Benz,C-Class,2018,125247,Diesel,Automatic,2649,2,1273800.0
+Volkswagen,Polo,2016,72143,Petrol,Automatic,1058,2,192300.0
+Maruti Suzuki,Dzire,2016,183989,Petrol,Automatic,1197,1,197600.0
+Hyundai,Verna,2009,230419,Petrol,Automatic,1520,2,275900.0
+Honda,Amaze,2006,139418,Petrol,Manual,1382,3,88300.0
+Mercedes-Benz,C-Class,2022,39559,Diesel,Automatic,1889,0,3685200.0
+Mahindra,Thar,2010,105173,Diesel,Manual,2039,3,435600.0
+Mercedes-Benz,GLA,2014,74240,Diesel,Automatic,2041,2,1170800.0
+Maruti Suzuki,WagonR,2023,15966,Petrol,Manual,1150,0,271900.0
+Honda,City,2009,105272,Petrol,Automatic,1498,3,210300.0
+Hyundai,Grand i10,2012,116372,CNG,Manual,1184,2,97200.0
+Mahindra,XUV700,2008,172010,Petrol,Automatic,2050,3,239800.0
+Kia,Sonet,2017,102997,Petrol,Manual,1225,1,432500.0
+Maruti Suzuki,Baleno,2024,500,Petrol,Manual,1197,0,800900.0
+Volkswagen,Taigun,2008,221955,Petrol,Automatic,1288,2,203900.0
+Audi,A4,2015,79226,Diesel,Automatic,1764,2,1389700.0
+Maruti Suzuki,Dzire,2005,122003,Petrol,Manual,1197,4,101600.0
+Kia,Sonet,2022,34674,Petrol,Manual,1371,1,775800.0
+Tata,Nexon,2024,500,Petrol,Automatic,1462,0,601000.0
+Tata,Altroz,2019,63759,Diesel,Manual,1212,1,389200.0
+Toyota,Innova Crysta,2013,129751,Diesel,Automatic,2483,2,463500.0
+Hyundai,Venue,2008,183621,Diesel,Manual,1328,4,169800.0
+Tata,Nexon,2019,82046,Diesel,Automatic,1374,1,437500.0
+BMW,3 Series,2006,146652,Diesel,Automatic,2083,2,1019700.0
+Hyundai,Verna,2007,181499,Petrol,Automatic,1564,3,140800.0
+Tata,Punch,2019,44949,Petrol,Automatic,1199,0,318700.0
+BMW,X1,2023,16946,Diesel,Automatic,1730,0,2594100.0
+Ford,EcoSport,2013,133866,Diesel,Manual,1498,2,285900.0
+Maruti Suzuki,Vitara Brezza,2019,113669,Petrol,Automatic,1486,0,347500.0
+Hyundai,Grand i10,2007,312140,CNG,Manual,1143,4,72900.0
+Toyota,Glanza,2016,88406,Petrol,Automatic,1197,1,200100.0
+Audi,A4,2018,58854,Petrol,Automatic,1907,1,2217000.0
+Hyundai,Venue,2005,366223,Diesel,Manual,1494,2,128000.0
+Audi,Q3,2014,143635,Diesel,Automatic,1550,1,1408600.0
+Hyundai,Creta,2020,36489,Petrol,Automatic,1559,0,728700.0
+Tata,Punch,2007,206803,Petrol,Automatic,1199,3,137500.0
+Hyundai,Venue,2012,168472,Petrol,Manual,1140,2,162400.0
+Mercedes-Benz,GLA,2021,35318,Petrol,Automatic,2132,0,2153100.0
+Tata,Punch,2010,252343,Petrol,Manual,1199,3,158200.0
+Skoda,Kushaq,2014,120832,Petrol,Manual,1426,3,384400.0
+Mahindra,Scorpio,2023,20272,Diesel,Manual,2183,0,693200.0
+Kia,Sonet,2016,108188,Diesel,Automatic,1350,0,295200.0
+Toyota,Innova Crysta,2011,138318,Petrol,Automatic,2455,2,346700.0
+Mercedes-Benz,GLA,2010,224410,Diesel,Automatic,1645,2,542700.0
+Audi,Q3,2007,211230,Diesel,Automatic,1932,2,516400.0
+BMW,X1,2022,28474,Diesel,Automatic,1941,1,2532600.0
+BMW,3 Series,2017,134618,Diesel,Automatic,2979,1,1246500.0
+Hyundai,Grand i10,2024,500,Petrol,Manual,1131,0,424600.0
+Mercedes-Benz,GLA,2005,184067,Petrol,Automatic,2137,3,452300.0
+Tata,Nexon,2017,54714,Diesel,Manual,1314,1,248400.0
+Toyota,Innova Crysta,2012,110160,Diesel,Automatic,2435,2,545300.0
+Ford,EcoSport,2015,51573,Petrol,Automatic,1497,2,245200.0
+Hyundai,Venue,2014,105789,Diesel,Manual,1242,1,225100.0
+Mahindra,XUV700,2022,17569,Petrol,Manual,2004,0,1007900.0
+Toyota,Innova Crysta,2005,235848,Diesel,Automatic,2395,4,404200.0
+BMW,X1,2015,119757,Diesel,Automatic,1732,1,1138200.0
+Volkswagen,Taigun,2022,39717,Petrol,Automatic,1274,0,650000.0
+Maruti Suzuki,Vitara Brezza,2015,87330,Petrol,Manual,1486,1,273200.0
+Kia,Seltos,2006,113613,Diesel,Manual,1496,4,211400.0
+Toyota,Glanza,2011,116792,Petrol,Manual,1197,2,157400.0
+Toyota,Innova Crysta,2012,201112,Petrol,Manual,2591,3,493200.0
+Mahindra,Thar,2006,212672,Diesel,Manual,1636,3,297100.0
+Hyundai,Grand i10,2016,130744,Petrol,Manual,1152,2,95800.0
+Hyundai,Grand i10,2023,10471,CNG,Manual,1196,0,253600.0
+Tata,Punch,2012,117457,Petrol,Automatic,1199,3,192700.0
+Hyundai,i20,2020,70536,Diesel,Manual,1378,0,433100.0
+Skoda,Slavia,2022,20710,Petrol,Automatic,1105,0,1092800.0
+Mahindra,XUV700,2017,91174,Diesel,Manual,2141,1,568600.0
+Mahindra,XUV700,2012,117903,Petrol,Automatic,2013,3,681900.0
+Hyundai,Verna,2018,68266,Diesel,Manual,1527,1,351200.0
+Volkswagen,Taigun,2007,198241,Petrol,Automatic,1062,2,178400.0
+Tata,Nexon,2020,20305,Diesel,Automatic,1317,1,552600.0
+Hyundai,i20,2005,320980,Diesel,Automatic,1418,3,82200.0
+Mercedes-Benz,GLA,2009,168532,Petrol,Automatic,1794,3,493800.0
+Hyundai,Creta,2008,181104,Petrol,Automatic,1568,4,180200.0
+Volkswagen,Polo,2015,61059,Petrol,Manual,999,2,178900.0
+Hyundai,Venue,2021,23538,Petrol,Automatic,1328,1,527200.0
+Tata,Nexon,2014,152600,Petrol,Automatic,1284,2,251100.0
+Hyundai,Venue,2019,67745,Petrol,Automatic,1148,0,553900.0
+Tata,Altroz,2020,57775,Diesel,Automatic,1234,1,446100.0
+Honda,City,2016,105171,Diesel,Manual,1498,2,489800.0
+Mercedes-Benz,C-Class,2015,137654,Diesel,Automatic,1949,1,1398300.0
+Kia,Sonet,2013,116992,Petrol,Automatic,1064,0,282900.0
+Skoda,Kushaq,2010,205945,Petrol,Manual,1390,3,352400.0
+Maruti Suzuki,Alto,2011,95373,CNG,Manual,955,3,75900.0
+BMW,X1,2006,339075,Petrol,Automatic,1700,2,631800.0
+Maruti Suzuki,Vitara Brezza,2017,92966,Diesel,Manual,1476,1,318000.0
+Audi,A4,2023,13126,Petrol,Automatic,1840,1,3723100.0
+Mercedes-Benz,GLA,2014,62771,Petrol,Automatic,1442,2,1688900.0
+Tata,Altroz,2011,136683,Petrol,Automatic,1349,3,212800.0
+Mercedes-Benz,GLA,2007,164355,Petrol,Automatic,2046,3,746400.0
+Maruti Suzuki,Swift,2005,208986,Petrol,Automatic,1197,2,119400.0
+Honda,City,2024,500,Diesel,Manual,1498,0,1249600.0
+Skoda,Kushaq,2013,177065,Petrol,Automatic,1152,1,200400.0
+Maruti Suzuki,Swift,2021,58079,Petrol,Automatic,1197,0,258300.0
+BMW,3 Series,2011,254543,Diesel,Automatic,2106,1,1146200.0
+Mercedes-Benz,GLA,2012,170378,Diesel,Automatic,1745,1,802200.0
+Toyota,Glanza,2023,11212,Petrol,Manual,1197,0,386800.0
+Maruti Suzuki,WagonR,2021,32873,Petrol,Manual,1063,1,370500.0
+Mahindra,XUV700,2016,118637,Petrol,Automatic,2159,0,385600.0
+Mercedes-Benz,C-Class,2018,92299,Diesel,Automatic,2442,0,3053300.0
+Volkswagen,Taigun,2007,235774,Petrol,Manual,1009,3,301500.0
+Tata,Altroz,2016,95196,Diesel,Automatic,1388,0,212100.0
+Mercedes-Benz,C-Class,2011,242661,Petrol,Automatic,2110,1,1193000.0
+Maruti Suzuki,WagonR,2006,319361,Petrol,Automatic,1196,4,75200.0
+Skoda,Kushaq,2005,155847,Petrol,Automatic,1121,3,156200.0
+Toyota,Innova Crysta,2017,44834,Petrol,Manual,2474,1,747700.0
+Kia,Seltos,2022,29399,Diesel,Automatic,1466,0,986800.0
+Mercedes-Benz,C-Class,2019,111598,Diesel,Automatic,2616,0,2609100.0
+Maruti Suzuki,WagonR,2023,13811,CNG,Automatic,1159,0,405300.0
+Kia,Sonet,2011,131565,Diesel,Manual,1456,1,298800.0
+Skoda,Slavia,2005,348162,Petrol,Manual,1296,4,202000.0
+Ford,EcoSport,2007,228602,Diesel,Manual,1498,3,132300.0
+Maruti Suzuki,Baleno,2007,315792,Petrol,Automatic,1197,3,140200.0
+Hyundai,Verna,2022,12542,Petrol,Automatic,1512,0,736200.0
+Audi,A4,2019,53442,Petrol,Automatic,1492,1,2008000.0
+Tata,Harrier,2023,15278,Diesel,Automatic,1956,0,1802700.0
+Tata,Altroz,2017,67187,Diesel,Automatic,1475,1,246100.0
+Skoda,Slavia,2019,52141,Petrol,Automatic,1133,0,728500.0
+Hyundai,Venue,2016,95362,Petrol,Manual,1096,0,573500.0
+Maruti Suzuki,Alto,2010,196584,CNG,Manual,823,3,50000
+Tata,Harrier,2015,127094,Diesel,Manual,1956,0,509000.0
+Toyota,Glanza,2019,88291,Petrol,Automatic,1197,1,294500.0
+Tata,Harrier,2017,46699,Diesel,Manual,1956,2,550000.0
+Maruti Suzuki,WagonR,2024,500,CNG,Manual,1156,1,408800.0
+BMW,X1,2023,9809,Diesel,Automatic,1671,1,2931100.0
+Mercedes-Benz,C-Class,2009,300980,Diesel,Automatic,2301,3,1210700.0
+Mahindra,XUV700,2021,46297,Diesel,Manual,2174,0,1375000.0
+Hyundai,Venue,2014,73699,Petrol,Automatic,1379,1,283200.0
+Hyundai,Verna,2013,225192,Petrol,Automatic,1541,1,341200.0
+Skoda,Slavia,2010,119320,Petrol,Automatic,1365,3,342500.0
+Mahindra,Thar,2021,25818,Diesel,Automatic,1837,0,831300.0
+Tata,Punch,2009,162788,Petrol,Automatic,1199,3,114200.0
+Skoda,Slavia,2010,245601,Petrol,Manual,1321,1,229800.0
+Skoda,Kushaq,2023,7417,Petrol,Automatic,1248,0,1065500.0
+Audi,A4,2006,212525,Petrol,Automatic,1974,4,454800.0
+Mercedes-Benz,GLA,2012,57635,Petrol,Automatic,2047,3,1443200.0
+Maruti Suzuki,WagonR,2011,223727,CNG,Manual,1040,3,66700.0
+Volkswagen,Polo,2012,166695,Petrol,Automatic,1136,2,173200.0
+Hyundai,Venue,2011,267885,Petrol,Automatic,1202,3,210600.0
+Mahindra,XUV700,2019,108750,Petrol,Manual,2044,1,844500.0
+Hyundai,Grand i10,2013,182468,Diesel,Manual,1151,1,90800.0
+Maruti Suzuki,Swift,2007,389831,Petrol,Automatic,1197,4,89000.0
+Hyundai,Creta,2013,101616,Petrol,Automatic,1516,1,442800.0
+BMW,X1,2020,52976,Petrol,Automatic,1771,0,1912200.0
+Maruti Suzuki,Swift,2018,59035,Petrol,Manual,1197,0,307600.0
+BMW,3 Series,2011,273467,Diesel,Automatic,2253,2,1402800.0
+Ford,EcoSport,2012,67199,Diesel,Automatic,1497,2,218600.0
+Kia,Sonet,2006,292364,Petrol,Manual,1244,4,122300.0
+Skoda,Slavia,2005,217339,Petrol,Manual,1265,2,189600.0
+Volkswagen,Polo,2007,319999,Petrol,Automatic,1160,4,157500.0
+Toyota,Glanza,2015,129972,Petrol,Manual,1197,2,189000.0
+Mahindra,Thar,2012,127130,Diesel,Manual,1672,2,435200.0
+Toyota,Fortuner,2009,280701,Petrol,Automatic,2706,3,467700.0
+Toyota,Innova Crysta,2023,19191,Petrol,Automatic,2484,0,1670400.0
+Maruti Suzuki,Vitara Brezza,2008,177877,Diesel,Manual,1484,3,150300.0
+Maruti Suzuki,WagonR,2005,124653,Petrol,Manual,1154,4,72900.0
+Skoda,Kushaq,2022,11040,Petrol,Automatic,1295,0,964400.0
+Hyundai,Creta,2023,7742,Diesel,Automatic,1497,0,786000.0
+Volkswagen,Polo,2021,64560,Petrol,Automatic,1081,0,489900.0
+Hyundai,Creta,2014,69555,Petrol,Manual,1518,1,277700.0
+Maruti Suzuki,Vitara Brezza,2006,196606,Petrol,Automatic,1471,4,94200.0
+Hyundai,Verna,2006,402023,Diesel,Manual,1539,4,193400.0
+Tata,Altroz,2005,243279,Diesel,Manual,1339,3,82600.0
+Tata,Nexon,2009,111776,Diesel,Manual,1456,2,131900.0
+Maruti Suzuki,Baleno,2007,156115,Petrol,Automatic,1197,3,146800.0
+Tata,Harrier,2024,500,Diesel,Automatic,1956,0,1980600.0
+Toyota,Innova Crysta,2023,8843,Diesel,Automatic,2578,0,1886400.0
+BMW,3 Series,2007,276302,Petrol,Automatic,2892,2,845100.0
+Tata,Nexon,2013,131856,Diesel,Manual,1387,2,267000.0
+Mahindra,XUV700,2006,165169,Diesel,Automatic,2120,3,416400.0
+Hyundai,Grand i10,2018,80147,Petrol,Manual,1128,2,276100.0
+Ford,EcoSport,2019,82496,Diesel,Automatic,1498,0,415000.0
+Maruti Suzuki,Swift,2007,100484,Petrol,Manual,1197,2,93300.0
+Toyota,Fortuner,2023,13676,Petrol,Manual,2712,1,2592000.0
+Hyundai,Creta,2006,258248,Petrol,Manual,1555,3,150500.0
+Hyundai,Venue,2012,184073,Petrol,Automatic,1396,2,167600.0
+BMW,X1,2011,166166,Petrol,Automatic,1677,3,987800.0
+Honda,City,2005,396015,Diesel,Manual,1497,3,195600.0
+Maruti Suzuki,WagonR,2009,168409,CNG,Automatic,1157,3,106100.0
+Volkswagen,Taigun,2024,500,Petrol,Automatic,1253,1,996600.0
+Mercedes-Benz,C-Class,2021,66586,Petrol,Automatic,1606,0,3114400.0
+Audi,Q3,2017,82869,Petrol,Automatic,1837,1,1411100.0
+Ford,EcoSport,2008,193270,Petrol,Automatic,1498,3,192400.0
+Mahindra,Scorpio,2005,142519,Diesel,Manual,2183,3,288400.0
+Maruti Suzuki,Alto,2017,70897,Petrol,Manual,908,1,125300.0
+Skoda,Kushaq,2008,240277,Petrol,Manual,1497,2,166600.0
+Tata,Punch,2020,53332,Petrol,Manual,1199,0,348200.0
+Honda,Amaze,2024,500,Diesel,Automatic,1302,0,640100.0
+Maruti Suzuki,Swift,2005,113263,Petrol,Automatic,1197,2,68000.0
+Ford,EcoSport,2009,224193,Petrol,Automatic,1497,1,217600.0
+Mercedes-Benz,C-Class,2023,14792,Diesel,Automatic,2775,0,2798800.0
+Toyota,Fortuner,2014,104320,Diesel,Automatic,2699,1,1231700.0
+Tata,Altroz,2010,149096,Petrol,Manual,1329,3,130700.0
+Maruti Suzuki,Baleno,2018,79553,Petrol,Manual,1197,2,315700.0
+Audi,Q3,2014,141189,Diesel,Automatic,1437,2,1216300.0
+Mahindra,Scorpio,2022,30123,Diesel,Manual,2184,0,922800.0
+Hyundai,i20,2020,61880,Petrol,Automatic,1466,1,392000.0
+Mercedes-Benz,GLA,2013,104323,Petrol,Automatic,1687,2,829000.0
+Maruti Suzuki,Dzire,2019,99060,Petrol,Automatic,1197,0,331900.0
+Ford,EcoSport,2017,52008,Diesel,Manual,1497,1,410900.0
+Toyota,Innova Crysta,2018,80495,Petrol,Automatic,2516,2,938700.0
+Honda,Amaze,2005,110827,Petrol,Automatic,1355,4,136600.0
+Toyota,Innova Crysta,2010,260864,Petrol,Manual,2665,3,378800.0
+Mahindra,Thar,2014,80284,Diesel,Manual,1905,0,313400.0
+Audi,Q3,2019,36902,Diesel,Automatic,1563,1,2078000.0
+Toyota,Innova Crysta,2023,20623,Petrol,Manual,2460,1,1254300.0
+Toyota,Innova Crysta,2022,13663,Petrol,Manual,2525,0,1659300.0
+Maruti Suzuki,Baleno,2013,118191,Petrol,Automatic,1197,2,165500.0
+Maruti Suzuki,Vitara Brezza,2007,133841,Petrol,Automatic,1474,3,137300.0
+Tata,Nexon,2017,112016,Petrol,Automatic,1451,0,229300.0
+Tata,Punch,2005,175827,Petrol,Manual,1199,4,69000.0
+Tata,Punch,2017,76639,Petrol,Manual,1199,1,260300.0
+Tata,Nexon,2010,257223,Petrol,Manual,1250,2,275400.0
+Tata,Altroz,2017,95977,Diesel,Automatic,1388,0,408900.0
+Toyota,Glanza,2011,162198,Petrol,Manual,1197,3,134400.0
+Maruti Suzuki,Dzire,2006,333651,CNG,Automatic,1197,2,100300.0
+Maruti Suzuki,Dzire,2006,278355,CNG,Manual,1197,3,125700.0
+Hyundai,Creta,2008,256781,Petrol,Automatic,1573,3,364100.0
+Volkswagen,Polo,2007,303486,Petrol,Manual,1192,3,126000.0
+Mahindra,Thar,2022,40484,Diesel,Manual,1812,0,993800.0
+BMW,X1,2013,244841,Petrol,Automatic,1709,1,1241300.0
+Maruti Suzuki,Alto,2017,101718,Petrol,Manual,973,2,123700.0
+Maruti Suzuki,Baleno,2009,161954,Petrol,Manual,1197,3,141800.0
+Toyota,Glanza,2019,61634,Petrol,Manual,1197,0,410200.0
+Maruti Suzuki,Alto,2007,197544,CNG,Manual,986,3,50000
+Kia,Seltos,2013,143329,Diesel,Manual,1422,0,404800.0
+Toyota,Glanza,2006,296562,Petrol,Manual,1197,2,116800.0
+Honda,City,2017,96356,Petrol,Manual,1497,2,318500.0
+Tata,Punch,2005,172260,Petrol,Automatic,1199,3,90800.0
+Kia,Seltos,2012,112851,Petrol,Automatic,1418,1,234800.0
+Honda,City,2014,171803,Diesel,Manual,1497,1,355800.0
+Toyota,Glanza,2012,208735,Petrol,Manual,1197,2,144500.0
+Mercedes-Benz,GLA,2017,117513,Diesel,Automatic,1691,1,1168700.0
+Skoda,Kushaq,2014,137721,Petrol,Manual,1314,1,399300.0
+Tata,Harrier,2022,23445,Diesel,Manual,1956,0,1599500.0
+BMW,3 Series,2018,104102,Diesel,Automatic,2931,1,1828000.0
+Tata,Punch,2016,121140,Petrol,Manual,1199,1,224300.0
+Skoda,Slavia,2005,356258,Petrol,Automatic,1441,4,203700.0
+Skoda,Slavia,2021,25674,Petrol,Manual,1274,0,862500.0
+Mercedes-Benz,GLA,2009,307771,Diesel,Automatic,2049,2,843300.0
+Maruti Suzuki,Dzire,2014,122788,CNG,Automatic,1197,2,113400.0
+Hyundai,Verna,2020,56405,Diesel,Manual,1560,3,450400.0
+Toyota,Glanza,2005,147038,Petrol,Manual,1197,3,89000.0
+Tata,Punch,2005,335274,Petrol,Manual,1199,3,69600.0
+Volkswagen,Polo,2008,155203,Petrol,Manual,1046,4,72800.0
+Hyundai,Venue,2024,500,Diesel,Automatic,1314,0,874000.0
+Audi,A4,2020,80035,Diesel,Automatic,1479,0,2469400.0
+Mahindra,Thar,2021,31137,Petrol,Manual,1709,0,1006900.0
+Maruti Suzuki,Swift,2013,143772,Petrol,Manual,1197,1,133700.0
+Toyota,Glanza,2024,500,Petrol,Manual,1197,0,598700.0
+Volkswagen,Taigun,2007,358962,Petrol,Automatic,1149,3,240700.0
+Maruti Suzuki,Vitara Brezza,2015,154053,Petrol,Manual,1487,1,169500.0
+Ford,EcoSport,2009,192068,Diesel,Manual,1497,2,126200.0
+Toyota,Fortuner,2011,206342,Petrol,Manual,2740,3,614700.0
+Maruti Suzuki,Alto,2005,233756,Petrol,Manual,964,4,50000
+Honda,City,2014,97026,Diesel,Manual,1497,2,295900.0
+Audi,A4,2024,500,Petrol,Automatic,1414,0,4390000.0
+BMW,3 Series,2017,88060,Diesel,Automatic,2137,0,1337300.0
+Tata,Punch,2016,51227,Petrol,Automatic,1199,1,276300.0
+Maruti Suzuki,Alto,2009,241672,CNG,Manual,878,2,59300.0
+Mercedes-Benz,C-Class,2019,83307,Diesel,Automatic,2270,0,3103000.0
+Toyota,Innova Crysta,2014,113703,Diesel,Automatic,2446,2,384300.0
+Toyota,Glanza,2011,143791,Petrol,Manual,1197,2,152600.0
+Mahindra,XUV700,2018,94131,Petrol,Manual,2078,0,992800.0
+Tata,Harrier,2019,54544,Diesel,Automatic,1956,2,652500.0
+Hyundai,Venue,2022,21489,Petrol,Automatic,1470,0,680100.0
+Mercedes-Benz,C-Class,2008,255867,Diesel,Automatic,2439,4,894400.0
+Mahindra,XUV700,2019,41095,Diesel,Manual,2054,0,1024500.0
+Kia,Seltos,2008,304005,Petrol,Manual,1397,3,294400.0
+Audi,Q3,2013,118720,Diesel,Automatic,1898,1,1052300.0
+Skoda,Slavia,2015,99472,Petrol,Automatic,1243,0,285600.0
+Mercedes-Benz,GLA,2011,148418,Petrol,Automatic,1450,3,1262200.0
+Hyundai,Venue,2013,127568,Petrol,Automatic,1362,1,222100.0
+Mercedes-Benz,GLA,2013,172102,Diesel,Automatic,1953,2,1091600.0
+Mahindra,Thar,2023,14140,Diesel,Automatic,1530,0,898200.0
+Kia,Seltos,2005,191956,Petrol,Automatic,1472,4,279800.0
+Volkswagen,Polo,2006,155739,Petrol,Automatic,1184,3,115600.0
+Maruti Suzuki,Swift,2020,43549,Petrol,Automatic,1197,0,403000.0
+Audi,Q3,2007,393797,Diesel,Automatic,1745,3,440400.0
+Tata,Harrier,2022,26546,Diesel,Automatic,1956,1,882300.0
+Hyundai,Verna,2017,151719,Petrol,Manual,1564,1,270800.0
+Maruti Suzuki,Alto,2024,500,Petrol,Manual,911,0,227100.0
+Maruti Suzuki,WagonR,2019,56170,Petrol,Automatic,1072,1,231600.0
+BMW,3 Series,2015,79777,Diesel,Automatic,2265,4,1304200.0
+Kia,Sonet,2011,160463,Diesel,Manual,1110,0,337300.0
+Kia,Seltos,2022,25975,Diesel,Automatic,1431,1,660100.0
+Skoda,Slavia,2009,110363,Petrol,Manual,1346,2,313100.0
+Skoda,Slavia,2019,93126,Petrol,Automatic,1417,0,889100.0
+Tata,Altroz,2010,131119,Petrol,Manual,1291,2,155500.0
+Hyundai,Verna,2023,16870,Diesel,Manual,1571,0,531000.0
+Tata,Punch,2018,93257,Petrol,Manual,1199,0,245500.0
+Volkswagen,Polo,2019,105443,Petrol,Manual,1100,1,330600.0
+Mahindra,Scorpio,2014,100690,Diesel,Automatic,2179,1,464000.0
+Volkswagen,Polo,2005,126067,Petrol,Automatic,1083,4,105400.0
+Hyundai,i20,2016,148247,Petrol,Automatic,1338,1,219600.0
+Mahindra,Thar,2022,35353,Diesel,Manual,1633,0,673600.0
+Toyota,Glanza,2008,123499,Petrol,Manual,1197,2,131500.0
+Mercedes-Benz,GLA,2014,149724,Petrol,Automatic,2020,1,1013500.0
+Tata,Nexon,2016,72848,Diesel,Automatic,1216,2,191100.0
+Ford,EcoSport,2008,221582,Petrol,Automatic,1498,3,204700.0
+Honda,Amaze,2021,32681,Petrol,Automatic,1209,0,462300.0
+Kia,Sonet,2020,52880,Petrol,Automatic,1485,0,645600.0
+Mercedes-Benz,C-Class,2022,41364,Diesel,Automatic,1993,0,2394500.0
+Tata,Harrier,2010,121715,Diesel,Automatic,1956,2,346100.0
+Tata,Nexon,2006,193191,Petrol,Manual,1291,3,127000.0
+BMW,X1,2012,90792,Petrol,Automatic,1775,3,829600.0
+Volkswagen,Polo,2007,294613,Petrol,Manual,1011,2,100600.0
+Hyundai,Creta,2006,118731,Petrol,Manual,1539,2,215700.0
+Hyundai,Venue,2013,199595,Petrol,Automatic,1248,1,179400.0
+Mercedes-Benz,C-Class,2015,97470,Diesel,Automatic,2272,1,1887100.0
+Mercedes-Benz,GLA,2020,83852,Petrol,Automatic,1831,1,1959800.0
+Maruti Suzuki,Alto,2008,146784,Petrol,Manual,866,4,50000
+Skoda,Slavia,2016,57507,Petrol,Manual,1488,2,544300.0
+Toyota,Innova Crysta,2022,29081,Diesel,Manual,2424,0,1454500.0
+Hyundai,i20,2008,323936,Diesel,Manual,1484,3,95600.0
+Toyota,Fortuner,2011,143232,Petrol,Automatic,2743,2,857500.0
+BMW,X1,2010,195237,Petrol,Automatic,1541,3,663900.0
+Audi,A4,2023,15506,Petrol,Automatic,1487,0,2837000.0
+Hyundai,i20,2013,195073,Petrol,Manual,1387,2,152700.0
+BMW,3 Series,2019,56765,Petrol,Automatic,2876,0,2192500.0
+Maruti Suzuki,WagonR,2011,282532,Petrol,Manual,1102,2,74000.0
+Hyundai,Venue,2017,128944,Petrol,Automatic,1142,1,361000.0
+Mahindra,Thar,2019,73754,Diesel,Manual,1705,0,845000.0
+Toyota,Innova Crysta,2009,226769,Diesel,Automatic,2478,3,290000.0
+Hyundai,i20,2016,145308,Diesel,Manual,1259,1,261000.0
+Tata,Altroz,2018,63304,Diesel,Manual,1467,2,369200.0
+Audi,Q3,2023,21013,Diesel,Automatic,1854,0,2553600.0
+Toyota,Glanza,2020,49284,Petrol,Automatic,1197,0,328100.0
+Volkswagen,Taigun,2015,68597,Petrol,Manual,1389,1,313800.0
+Hyundai,Verna,2007,320100,Diesel,Automatic,1558,3,132000.0
+Maruti Suzuki,WagonR,2013,118000,CNG,Automatic,1102,0,145700.0
+Maruti Suzuki,WagonR,2012,119031,Petrol,Manual,1190,2,109900.0
+Volkswagen,Polo,2005,306765,Petrol,Manual,1010,4,81000.0
+Hyundai,Grand i10,2011,96523,Petrol,Manual,1157,1,183200.0
+BMW,3 Series,2008,220192,Petrol,Automatic,2856,4,871800.0
+Toyota,Glanza,2006,221694,Petrol,Automatic,1197,4,138400.0
+Skoda,Slavia,2019,109396,Petrol,Automatic,1256,2,398600.0
+Skoda,Slavia,2010,154052,Petrol,Automatic,1264,1,287400.0
+Toyota,Glanza,2020,55570,Petrol,Manual,1197,0,290300.0
+Volkswagen,Polo,2008,221150,Petrol,Automatic,1117,4,156400.0
+Toyota,Fortuner,2013,74046,Diesel,Automatic,2715,2,746500.0
+Mahindra,Scorpio,2017,105065,Diesel,Manual,2181,0,405300.0
+Tata,Harrier,2012,208604,Diesel,Manual,1956,3,484700.0
+Skoda,Slavia,2023,8155,Petrol,Automatic,1018,0,1346700.0
+Hyundai,Creta,2006,336598,Petrol,Automatic,1505,3,187800.0
+Toyota,Glanza,2019,53103,Petrol,Manual,1197,1,339000.0
+Volkswagen,Taigun,2012,126044,Petrol,Manual,1302,1,397900.0
+Maruti Suzuki,Dzire,2013,138455,CNG,Automatic,1197,0,215300.0
+Toyota,Fortuner,2008,81157,Petrol,Automatic,2703,2,684600.0
+Honda,City,2016,148968,Petrol,Manual,1497,2,352200.0
+Kia,Seltos,2012,136513,Diesel,Manual,1384,3,194000.0
+Maruti Suzuki,WagonR,2024,500,Petrol,Automatic,1173,0,516200.0
+Mahindra,Thar,2018,74909,Diesel,Manual,1835,0,718300.0
+Audi,A4,2020,54931,Diesel,Automatic,1551,0,1832900.0
+Kia,Sonet,2009,216413,Diesel,Manual,1348,3,146600.0
+Maruti Suzuki,Alto,2010,189326,Petrol,Manual,859,2,67300.0
+Toyota,Innova Crysta,2005,331061,Diesel,Manual,2408,4,366900.0
+Kia,Sonet,2006,251228,Diesel,Manual,1230,2,206200.0
+Honda,Amaze,2005,176180,Petrol,Manual,1338,3,151300.0
+Hyundai,i20,2018,48585,Diesel,Manual,1246,1,380200.0
+Skoda,Kushaq,2018,51453,Petrol,Manual,1063,1,642500.0
+BMW,X1,2011,155452,Diesel,Automatic,1538,1,958200.0
+Volkswagen,Taigun,2011,158854,Petrol,Manual,1195,2,219100.0
+Mahindra,XUV700,2014,174097,Diesel,Automatic,2162,2,435100.0
+Mahindra,Thar,2015,62671,Petrol,Manual,1563,1,346100.0
+Tata,Harrier,2015,119248,Diesel,Manual,1956,1,628200.0
+Volkswagen,Polo,2010,158469,Petrol,Automatic,1106,3,192300.0
+Maruti Suzuki,Alto,2024,500,Petrol,Manual,805,0,312500.0
+Hyundai,Grand i10,2009,102283,Diesel,Manual,1173,2,112100.0
+Skoda,Slavia,2014,119199,Petrol,Manual,1049,1,477200.0
+Tata,Altroz,2017,102644,Petrol,Automatic,1463,0,393600.0
+Honda,Amaze,2010,143702,Petrol,Manual,1338,3,215900.0
+Hyundai,Verna,2015,104136,Diesel,Manual,1535,1,226600.0
+Hyundai,Grand i10,2021,38310,Diesel,Manual,1171,0,232300.0
+Maruti Suzuki,WagonR,2021,42787,Petrol,Manual,1006,0,316300.0
+Honda,Amaze,2012,91902,Petrol,Manual,1450,2,195000.0
+Toyota,Fortuner,2006,173849,Petrol,Manual,2700,2,617600.0
+Ford,EcoSport,2013,149331,Petrol,Automatic,1497,2,311300.0
+Maruti Suzuki,WagonR,2017,66603,Petrol,Manual,1124,2,183100.0
+Toyota,Fortuner,2005,239042,Petrol,Manual,2738,2,536100.0
+Kia,Sonet,2011,182473,Diesel,Automatic,1011,3,197300.0
+Maruti Suzuki,WagonR,2017,109480,Petrol,Manual,1105,1,202600.0
+Hyundai,Venue,2009,180968,Diesel,Automatic,1088,2,218700.0
+Tata,Harrier,2011,206918,Diesel,Manual,1956,2,382700.0
+Honda,City,2016,56291,Diesel,Automatic,1497,1,629900.0
+Hyundai,Venue,2018,68024,Petrol,Automatic,1337,1,525100.0
+BMW,3 Series,2006,280212,Petrol,Automatic,2621,1,708200.0
+Ford,EcoSport,2023,7981,Petrol,Manual,1497,0,484200.0
+Ford,EcoSport,2009,245430,Petrol,Automatic,1498,2,197200.0
+Mahindra,XUV700,2013,79042,Petrol,Automatic,2013,2,652500.0
+Skoda,Kushaq,2010,167258,Petrol,Manual,1075,2,299300.0
+Honda,City,2013,120883,Petrol,Automatic,1497,3,328500.0
+Mahindra,Thar,2012,277577,Diesel,Automatic,2079,2,277400.0
+Maruti Suzuki,Dzire,2018,90811,Petrol,Manual,1197,1,359600.0
+Tata,Altroz,2009,317135,Diesel,Manual,1231,2,145600.0
+Honda,City,2006,179147,Petrol,Manual,1498,4,190900.0
+Volkswagen,Taigun,2007,248836,Petrol,Automatic,1234,2,232800.0
+Tata,Harrier,2017,127493,Diesel,Manual,1956,0,654700.0
+Tata,Altroz,2008,241954,Diesel,Manual,1497,3,184300.0
+Hyundai,Verna,2023,6204,Petrol,Manual,1506,1,870500.0
+Tata,Punch,2005,253696,Petrol,Manual,1199,4,89100.0
+Audi,Q3,2008,208588,Diesel,Automatic,1952,3,862400.0
+Hyundai,Grand i10,2013,152708,Diesel,Manual,1123,3,95400.0
+Ford,EcoSport,2018,80510,Petrol,Automatic,1498,0,412800.0
+Volkswagen,Taigun,2018,75096,Petrol,Manual,1194,0,573500.0
+Kia,Seltos,2016,82523,Petrol,Manual,1375,2,280100.0
+Tata,Punch,2012,116032,Petrol,Manual,1199,1,224400.0
+Maruti Suzuki,Alto,2013,120138,CNG,Manual,910,2,50000
+Mercedes-Benz,C-Class,2015,78274,Petrol,Automatic,2029,2,1437300.0
+Kia,Sonet,2014,102632,Diesel,Manual,1153,1,234100.0
+Tata,Harrier,2021,22579,Diesel,Automatic,1956,0,685500.0
+Toyota,Glanza,2023,9417,Petrol,Manual,1197,0,511100.0
+Tata,Punch,2022,23453,Petrol,Manual,1199,0,393100.0
+Mercedes-Benz,GLA,2014,118708,Petrol,Automatic,1885,2,1002000.0
+Maruti Suzuki,Alto,2008,314368,CNG,Manual,978,1,50000
+Mahindra,Thar,2010,250798,Petrol,Automatic,1641,2,352400.0
+Maruti Suzuki,Dzire,2019,79547,Petrol,Automatic,1197,0,309700.0
+Kia,Seltos,2010,260809,Diesel,Automatic,1365,2,331300.0
+Mahindra,XUV700,2020,39336,Petrol,Automatic,2068,0,907400.0
+Volkswagen,Taigun,2020,55130,Petrol,Manual,1218,1,619000.0
+Mercedes-Benz,GLA,2011,118664,Diesel,Automatic,2136,2,794900.0
+Mahindra,Scorpio,2007,152239,Diesel,Automatic,2180,4,224300.0
+Hyundai,Verna,2011,198480,Petrol,Manual,1514,2,271900.0
+Hyundai,i20,2015,114580,Diesel,Manual,1333,2,222600.0
+Tata,Nexon,2011,155556,Petrol,Manual,1400,2,126800.0
+BMW,3 Series,2017,73986,Diesel,Automatic,2643,2,2176100.0
+Maruti Suzuki,Alto,2023,15223,CNG,Manual,922,0,204900.0
+Toyota,Fortuner,2008,136586,Diesel,Automatic,2718,2,790500.0
+Mercedes-Benz,C-Class,2013,82813,Diesel,Automatic,2600,0,1189000.0
+Skoda,Kushaq,2006,233916,Petrol,Manual,1338,4,267700.0
+Audi,Q3,2009,146079,Diesel,Automatic,1829,3,538800.0
+Ford,EcoSport,2007,137794,Petrol,Automatic,1498,3,153400.0
+Ford,EcoSport,2018,125225,Diesel,Manual,1498,1,381800.0
+BMW,X1,2024,500,Petrol,Automatic,1503,0,2224600.0
+Hyundai,i20,2020,60883,Diesel,Manual,1235,0,286800.0
+Toyota,Glanza,2016,131854,Petrol,Automatic,1197,2,236900.0
+Volkswagen,Polo,2013,75342,Petrol,Automatic,1194,2,139300.0
+Maruti Suzuki,Swift,2012,98151,Petrol,Automatic,1197,2,152700.0
+Hyundai,Creta,2021,46942,Diesel,Manual,1536,1,931800.0
+Audi,Q3,2010,158199,Petrol,Automatic,1749,1,675800.0
+Hyundai,Venue,2011,170536,Diesel,Manual,1488,2,248400.0
+BMW,3 Series,2014,141492,Diesel,Automatic,2672,3,1289400.0
+Skoda,Kushaq,2018,66567,Petrol,Manual,1327,0,683700.0
+Maruti Suzuki,Baleno,2009,135832,Petrol,Automatic,1197,2,156700.0
+Maruti Suzuki,Baleno,2023,6207,Petrol,Manual,1197,0,463600.0
+Maruti Suzuki,WagonR,2009,181117,Petrol,Manual,1010,1,139100.0
+Hyundai,Venue,2022,18166,Petrol,Manual,1293,0,689300.0
+Honda,City,2022,28571,Diesel,Manual,1498,0,725300.0
+Tata,Nexon,2015,73682,Petrol,Automatic,1407,1,308200.0
+Hyundai,Grand i10,2006,248586,CNG,Manual,1104,2,67800.0
+Maruti Suzuki,Dzire,2010,144399,CNG,Automatic,1197,3,184700.0
+Hyundai,Grand i10,2009,179950,CNG,Manual,1115,2,60700.0
+BMW,X1,2014,147100,Petrol,Automatic,1709,1,1143000.0
+Mahindra,Scorpio,2016,88372,Diesel,Manual,2183,2,362100.0
+Maruti Suzuki,Alto,2022,25232,Petrol,Manual,808,0,126400.0
+Skoda,Kushaq,2023,10627,Petrol,Automatic,1286,0,1286000.0
+Skoda,Slavia,2024,500,Petrol,Manual,1436,0,1223200.0
+Maruti Suzuki,Vitara Brezza,2012,134072,Petrol,Automatic,1492,2,233900.0
+Skoda,Slavia,2015,144130,Petrol,Manual,1406,1,498600.0
+Tata,Punch,2019,92493,Petrol,Manual,1199,2,210200.0
+Toyota,Glanza,2009,212302,Petrol,Manual,1197,1,80500.0
+Maruti Suzuki,WagonR,2013,220654,CNG,Manual,1167,1,94400.0
+Audi,Q3,2013,121029,Petrol,Automatic,1920,2,1191100.0
+Hyundai,Grand i10,2006,177997,Petrol,Manual,1103,3,83900.0
+Mercedes-Benz,C-Class,2018,54617,Diesel,Automatic,2552,0,2274200.0
+Tata,Altroz,2007,157336,Petrol,Manual,1200,2,120400.0
+BMW,X1,2015,57366,Petrol,Automatic,1811,2,1195300.0
+Tata,Punch,2023,9816,Petrol,Manual,1199,0,595800.0
+Maruti Suzuki,WagonR,2010,231375,CNG,Automatic,1079,3,82400.0
+BMW,3 Series,2015,98897,Diesel,Automatic,2039,1,1675500.0
+Hyundai,i20,2011,209244,Petrol,Manual,1492,2,177200.0
+BMW,3 Series,2016,163234,Diesel,Automatic,2812,1,1055800.0
+Maruti Suzuki,WagonR,2024,500,Petrol,Automatic,1073,0,494300.0
+Maruti Suzuki,Alto,2019,48663,Petrol,Manual,897,1,86700.0
+Mahindra,XUV700,2007,209996,Diesel,Automatic,2031,3,230500.0
+Maruti Suzuki,Swift,2015,160005,Petrol,Manual,1197,0,184800.0
+Tata,Altroz,2024,500,Petrol,Automatic,1464,0,839200.0
+Toyota,Innova Crysta,2015,129179,Diesel,Automatic,2672,2,671400.0
+Mercedes-Benz,GLA,2016,145470,Diesel,Automatic,1894,0,1350500.0
+Tata,Altroz,2022,30812,Diesel,Manual,1243,1,427900.0
+BMW,3 Series,2019,89679,Diesel,Automatic,2305,0,1602100.0
+Volkswagen,Polo,2022,40238,Petrol,Automatic,1169,0,567900.0
+Mahindra,Scorpio,2022,23714,Diesel,Automatic,2182,0,749900.0
+Tata,Harrier,2014,104716,Diesel,Manual,1956,2,403100.0
+Maruti Suzuki,Dzire,2016,109171,Petrol,Automatic,1197,1,299300.0
+Kia,Seltos,2015,80332,Diesel,Automatic,1403,1,337700.0
+Audi,A4,2015,119726,Diesel,Automatic,1717,1,1430400.0
+Honda,City,2017,126451,Diesel,Manual,1498,1,458200.0
+Hyundai,Venue,2024,500,Diesel,Automatic,1198,0,1058200.0
+Maruti Suzuki,Swift,2006,191513,Petrol,Automatic,1197,2,154100.0
+Mercedes-Benz,GLA,2009,96405,Petrol,Automatic,1478,3,577500.0
+Maruti Suzuki,Baleno,2018,49630,Petrol,Manual,1197,0,262700.0
+Tata,Harrier,2009,240926,Diesel,Manual,1956,1,319300.0
+Hyundai,Venue,2021,53079,Diesel,Automatic,1480,0,461400.0
+Mahindra,Scorpio,2018,122039,Diesel,Manual,2184,0,802600.0
+Mahindra,XUV700,2012,105787,Diesel,Manual,2023,2,581300.0
+Tata,Altroz,2005,272360,Petrol,Manual,1492,3,112900.0
+Toyota,Glanza,2024,500,Petrol,Manual,1197,0,635300.0
+Hyundai,Grand i10,2013,152806,CNG,Manual,1170,2,73100.0
+Hyundai,Verna,2016,158668,Petrol,Manual,1570,1,194000.0
+Mahindra,Thar,2011,142861,Petrol,Manual,1995,2,308600.0
+Tata,Punch,2016,107454,Petrol,Automatic,1199,2,207800.0
+Honda,Amaze,2010,192295,Diesel,Manual,1341,4,189000.0
+Tata,Harrier,2009,201629,Diesel,Automatic,1956,3,231400.0
+Tata,Altroz,2023,7781,Petrol,Automatic,1459,1,608800.0
+Mahindra,Thar,2005,303980,Diesel,Manual,2161,4,194500.0
+Audi,Q3,2010,243637,Diesel,Automatic,1626,3,571200.0
+BMW,3 Series,2024,500,Diesel,Automatic,2426,0,4484300.0
+Kia,Sonet,2017,45087,Petrol,Automatic,1194,1,348400.0
+Tata,Harrier,2008,208950,Diesel,Automatic,1956,2,433400.0
+Hyundai,Venue,2012,64948,Diesel,Automatic,1268,2,234400.0
+Honda,City,2010,275541,Petrol,Manual,1498,2,292600.0
+Tata,Nexon,2018,54409,Petrol,Automatic,1311,0,363400.0
+Tata,Harrier,2008,252452,Diesel,Manual,1956,4,281900.0
+Maruti Suzuki,WagonR,2023,8641,CNG,Automatic,1141,0,387500.0
+Maruti Suzuki,Baleno,2008,214051,Petrol,Automatic,1197,2,172100.0
+Hyundai,Verna,2021,51890,Diesel,Automatic,1500,0,819100.0
+Skoda,Slavia,2011,129844,Petrol,Automatic,1245,3,396600.0
+Mahindra,Scorpio,2012,268824,Diesel,Manual,2182,1,191300.0
+Hyundai,Verna,2017,52172,Diesel,Automatic,1560,2,399000.0
+Maruti Suzuki,Vitara Brezza,2014,140874,Diesel,Automatic,1476,1,329100.0
+Kia,Seltos,2018,68376,Petrol,Automatic,1379,0,741900.0
+Honda,City,2017,100325,Petrol,Manual,1498,2,278700.0
+Mercedes-Benz,GLA,2007,139116,Petrol,Automatic,1508,4,688600.0
+Mahindra,Scorpio,2014,82877,Diesel,Manual,2182,1,450600.0
+Maruti Suzuki,Vitara Brezza,2017,83103,Diesel,Automatic,1476,1,465500.0
+Hyundai,Venue,2018,91252,Diesel,Automatic,1278,2,351100.0
+Kia,Sonet,2013,143311,Petrol,Manual,1305,2,307400.0
+BMW,3 Series,2010,103169,Petrol,Automatic,2587,3,899600.0
+Hyundai,i20,2005,210557,Petrol,Manual,1198,3,88800.0
+Honda,City,2007,191447,Petrol,Automatic,1497,2,196600.0
+Kia,Sonet,2011,129526,Petrol,Manual,1202,3,229100.0
+Skoda,Kushaq,2007,157148,Petrol,Automatic,1261,3,144900.0
+Toyota,Innova Crysta,2012,177933,Diesel,Automatic,2668,2,403400.0
+Hyundai,i20,2005,185720,Diesel,Manual,1292,4,69700.0
+Maruti Suzuki,Alto,2023,8956,Petrol,Manual,805,0,218000.0
+Hyundai,Venue,2013,185670,Petrol,Automatic,1345,2,242100.0
+Mercedes-Benz,C-Class,2013,92727,Petrol,Automatic,2750,3,1544700.0
+Mahindra,XUV700,2005,312085,Petrol,Automatic,2094,4,235400.0
+Mercedes-Benz,C-Class,2009,223107,Diesel,Automatic,2461,2,1242500.0
+Mahindra,Scorpio,2023,12319,Diesel,Automatic,2179,0,809300.0
+Maruti Suzuki,Dzire,2012,219017,Petrol,Automatic,1197,1,216500.0
+Tata,Harrier,2008,126637,Diesel,Manual,1956,4,232200.0
+Skoda,Kushaq,2005,190569,Petrol,Manual,1390,4,117800.0
+Hyundai,Grand i10,2012,185841,Diesel,Manual,1197,2,104700.0
+Audi,A4,2007,240925,Petrol,Automatic,1590,3,823000.0
+Mahindra,XUV700,2017,72294,Petrol,Manual,2135,0,610900.0
+Honda,City,2009,223870,Diesel,Automatic,1497,3,221300.0
+Mercedes-Benz,GLA,2024,500,Petrol,Automatic,1994,0,4141000.0
+Mercedes-Benz,C-Class,2013,154093,Diesel,Automatic,1755,2,1567100.0
+Mahindra,Thar,2013,245539,Petrol,Automatic,1562,0,302300.0
+Skoda,Slavia,2017,120356,Petrol,Manual,1233,0,534700.0
+Maruti Suzuki,Alto,2022,12379,CNG,Manual,996,0,114100.0
+Volkswagen,Polo,2009,150890,Petrol,Manual,1144,3,142400.0
+Honda,Amaze,2007,203282,Petrol,Automatic,1201,3,92400.0
+Volkswagen,Polo,2011,154706,Petrol,Automatic,1085,3,140000.0
+Hyundai,Verna,2021,25569,Petrol,Automatic,1567,0,1033500.0
+Maruti Suzuki,Vitara Brezza,2010,140674,Petrol,Automatic,1468,3,167000.0
+Volkswagen,Polo,2020,48051,Petrol,Manual,1025,1,329000.0
+Tata,Nexon,2009,137979,Petrol,Manual,1223,3,143400.0
+Hyundai,Creta,2024,500,Petrol,Automatic,1498,1,1158100.0
+Hyundai,Grand i10,2012,70017,CNG,Manual,1149,2,70100.0
+Tata,Punch,2010,138416,Petrol,Manual,1199,2,183700.0
+Tata,Altroz,2023,7759,Diesel,Manual,1482,0,434500.0
+Honda,City,2023,12339,Diesel,Automatic,1498,0,726200.0
+Tata,Altroz,2014,120997,Diesel,Automatic,1492,2,293200.0
+Maruti Suzuki,Vitara Brezza,2006,185930,Diesel,Manual,1486,3,132900.0
+Tata,Altroz,2005,291181,Petrol,Automatic,1486,4,126900.0
+Toyota,Glanza,2016,62833,Petrol,Automatic,1197,1,174000.0
+Skoda,Slavia,2021,41070,Petrol,Automatic,1116,0,776500.0
+Skoda,Kushaq,2006,137692,Petrol,Manual,1331,3,198800.0
+Hyundai,Venue,2006,226151,Petrol,Manual,1362,3,207600.0
+Toyota,Fortuner,2024,500,Diesel,Manual,2717,0,2176600.0
+Mahindra,Scorpio,2011,231809,Diesel,Automatic,2184,2,326200.0
+Kia,Seltos,2008,289583,Diesel,Manual,1394,4,336500.0
+Hyundai,Venue,2023,10187,Diesel,Automatic,1256,0,537400.0
+Tata,Nexon,2011,94324,Diesel,Automatic,1358,1,297400.0
+Mahindra,Thar,2024,500,Petrol,Manual,2162,0,812700.0
+Tata,Harrier,2006,222820,Diesel,Automatic,1956,1,388100.0
+Hyundai,Verna,2011,222357,Petrol,Manual,1579,1,247500.0
+Tata,Nexon,2017,141089,Diesel,Manual,1438,1,292000.0
+Maruti Suzuki,WagonR,2021,45092,Petrol,Manual,1101,0,248200.0
+Toyota,Glanza,2018,59227,Petrol,Manual,1197,1,206300.0
+Maruti Suzuki,WagonR,2007,192096,CNG,Manual,1011,2,51100.0
+Mercedes-Benz,C-Class,2023,10617,Petrol,Automatic,1584,0,2791600.0
+Toyota,Glanza,2017,75463,Petrol,Manual,1197,0,318400.0
+Hyundai,Creta,2019,42380,Petrol,Manual,1563,0,523900.0
+Audi,Q3,2021,36308,Petrol,Automatic,1600,1,2372200.0
+Mercedes-Benz,GLA,2009,221907,Petrol,Automatic,2040,4,710200.0
+Mercedes-Benz,GLA,2005,179020,Petrol,Automatic,2031,2,455800.0
+Hyundai,Verna,2014,86999,Diesel,Manual,1525,3,283200.0
+Tata,Punch,2018,60406,Petrol,Manual,1199,1,268800.0
+Tata,Harrier,2007,182517,Diesel,Automatic,1956,2,290600.0
+Toyota,Innova Crysta,2006,295281,Petrol,Manual,2418,4,389200.0
+Maruti Suzuki,Baleno,2006,228136,Petrol,Manual,1197,3,114200.0
+Skoda,Kushaq,2020,21797,Petrol,Manual,1039,0,593700.0
+Hyundai,Grand i10,2014,104008,Petrol,Manual,1144,1,130100.0
+Hyundai,Creta,2022,17946,Petrol,Manual,1498,0,589300.0
+Mahindra,XUV700,2011,141318,Petrol,Manual,2154,2,573200.0
+Audi,A4,2023,16755,Petrol,Automatic,1768,2,2117700.0
+Maruti Suzuki,Baleno,2011,153361,Petrol,Manual,1197,3,109000.0
+Honda,Amaze,2008,238745,Diesel,Automatic,1231,3,87200.0
+Kia,Seltos,2010,273595,Petrol,Manual,1441,2,287700.0
+Maruti Suzuki,Swift,2017,104412,Petrol,Manual,1197,0,223300.0
+Hyundai,i20,2010,148168,Diesel,Automatic,1402,2,156000.0
+Honda,Amaze,2011,107123,Petrol,Automatic,1223,1,140100.0
+Tata,Nexon,2019,44568,Diesel,Automatic,1423,2,458200.0
+Audi,A4,2017,82751,Petrol,Automatic,1858,1,1456300.0
+Tata,Nexon,2010,158697,Petrol,Manual,1241,3,219500.0
+Audi,A4,2008,151997,Petrol,Automatic,1423,1,801400.0
+Tata,Altroz,2011,193709,Diesel,Automatic,1240,3,184100.0
+Mercedes-Benz,C-Class,2013,85419,Diesel,Automatic,2663,1,1618400.0
+Hyundai,Verna,2015,55520,Petrol,Automatic,1557,2,483500.0
+Maruti Suzuki,Alto,2009,161151,CNG,Manual,935,3,50000
+Tata,Altroz,2024,500,Diesel,Manual,1285,0,626400.0
+Mahindra,Thar,2010,164971,Diesel,Automatic,1522,2,384300.0
+Toyota,Glanza,2024,500,Petrol,Manual,1197,0,486600.0
+Honda,Amaze,2020,61353,Petrol,Automatic,1252,0,269500.0
+Tata,Punch,2023,9909,Petrol,Automatic,1199,0,523000.0
+Mahindra,XUV700,2024,500,Petrol,Automatic,2148,0,2187700.0
+Maruti Suzuki,Baleno,2008,289520,Petrol,Automatic,1197,3,121800.0
+Kia,Seltos,2010,255065,Diesel,Automatic,1412,1,282000.0
+Maruti Suzuki,Swift,2017,104404,Petrol,Automatic,1197,0,194400.0
+Tata,Altroz,2007,222995,Petrol,Manual,1315,4,119300.0
+Maruti Suzuki,Alto,2010,191132,Petrol,Manual,848,3,50000
+Maruti Suzuki,Dzire,2023,8809,Petrol,Manual,1197,0,380600.0
+Hyundai,Verna,2019,86566,Diesel,Manual,1572,1,467700.0
+Maruti Suzuki,Baleno,2014,119704,Petrol,Automatic,1197,1,199300.0
+Tata,Harrier,2010,172201,Diesel,Automatic,1956,2,456700.0
+Mercedes-Benz,GLA,2016,149785,Diesel,Automatic,1552,2,1413100.0
+Kia,Seltos,2023,12798,Petrol,Manual,1374,0,934800.0
+Kia,Seltos,2009,82864,Petrol,Automatic,1433,2,208500.0
+Hyundai,Venue,2006,247594,Petrol,Manual,1457,2,155900.0
+Maruti Suzuki,Baleno,2013,202213,Petrol,Manual,1197,2,148300.0
+BMW,3 Series,2021,38917,Petrol,Automatic,2311,0,2101300.0
+Toyota,Glanza,2017,96312,Petrol,Manual,1197,0,222900.0
+Maruti Suzuki,Alto,2013,162147,Petrol,Manual,901,3,56300.0
+Tata,Altroz,2006,326155,Petrol,Manual,1385,2,136600.0
+Volkswagen,Taigun,2009,194601,Petrol,Automatic,1495,2,271500.0
+Maruti Suzuki,Swift,2020,67490,Petrol,Automatic,1197,0,233700.0
+Maruti Suzuki,WagonR,2016,70278,CNG,Automatic,1161,0,247800.0
+Kia,Sonet,2022,34380,Petrol,Automatic,1344,0,843100.0
+Hyundai,i20,2023,21284,Diesel,Automatic,1261,0,508000.0
+Hyundai,i20,2008,138660,Diesel,Automatic,1383,4,134000.0
+Hyundai,Grand i10,2013,78782,Diesel,Manual,1107,3,195000.0
+Toyota,Glanza,2009,133493,Petrol,Manual,1197,3,153400.0
+Honda,Amaze,2009,165750,Petrol,Manual,1425,2,186300.0
+Hyundai,i20,2019,55083,Petrol,Automatic,1346,0,385400.0
+Skoda,Kushaq,2020,43874,Petrol,Automatic,1383,1,508900.0
+Tata,Harrier,2009,157516,Diesel,Manual,1956,2,344600.0
+Toyota,Fortuner,2008,178038,Diesel,Automatic,2716,2,404500.0
+Skoda,Slavia,2018,108544,Petrol,Automatic,1266,1,534300.0
+Tata,Nexon,2017,74167,Diesel,Automatic,1332,1,497000.0
+Hyundai,Verna,2005,153424,Petrol,Manual,1536,4,181900.0
+Kia,Sonet,2023,16390,Diesel,Manual,1308,1,465000.0
+Mahindra,XUV700,2010,226887,Diesel,Manual,2175,1,382900.0
+Kia,Sonet,2019,46780,Petrol,Automatic,1308,0,517600.0
+BMW,X1,2010,206324,Diesel,Automatic,1547,4,731900.0
+Tata,Altroz,2017,52567,Petrol,Automatic,1448,0,332200.0
+BMW,X1,2023,9379,Diesel,Automatic,1759,0,2090500.0
+Tata,Altroz,2021,23381,Diesel,Manual,1223,0,479300.0
+Skoda,Kushaq,2009,116689,Petrol,Automatic,1101,1,377300.0
+Maruti Suzuki,Swift,2023,9659,Petrol,Automatic,1197,0,424100.0
+Hyundai,Grand i10,2010,133817,Petrol,Manual,1122,1,70100.0
+Toyota,Innova Crysta,2023,6239,Petrol,Manual,2677,0,2012900.0
+Hyundai,Venue,2023,20569,Diesel,Automatic,1339,1,878100.0
+Mahindra,Scorpio,2022,28734,Diesel,Manual,2179,0,987200.0
+Tata,Altroz,2017,62662,Diesel,Automatic,1222,0,349500.0
+Volkswagen,Polo,2010,93780,Petrol,Automatic,1018,2,147300.0
+Mahindra,XUV700,2010,188128,Diesel,Manual,2107,3,483100.0
+Audi,Q3,2021,46484,Diesel,Automatic,1845,0,1904700.0
+Tata,Altroz,2012,271439,Petrol,Automatic,1210,1,223800.0
+Audi,Q3,2022,16111,Diesel,Automatic,1946,1,2382900.0
+Kia,Sonet,2022,15122,Petrol,Automatic,1097,0,705800.0
+Toyota,Fortuner,2012,207310,Petrol,Manual,2697,3,978200.0
+BMW,3 Series,2010,175759,Diesel,Automatic,2080,2,1095200.0
+Hyundai,Venue,2018,98487,Petrol,Manual,1445,0,498200.0
+Tata,Punch,2011,124771,Petrol,Automatic,1199,3,203600.0
+Tata,Nexon,2024,500,Petrol,Manual,1231,0,798100.0
+Tata,Altroz,2006,333522,Petrol,Manual,1231,2,105700.0
+Mahindra,Scorpio,2009,200101,Diesel,Automatic,2181,2,322900.0
+Maruti Suzuki,Vitara Brezza,2009,130911,Petrol,Manual,1481,4,173400.0
+Skoda,Kushaq,2005,180938,Petrol,Automatic,1063,3,220300.0
+Toyota,Glanza,2013,171851,Petrol,Manual,1197,1,154500.0
+Audi,Q3,2017,59565,Diesel,Automatic,1524,2,1006300.0
+Honda,City,2011,216934,Petrol,Automatic,1497,1,394000.0
+Toyota,Innova Crysta,2008,274890,Petrol,Automatic,2692,4,450500.0
+Hyundai,Creta,2006,397670,Petrol,Automatic,1565,2,166700.0
+Tata,Punch,2019,79409,Petrol,Automatic,1199,1,362400.0
+Hyundai,Verna,2006,297611,Petrol,Manual,1530,4,146500.0
+Honda,City,2008,356898,Diesel,Automatic,1497,4,254800.0
+BMW,X1,2021,47733,Diesel,Automatic,1859,2,2634200.0
+Hyundai,Grand i10,2009,292824,CNG,Manual,1160,2,73600.0
+Honda,Amaze,2005,187697,Diesel,Manual,1317,4,122900.0
+Hyundai,Grand i10,2020,49051,CNG,Manual,1087,0,195100.0
+Maruti Suzuki,Dzire,2013,240157,CNG,Manual,1197,1,190800.0
+Hyundai,Venue,2017,71721,Diesel,Manual,1155,1,405300.0
+Hyundai,Verna,2009,154535,Petrol,Manual,1516,3,191500.0
+Maruti Suzuki,Swift,2012,200954,Petrol,Manual,1197,2,150000.0
+Hyundai,Venue,2018,45055,Petrol,Automatic,1494,1,383400.0
+Tata,Punch,2008,214186,Petrol,Manual,1199,2,132100.0
+Skoda,Kushaq,2016,157090,Petrol,Automatic,1209,1,395300.0
+Hyundai,i20,2006,188687,Diesel,Automatic,1321,4,89100.0
+Hyundai,Verna,2024,500,Diesel,Automatic,1497,0,1273100.0
+Ford,EcoSport,2016,101661,Diesel,Automatic,1497,1,285700.0
+BMW,3 Series,2018,58044,Petrol,Automatic,2211,0,1870200.0
+Maruti Suzuki,WagonR,2020,27053,CNG,Automatic,1122,0,195800.0
+Hyundai,Venue,2018,63635,Diesel,Manual,1292,1,309600.0
+Maruti Suzuki,WagonR,2011,234609,CNG,Automatic,1191,2,83500.0
+Mercedes-Benz,GLA,2024,500,Diesel,Automatic,1369,0,3989100.0
+Hyundai,Verna,2008,294943,Petrol,Automatic,1580,4,228000.0
+Kia,Seltos,2005,267473,Diesel,Manual,1418,2,227800.0
+Volkswagen,Taigun,2010,265554,Petrol,Manual,1453,4,176700.0
+Audi,A4,2010,218472,Petrol,Automatic,1979,4,848700.0
+Skoda,Slavia,2019,33608,Petrol,Automatic,1152,0,800400.0
+Mercedes-Benz,C-Class,2022,17288,Petrol,Automatic,2335,0,3807600.0
+BMW,3 Series,2006,118487,Diesel,Automatic,2390,4,459800.0
+Maruti Suzuki,Vitara Brezza,2013,109646,Petrol,Automatic,1483,2,274100.0
+BMW,X1,2011,103800,Petrol,Automatic,1994,2,611800.0
+Maruti Suzuki,WagonR,2023,8927,Petrol,Automatic,1075,0,401300.0
+Maruti Suzuki,Dzire,2022,12655,CNG,Automatic,1197,1,432400.0
+Mahindra,Scorpio,2013,167761,Diesel,Automatic,2180,2,457600.0
+Toyota,Glanza,2013,151734,Petrol,Manual,1197,2,114800.0
+Toyota,Fortuner,2019,84640,Diesel,Automatic,2719,0,1444900.0
+Toyota,Innova Crysta,2023,16404,Petrol,Manual,2452,1,1794400.0
+Maruti Suzuki,Dzire,2006,188982,Petrol,Automatic,1197,4,146000.0
+Hyundai,Creta,2023,7503,Petrol,Manual,1502,0,926300.0
+Tata,Altroz,2010,136304,Diesel,Manual,1453,2,159800.0
+BMW,3 Series,2014,224790,Diesel,Automatic,2990,2,1140600.0
+Maruti Suzuki,Vitara Brezza,2017,98537,Diesel,Manual,1483,0,347300.0
+Maruti Suzuki,WagonR,2011,244327,Petrol,Automatic,1041,2,106900.0
+Audi,Q3,2014,160583,Diesel,Automatic,1952,2,845100.0
+Tata,Punch,2012,72967,Petrol,Manual,1199,1,245800.0
+Hyundai,Venue,2012,143536,Diesel,Manual,1469,2,223000.0
+Toyota,Innova Crysta,2009,233076,Diesel,Automatic,2400,2,489300.0
+Tata,Nexon,2014,56850,Diesel,Manual,1344,1,210400.0
+Hyundai,Verna,2007,184573,Petrol,Automatic,1527,1,226400.0
+Maruti Suzuki,Baleno,2008,256646,Petrol,Automatic,1197,3,182900.0
+Volkswagen,Taigun,2020,62469,Petrol,Automatic,1346,0,950000.0
+Ford,EcoSport,2017,51660,Petrol,Automatic,1498,1,392700.0
+Volkswagen,Taigun,2012,226533,Petrol,Manual,1140,3,225100.0
+Ford,EcoSport,2014,74768,Petrol,Automatic,1498,2,347700.0
+Skoda,Slavia,2017,153439,Petrol,Automatic,1191,0,577400.0
+Hyundai,i20,2008,139852,Petrol,Manual,1415,3,186000.0
+Audi,Q3,2009,246009,Diesel,Automatic,1587,3,556100.0
+Volkswagen,Polo,2020,22458,Petrol,Automatic,1195,0,419000.0
+Maruti Suzuki,Swift,2022,14080,Petrol,Automatic,1197,0,550500.0
+Maruti Suzuki,WagonR,2016,167901,Petrol,Manual,1077,1,170400.0
+Maruti Suzuki,Swift,2005,280272,Petrol,Automatic,1197,4,66300.0
+Ford,EcoSport,2020,46920,Diesel,Automatic,1497,0,628700.0
+Maruti Suzuki,WagonR,2012,189898,CNG,Manual,1140,1,102600.0
+Mahindra,Thar,2005,467278,Diesel,Manual,1915,4,181800.0
+BMW,X1,2023,16500,Petrol,Automatic,1556,0,3109100.0
+Kia,Seltos,2023,17429,Diesel,Automatic,1495,0,835800.0
+Maruti Suzuki,Swift,2014,137436,Petrol,Automatic,1197,0,272300.0
+Tata,Punch,2010,288621,Petrol,Manual,1199,1,147200.0
+Maruti Suzuki,Vitara Brezza,2013,101171,Diesel,Automatic,1476,3,326600.0
+Tata,Nexon,2020,51927,Diesel,Automatic,1413,1,530100.0
+BMW,X1,2018,73046,Petrol,Automatic,1788,1,1930000.0
+Volkswagen,Taigun,2019,27132,Petrol,Automatic,1369,1,728500.0
+Kia,Sonet,2020,34396,Diesel,Automatic,1011,1,547500.0
+Mercedes-Benz,C-Class,2010,105593,Diesel,Automatic,2762,2,811700.0
+Audi,Q3,2020,27863,Diesel,Automatic,1464,0,2343200.0
+Hyundai,Grand i10,2008,131214,Petrol,Manual,1147,2,84700.0
+Maruti Suzuki,Baleno,2009,114318,Petrol,Manual,1197,4,92200.0
+Toyota,Glanza,2014,111934,Petrol,Automatic,1197,2,215500.0
+BMW,3 Series,2011,164815,Diesel,Automatic,2038,1,911800.0
+Tata,Nexon,2013,136152,Petrol,Manual,1204,3,140500.0
+Kia,Sonet,2012,167841,Diesel,Manual,1356,4,235900.0
+Tata,Nexon,2023,20234,Petrol,Manual,1225,0,742100.0
+Tata,Punch,2023,8311,Petrol,Automatic,1199,0,355800.0
+Mahindra,Thar,2021,26962,Petrol,Manual,1553,0,563400.0
+Mahindra,Scorpio,2011,188307,Diesel,Automatic,2182,2,471400.0
+Audi,A4,2009,157972,Petrol,Automatic,1843,3,525800.0
+Maruti Suzuki,Vitara Brezza,2023,12236,Diesel,Manual,1469,0,466000.0
+Mercedes-Benz,GLA,2020,31296,Petrol,Automatic,1386,0,1871600.0
+Maruti Suzuki,Baleno,2021,53472,Petrol,Manual,1197,0,433300.0
+Toyota,Fortuner,2019,46462,Petrol,Automatic,2750,0,1615700.0
+Toyota,Glanza,2019,49125,Petrol,Manual,1197,0,309200.0
+Kia,Seltos,2005,321897,Diesel,Automatic,1369,3,156300.0
+Mercedes-Benz,C-Class,2022,20905,Petrol,Automatic,2386,1,2103000.0
+Volkswagen,Taigun,2024,500,Petrol,Manual,1497,0,1438000.0
+Volkswagen,Polo,2022,23546,Petrol,Manual,1106,1,394500.0
+Maruti Suzuki,Swift,2013,103565,Petrol,Manual,1197,1,195200.0
+Toyota,Fortuner,2013,206137,Petrol,Automatic,2704,2,689400.0
+Kia,Seltos,2012,144956,Petrol,Manual,1401,2,402300.0
+Hyundai,Verna,2023,20756,Petrol,Automatic,1526,0,691400.0
+Mahindra,XUV700,2016,114024,Diesel,Automatic,2087,1,848900.0
+Toyota,Glanza,2010,172874,Petrol,Automatic,1197,2,131300.0
+Volkswagen,Taigun,2006,172466,Petrol,Automatic,1374,3,205000.0
+Hyundai,Grand i10,2019,41690,CNG,Manual,1161,1,223100.0
+Tata,Nexon,2007,303356,Petrol,Automatic,1274,3,180900.0
+Tata,Altroz,2023,14196,Petrol,Automatic,1433,0,502500.0
+Mahindra,XUV700,2017,109277,Petrol,Automatic,2063,1,733200.0
+Tata,Nexon,2008,178140,Diesel,Manual,1222,3,137400.0
+BMW,3 Series,2016,60011,Petrol,Automatic,2718,0,1449000.0
+Maruti Suzuki,Dzire,2023,10606,CNG,Automatic,1197,0,406800.0
+Toyota,Glanza,2021,66784,Petrol,Manual,1197,1,291800.0
+Mahindra,XUV700,2016,105873,Diesel,Automatic,2115,1,450600.0
+Maruti Suzuki,Swift,2019,62540,Petrol,Manual,1197,0,194000.0
+Audi,Q3,2021,36385,Diesel,Automatic,1861,1,2362200.0
+Maruti Suzuki,WagonR,2023,16328,CNG,Automatic,1063,1,423100.0
+Mahindra,XUV700,2015,136210,Diesel,Manual,2078,1,500400.0
+Toyota,Glanza,2006,402793,Petrol,Manual,1197,3,93000.0
+Maruti Suzuki,Baleno,2021,29364,Petrol,Automatic,1197,0,453100.0
+Tata,Nexon,2013,201285,Diesel,Automatic,1384,3,140100.0
+Toyota,Fortuner,2016,117411,Diesel,Manual,2719,1,1156100.0
+Honda,Amaze,2011,269673,Diesel,Automatic,1350,2,188900.0
+Skoda,Kushaq,2023,15208,Petrol,Manual,1438,1,982300.0
+Mercedes-Benz,C-Class,2007,219869,Diesel,Automatic,1897,2,931400.0
+Tata,Nexon,2015,120346,Diesel,Manual,1245,1,243400.0
+Hyundai,Grand i10,2016,122505,Diesel,Manual,1150,2,130800.0
+Volkswagen,Polo,2012,176193,Petrol,Automatic,1077,2,127600.0
+Hyundai,Creta,2015,69685,Diesel,Manual,1559,1,422300.0
+Audi,A4,2005,117287,Petrol,Automatic,1420,4,506200.0
+Maruti Suzuki,WagonR,2014,164653,CNG,Manual,1166,3,112800.0
+Honda,City,2007,194865,Petrol,Automatic,1498,4,193600.0
+Toyota,Fortuner,2013,180451,Diesel,Automatic,2724,1,851000.0
+Audi,Q3,2021,70767,Diesel,Automatic,1428,0,1876500.0
+Toyota,Fortuner,2011,118090,Diesel,Automatic,2695,3,841000.0
+Kia,Seltos,2011,68686,Petrol,Automatic,1412,1,500900.0
+Hyundai,Venue,2006,174717,Petrol,Manual,1220,4,121800.0
+Mercedes-Benz,GLA,2005,278675,Diesel,Automatic,1862,4,657900.0
+BMW,X1,2015,132895,Petrol,Automatic,1950,2,1133900.0
+Kia,Seltos,2007,312290,Diesel,Automatic,1368,3,282400.0
+Hyundai,i20,2005,147524,Diesel,Automatic,1345,4,154900.0
+Maruti Suzuki,Dzire,2022,14103,Petrol,Manual,1197,0,490900.0
+Tata,Nexon,2010,128899,Diesel,Manual,1487,2,293000.0
+Maruti Suzuki,Alto,2005,219022,CNG,Manual,850,3,50000
+Tata,Altroz,2013,120895,Diesel,Manual,1217,1,163800.0
+Hyundai,Verna,2014,80873,Diesel,Manual,1531,2,379600.0
+BMW,X1,2021,40649,Petrol,Automatic,1554,0,1589700.0
+Tata,Altroz,2016,82860,Petrol,Automatic,1356,1,312700.0
+Toyota,Glanza,2022,15555,Petrol,Automatic,1197,0,344400.0
+Volkswagen,Polo,2020,36386,Petrol,Automatic,1022,0,415400.0
+Maruti Suzuki,Swift,2006,125980,Petrol,Manual,1197,4,102500.0
+Toyota,Glanza,2013,103601,Petrol,Manual,1197,1,198000.0
+Hyundai,Creta,2021,54157,Diesel,Manual,1505,0,531200.0
+Mahindra,Thar,2024,500,Diesel,Manual,2087,0,1298000.0
+Maruti Suzuki,Vitara Brezza,2019,104485,Petrol,Automatic,1463,0,485500.0
+Toyota,Fortuner,2012,105793,Petrol,Automatic,2701,1,1153900.0
+Hyundai,Grand i10,2013,144818,Diesel,Manual,1167,2,112500.0
+Toyota,Innova Crysta,2019,64655,Diesel,Automatic,2600,0,1132400.0
+Toyota,Innova Crysta,2014,75267,Petrol,Manual,2478,2,609700.0
+Mercedes-Benz,C-Class,2006,138408,Petrol,Automatic,2767,2,1007000.0
+Maruti Suzuki,Dzire,2016,60418,Petrol,Automatic,1197,1,222200.0
+Tata,Punch,2016,143662,Petrol,Manual,1199,0,274900.0
+Audi,A4,2005,151815,Petrol,Automatic,1876,4,393100.0
+Hyundai,Grand i10,2020,24328,Petrol,Manual,1116,0,251900.0
+Skoda,Slavia,2008,116411,Petrol,Manual,1100,3,282100.0
+Kia,Sonet,2014,175756,Petrol,Manual,1427,1,320600.0
+Honda,City,2019,47309,Diesel,Automatic,1497,0,335700.0
+Kia,Sonet,2015,147241,Petrol,Manual,1099,2,284400.0
+Tata,Punch,2010,211929,Petrol,Manual,1199,2,99100.0
+Audi,A4,2016,69687,Petrol,Automatic,1821,2,1382000.0
+Toyota,Innova Crysta,2015,72632,Diesel,Manual,2511,2,732200.0
+Tata,Harrier,2020,74650,Diesel,Manual,1956,0,755200.0
+Audi,A4,2023,10775,Diesel,Automatic,1764,0,3839900.0
+Volkswagen,Polo,2021,29429,Petrol,Automatic,1071,1,347100.0
+Ford,EcoSport,2020,45205,Diesel,Automatic,1498,1,316000.0
+Tata,Nexon,2008,281703,Petrol,Manual,1392,2,126200.0
+Toyota,Glanza,2018,64404,Petrol,Automatic,1197,2,205800.0
+Hyundai,Verna,2021,22799,Diesel,Manual,1545,0,990300.0
+Skoda,Kushaq,2018,76548,Petrol,Manual,1317,1,478900.0
+Mercedes-Benz,C-Class,2010,180937,Diesel,Automatic,1816,1,933300.0
+Ford,EcoSport,2016,91544,Diesel,Manual,1497,2,343700.0
+Volkswagen,Taigun,2016,72829,Petrol,Manual,1303,1,382300.0
+Volkswagen,Polo,2018,37414,Petrol,Manual,1131,1,339000.0
+Maruti Suzuki,WagonR,2015,74087,CNG,Automatic,1137,0,157300.0
+Honda,City,2007,321199,Diesel,Manual,1498,3,243800.0
+Tata,Nexon,2019,107029,Diesel,Manual,1269,0,303200.0
+Volkswagen,Taigun,2009,204159,Petrol,Manual,1179,2,344800.0
+Maruti Suzuki,Alto,2006,222747,CNG,Manual,883,3,50000
+Maruti Suzuki,Vitara Brezza,2007,283685,Petrol,Manual,1478,3,172400.0
+Toyota,Innova Crysta,2013,107177,Diesel,Automatic,2654,1,480600.0
+Audi,Q3,2021,29523,Diesel,Automatic,1860,0,2152100.0
+Toyota,Glanza,2009,240646,Petrol,Automatic,1197,4,120400.0
+Tata,Harrier,2020,27378,Diesel,Automatic,1956,0,1184300.0
+Hyundai,Creta,2009,127133,Diesel,Automatic,1564,2,309900.0
+Tata,Punch,2016,104607,Petrol,Automatic,1199,2,185700.0
+Skoda,Kushaq,2005,257062,Petrol,Manual,1048,3,226500.0
+Maruti Suzuki,Vitara Brezza,2006,246783,Petrol,Manual,1468,4,159600.0
+Maruti Suzuki,Swift,2022,24222,Petrol,Manual,1197,0,270600.0
+Ford,EcoSport,2017,128026,Diesel,Manual,1498,0,360500.0
+Ford,EcoSport,2007,179043,Diesel,Manual,1497,3,172300.0
+Volkswagen,Taigun,2008,164620,Petrol,Automatic,1430,2,168700.0
+Hyundai,i20,2021,29659,Diesel,Manual,1453,0,629500.0
+Hyundai,Venue,2024,500,Petrol,Automatic,1425,0,1110800.0
+Mercedes-Benz,GLA,2015,49134,Diesel,Automatic,1423,1,1590000.0
+Ford,EcoSport,2021,43533,Petrol,Automatic,1497,1,566100.0
+Maruti Suzuki,WagonR,2015,106977,CNG,Automatic,1136,1,121100.0
+Hyundai,Grand i10,2024,500,CNG,Manual,1117,0,407000.0
+Kia,Sonet,2013,149089,Petrol,Automatic,999,2,246800.0
+Hyundai,Grand i10,2007,190730,Diesel,Manual,1088,3,66900.0
+Maruti Suzuki,WagonR,2024,500,Petrol,Manual,1165,0,236400.0
+Honda,City,2019,57111,Petrol,Automatic,1498,1,821300.0
+Toyota,Glanza,2020,55374,Petrol,Manual,1197,0,366000.0
+Maruti Suzuki,Swift,2009,192777,Petrol,Automatic,1197,4,100700.0
+Volkswagen,Taigun,2007,193830,Petrol,Manual,1054,3,272900.0
+BMW,3 Series,2006,360479,Petrol,Automatic,2209,2,602500.0
+Mercedes-Benz,GLA,2012,169328,Diesel,Automatic,1887,1,1048800.0
+Toyota,Innova Crysta,2010,137281,Diesel,Manual,2691,2,415900.0
+Hyundai,i20,2021,39608,Diesel,Automatic,1379,0,369200.0
+Honda,City,2010,156087,Diesel,Automatic,1497,2,210300.0
+Hyundai,Grand i10,2017,46925,Petrol,Manual,1091,2,126400.0
+Tata,Nexon,2014,109134,Diesel,Manual,1353,0,359200.0
+Hyundai,Creta,2024,500,Diesel,Manual,1552,0,1203300.0
+Tata,Harrier,2019,64261,Diesel,Automatic,1956,0,754500.0
+Tata,Punch,2012,157284,Petrol,Manual,1199,1,183700.0
+Hyundai,Venue,2010,213362,Diesel,Manual,1460,2,137000.0
+Toyota,Glanza,2014,164095,Petrol,Manual,1197,1,129200.0
+Hyundai,Creta,2013,155564,Diesel,Automatic,1525,0,295800.0
+Skoda,Kushaq,2011,169598,Petrol,Automatic,1303,1,163000.0
+Mahindra,Scorpio,2017,65718,Diesel,Manual,2180,0,529800.0
+Mercedes-Benz,C-Class,2014,68410,Diesel,Automatic,1527,3,1686600.0
+Tata,Nexon,2006,308558,Diesel,Manual,1397,3,175600.0
+Mahindra,Scorpio,2017,92196,Diesel,Automatic,2181,1,701900.0
+Toyota,Fortuner,2015,108791,Petrol,Automatic,2730,2,720700.0
+Mercedes-Benz,C-Class,2019,61577,Petrol,Automatic,1999,0,3248000.0
+Mahindra,Scorpio,2008,234706,Diesel,Automatic,2181,2,183400.0
+Toyota,Glanza,2009,327584,Petrol,Automatic,1197,1,125700.0
+BMW,X1,2023,10266,Petrol,Automatic,1561,0,1795400.0
+Hyundai,i20,2010,122805,Petrol,Manual,1290,2,176900.0
+Tata,Nexon,2006,138267,Diesel,Manual,1361,2,236800.0
+Honda,City,2008,270643,Diesel,Manual,1498,2,144300.0
+Audi,Q3,2013,136285,Petrol,Automatic,1811,1,885500.0
+Hyundai,Creta,2016,135715,Petrol,Automatic,1545,0,604800.0
+Skoda,Kushaq,2011,175478,Petrol,Automatic,1407,2,228200.0
+Hyundai,Venue,2013,64559,Diesel,Automatic,1021,2,247900.0
+Audi,A4,2007,283673,Petrol,Automatic,1957,2,874200.0
+Tata,Punch,2010,123785,Petrol,Manual,1199,2,144000.0
+Honda,Amaze,2009,133532,Diesel,Automatic,1487,2,151500.0
+Toyota,Fortuner,2024,500,Petrol,Automatic,2754,0,3878300.0
+Toyota,Glanza,2007,194717,Petrol,Automatic,1197,3,126000.0
+Tata,Harrier,2006,290349,Diesel,Manual,1956,3,296900.0
+Hyundai,Venue,2019,71304,Diesel,Automatic,1443,0,507900.0
+Ford,EcoSport,2016,109360,Petrol,Manual,1498,1,199100.0
+Tata,Punch,2007,216311,Petrol,Manual,1199,3,101700.0
+Mahindra,Scorpio,2016,113824,Diesel,Automatic,2184,2,528800.0
+Maruti Suzuki,Swift,2010,124599,Petrol,Automatic,1197,2,167200.0
+BMW,X1,2011,172631,Diesel,Automatic,1973,2,728000.0
+Skoda,Kushaq,2013,270882,Petrol,Automatic,1351,2,343600.0
+BMW,X1,2012,104590,Petrol,Automatic,1822,2,576300.0
+Maruti Suzuki,Vitara Brezza,2005,405935,Petrol,Manual,1474,1,144900.0
+Maruti Suzuki,Alto,2022,13793,CNG,Manual,927,0,253400.0
+Honda,Amaze,2023,12010,Petrol,Manual,1352,0,360700.0
+Skoda,Slavia,2014,141455,Petrol,Automatic,1341,1,556400.0
+Skoda,Kushaq,2017,81937,Petrol,Automatic,1187,2,373900.0
+Tata,Punch,2017,147167,Petrol,Automatic,1199,1,300200.0
+Ford,EcoSport,2013,97365,Petrol,Manual,1497,2,315200.0
+Hyundai,Creta,2013,142478,Diesel,Manual,1515,2,442700.0
+Tata,Harrier,2007,289278,Diesel,Automatic,1956,2,243700.0
+Maruti Suzuki,Baleno,2011,222707,Petrol,Automatic,1197,3,172500.0
+BMW,X1,2011,145775,Diesel,Automatic,1618,2,1087000.0
+Mercedes-Benz,GLA,2019,35108,Petrol,Automatic,2020,2,1796300.0
+Toyota,Innova Crysta,2014,196867,Petrol,Manual,2571,1,634200.0
+Tata,Harrier,2018,66739,Diesel,Automatic,1956,2,597800.0
+Toyota,Glanza,2016,124237,Petrol,Manual,1197,0,228200.0
+Audi,Q3,2013,185351,Petrol,Automatic,1712,1,669800.0
+Honda,Amaze,2013,93379,Diesel,Manual,1480,1,235600.0
+Toyota,Innova Crysta,2010,251940,Diesel,Manual,2409,2,440300.0
+Mercedes-Benz,C-Class,2008,309463,Diesel,Automatic,2907,2,670800.0
+Hyundai,Venue,2013,141695,Diesel,Manual,1063,2,367400.0
+Skoda,Kushaq,2008,174210,Petrol,Automatic,1426,1,297100.0
+Maruti Suzuki,Baleno,2014,103274,Petrol,Automatic,1197,1,278800.0
+Mahindra,XUV700,2022,21771,Petrol,Automatic,2101,1,1559900.0
+Maruti Suzuki,Vitara Brezza,2011,178968,Petrol,Manual,1493,3,214400.0
+Volkswagen,Taigun,2021,33648,Petrol,Automatic,1363,0,741000.0
+Maruti Suzuki,Baleno,2010,167175,Petrol,Manual,1197,2,219000.0
+Volkswagen,Polo,2019,41815,Petrol,Manual,1047,0,250800.0
+Mahindra,Thar,2019,68747,Petrol,Manual,1847,1,483100.0
+Ford,EcoSport,2022,18668,Petrol,Manual,1498,0,533200.0
+Hyundai,Grand i10,2012,163834,CNG,Manual,1103,2,101100.0
+Volkswagen,Taigun,2006,265663,Petrol,Manual,1413,3,283500.0
+Maruti Suzuki,Vitara Brezza,2016,155241,Petrol,Automatic,1463,0,324400.0
+Maruti Suzuki,Swift,2021,19536,Petrol,Automatic,1197,0,212600.0
+Mahindra,Thar,2020,48316,Petrol,Automatic,1752,2,680500.0
+Tata,Altroz,2011,137353,Petrol,Automatic,1275,1,140700.0
+Toyota,Fortuner,2024,500,Petrol,Manual,2720,1,3356400.0
+Hyundai,Grand i10,2020,37562,Diesel,Manual,1087,1,259700.0
+Maruti Suzuki,Alto,2014,135793,CNG,Manual,988,1,73300.0
+Kia,Sonet,2012,191719,Diesel,Manual,1146,3,306200.0
+BMW,3 Series,2013,62375,Petrol,Automatic,2677,3,1194900.0
+Maruti Suzuki,Swift,2024,500,Petrol,Automatic,1197,0,487700.0
+Hyundai,i20,2018,42848,Diesel,Automatic,1203,0,417900.0
+Kia,Seltos,2022,18554,Petrol,Automatic,1391,1,1154900.0
+Kia,Seltos,2016,87560,Petrol,Manual,1383,1,426600.0
+Honda,Amaze,2009,294019,Petrol,Automatic,1481,2,188100.0
+Tata,Punch,2010,92382,Petrol,Manual,1199,2,172700.0
+Maruti Suzuki,Alto,2024,500,Petrol,Manual,875,0,282600.0
+Hyundai,i20,2015,99942,Petrol,Manual,1417,1,255100.0
+Hyundai,Creta,2007,165754,Diesel,Manual,1502,2,147900.0
+Toyota,Innova Crysta,2016,44375,Diesel,Manual,2417,1,800400.0
+Toyota,Glanza,2015,102703,Petrol,Manual,1197,1,144800.0
+Skoda,Kushaq,2012,256334,Petrol,Automatic,1308,3,190700.0
+Hyundai,Verna,2018,55643,Diesel,Automatic,1526,1,531400.0
+Maruti Suzuki,WagonR,2018,89198,CNG,Manual,1089,0,255200.0
+Maruti Suzuki,Vitara Brezza,2019,68021,Diesel,Manual,1490,2,459600.0
+Tata,Nexon,2020,60889,Petrol,Manual,1209,0,410200.0
+Skoda,Slavia,2018,64537,Petrol,Manual,1469,0,653500.0
+Toyota,Glanza,2018,78732,Petrol,Automatic,1197,0,245200.0
+Toyota,Glanza,2010,290561,Petrol,Automatic,1197,3,164500.0
+Maruti Suzuki,WagonR,2021,38429,CNG,Automatic,1168,0,167200.0
+Maruti Suzuki,Alto,2015,81019,CNG,Manual,958,1,104500.0
+Hyundai,Verna,2022,15280,Diesel,Manual,1555,0,517200.0
+Hyundai,i20,2011,221927,Diesel,Automatic,1266,2,131900.0
+Maruti Suzuki,Vitara Brezza,2013,122555,Petrol,Automatic,1480,1,172800.0
+Hyundai,i20,2010,121406,Diesel,Manual,1404,3,246900.0
+Mercedes-Benz,C-Class,2009,119451,Diesel,Automatic,2703,2,1404000.0
+Honda,City,2018,61215,Diesel,Automatic,1497,1,509400.0
+Hyundai,Verna,2022,18323,Diesel,Automatic,1504,0,626000.0
+Maruti Suzuki,Vitara Brezza,2008,217908,Petrol,Automatic,1490,2,148700.0
+Tata,Nexon,2013,255346,Diesel,Manual,1267,0,300800.0
+Hyundai,i20,2009,212462,Petrol,Automatic,1368,4,95000.0
+Maruti Suzuki,WagonR,2010,196304,Petrol,Manual,1177,2,111900.0
+Hyundai,Verna,2020,32363,Petrol,Automatic,1552,0,377600.0
+Tata,Harrier,2021,43995,Diesel,Automatic,1956,0,957200.0
+Mahindra,Scorpio,2018,81116,Diesel,Automatic,2183,0,519600.0
+Toyota,Fortuner,2022,23627,Diesel,Automatic,2705,0,1911300.0
+Toyota,Innova Crysta,2006,147423,Diesel,Manual,2477,4,479500.0
+Mercedes-Benz,GLA,2014,122461,Diesel,Automatic,1929,1,1246200.0
+Ford,EcoSport,2019,35291,Petrol,Automatic,1497,1,334600.0
+Mahindra,XUV700,2016,108485,Petrol,Manual,2118,3,390000.0
+Kia,Seltos,2020,95430,Petrol,Manual,1486,1,744000.0
+Hyundai,Grand i10,2022,26370,CNG,Manual,1169,0,346600.0
+Honda,Amaze,2020,36212,Petrol,Manual,1313,0,477200.0
+Toyota,Fortuner,2009,209761,Diesel,Manual,2748,2,672100.0
+Skoda,Slavia,2021,33304,Petrol,Manual,1318,1,698500.0
+Hyundai,Venue,2010,237010,Diesel,Manual,1413,3,186100.0
+Toyota,Glanza,2009,353986,Petrol,Automatic,1197,4,106100.0
+Hyundai,i20,2008,213851,Diesel,Automatic,1307,2,131000.0
+Audi,Q3,2012,98108,Diesel,Automatic,1451,2,1389500.0
+Ford,EcoSport,2012,115376,Diesel,Automatic,1498,3,209500.0
+Mercedes-Benz,GLA,2011,105230,Diesel,Automatic,1870,2,1013400.0
+Tata,Punch,2024,500,Petrol,Manual,1199,0,491000.0
+Maruti Suzuki,WagonR,2017,113237,CNG,Manual,1189,0,215200.0
+Maruti Suzuki,Swift,2014,93144,Petrol,Manual,1197,2,252700.0
+Maruti Suzuki,Swift,2008,186960,Petrol,Manual,1197,3,83900.0
+Hyundai,i20,2008,172455,Petrol,Manual,1382,4,143900.0
+Toyota,Innova Crysta,2017,111722,Petrol,Manual,2502,1,574200.0
+Hyundai,Creta,2023,16541,Diesel,Automatic,1502,0,1102500.0
+Tata,Altroz,2017,62032,Diesel,Manual,1236,0,322800.0
+Mahindra,XUV700,2013,145584,Diesel,Automatic,2136,2,667500.0
+Mahindra,Scorpio,2013,127739,Diesel,Manual,2180,2,269900.0
+Ford,EcoSport,2008,205965,Petrol,Manual,1498,3,176400.0
+Mahindra,Thar,2018,62229,Petrol,Manual,1953,1,527900.0
+Toyota,Glanza,2016,162607,Petrol,Manual,1197,1,199200.0
+Toyota,Fortuner,2022,13674,Diesel,Automatic,2736,0,1781200.0
+Mercedes-Benz,GLA,2009,136480,Petrol,Automatic,1828,3,603600.0
+Tata,Punch,2023,9764,Petrol,Automatic,1199,0,513600.0
+Honda,City,2016,65870,Diesel,Manual,1498,2,366700.0
+Volkswagen,Taigun,2018,51830,Petrol,Manual,1339,0,429700.0
+Maruti Suzuki,WagonR,2009,185700,CNG,Manual,1091,1,103900.0
+Tata,Altroz,2009,92895,Diesel,Manual,1400,3,222400.0
+Volkswagen,Taigun,2015,192174,Petrol,Manual,1171,1,289700.0
+Tata,Nexon,2015,180444,Petrol,Automatic,1371,0,364200.0
+Kia,Sonet,2011,103725,Petrol,Automatic,1287,3,203200.0
+Hyundai,Verna,2024,500,Diesel,Manual,1538,0,934400.0
+Honda,Amaze,2018,56323,Petrol,Automatic,1213,3,198800.0
+Skoda,Kushaq,2006,262333,Petrol,Automatic,1242,3,220200.0
+Hyundai,Creta,2016,51601,Diesel,Automatic,1571,1,591600.0
+Toyota,Fortuner,2016,61494,Diesel,Automatic,2727,2,1469700.0
+Hyundai,Creta,2007,177439,Diesel,Manual,1575,3,319600.0
+Mahindra,Scorpio,2012,276849,Diesel,Manual,2183,2,288500.0
+Audi,A4,2005,304666,Petrol,Automatic,1573,3,512600.0
+Maruti Suzuki,Alto,2008,280928,Petrol,Manual,988,3,51600.0
+Skoda,Slavia,2020,27592,Petrol,Manual,1231,1,871800.0
+Kia,Seltos,2006,178522,Petrol,Automatic,1358,3,248600.0
+Tata,Nexon,2014,135593,Petrol,Manual,1211,2,234700.0
+BMW,3 Series,2018,74995,Petrol,Automatic,2562,2,2247900.0
+Audi,A4,2019,98666,Diesel,Automatic,1468,2,2178200.0
+Ford,EcoSport,2008,205759,Petrol,Automatic,1497,2,171600.0
+Maruti Suzuki,Vitara Brezza,2015,123481,Petrol,Manual,1478,1,335100.0
+Maruti Suzuki,Dzire,2012,130910,Petrol,Manual,1197,2,185100.0
+Volkswagen,Taigun,2014,118880,Petrol,Automatic,1031,3,622200.0
+Toyota,Innova Crysta,2016,89006,Petrol,Manual,2583,0,887100.0
+Volkswagen,Polo,2010,265708,Petrol,Automatic,1146,2,192900.0
+Mahindra,XUV700,2009,191005,Petrol,Manual,2009,3,252700.0
+Skoda,Kushaq,2014,59584,Petrol,Manual,1453,0,342000.0
+Skoda,Slavia,2020,50607,Petrol,Manual,1477,1,739100.0
+Mercedes-Benz,C-Class,2010,234158,Diesel,Automatic,2091,2,883500.0
+Kia,Seltos,2018,72724,Diesel,Manual,1404,1,740100.0
+Skoda,Kushaq,2009,238502,Petrol,Manual,1239,1,181500.0
+Maruti Suzuki,Alto,2018,71912,CNG,Manual,989,0,144200.0
+Mercedes-Benz,C-Class,2024,500,Petrol,Automatic,2649,0,4461800.0
+Ford,EcoSport,2023,18530,Diesel,Manual,1498,0,675300.0
+Toyota,Innova Crysta,2010,232298,Petrol,Automatic,2672,2,345700.0
+BMW,3 Series,2023,10905,Petrol,Automatic,2984,0,2884600.0
+Mercedes-Benz,C-Class,2014,148335,Diesel,Automatic,2159,2,976200.0
+Hyundai,Creta,2016,142784,Diesel,Manual,1515,1,346400.0
+Hyundai,Creta,2023,10711,Diesel,Manual,1497,0,953100.0
+Audi,Q3,2019,79260,Petrol,Automatic,1833,0,1384600.0
+Honda,Amaze,2009,272919,Petrol,Manual,1373,2,91400.0
+Maruti Suzuki,Baleno,2024,500,Petrol,Automatic,1197,0,514300.0
+Maruti Suzuki,Dzire,2017,78619,Petrol,Automatic,1197,2,305100.0
+Maruti Suzuki,Swift,2009,194530,Petrol,Automatic,1197,2,95400.0
+Maruti Suzuki,WagonR,2014,103523,Petrol,Automatic,1094,0,105600.0
+Skoda,Slavia,2018,62042,Petrol,Automatic,1496,2,541900.0
+Maruti Suzuki,Dzire,2016,122087,CNG,Manual,1197,4,205000.0
+Hyundai,Creta,2008,306950,Diesel,Manual,1532,4,337200.0
+BMW,3 Series,2010,223716,Diesel,Automatic,2172,1,886700.0
+Tata,Altroz,2007,154517,Petrol,Manual,1292,3,137500.0
+Mahindra,Scorpio,2007,187581,Diesel,Manual,2179,4,173400.0
+Maruti Suzuki,Swift,2017,51380,Petrol,Automatic,1197,1,372800.0
+Audi,Q3,2010,105883,Petrol,Automatic,1525,2,1117900.0
+BMW,X1,2018,62884,Petrol,Automatic,1676,2,1148900.0
+Maruti Suzuki,Baleno,2023,15783,Petrol,Manual,1197,1,356700.0
+Maruti Suzuki,Alto,2023,7293,Petrol,Manual,862,0,143200.0
+Mercedes-Benz,C-Class,2020,79813,Diesel,Automatic,1596,0,2534000.0
+Maruti Suzuki,WagonR,2021,46432,CNG,Automatic,1114,2,293200.0
+Mahindra,XUV700,2005,275282,Petrol,Automatic,2093,2,260500.0
+Maruti Suzuki,Dzire,2009,282019,Petrol,Manual,1197,4,108500.0
+Maruti Suzuki,Baleno,2014,244648,Petrol,Manual,1197,2,199400.0
+Honda,Amaze,2009,193975,Petrol,Manual,1385,3,169500.0
+Honda,City,2023,13688,Petrol,Manual,1497,1,516100.0
+Tata,Punch,2008,314564,Petrol,Automatic,1199,4,186500.0
+Audi,A4,2015,133535,Diesel,Automatic,1594,1,1480000.0
+Tata,Punch,2024,500,Petrol,Manual,1199,0,483600.0
+Toyota,Glanza,2012,120851,Petrol,Automatic,1197,2,175800.0
+Mercedes-Benz,C-Class,2021,32657,Petrol,Automatic,2801,1,3039500.0
+Toyota,Innova Crysta,2022,46629,Petrol,Manual,2689,0,1243300.0
+Audi,A4,2013,62052,Diesel,Automatic,1684,1,1155500.0
+Maruti Suzuki,Baleno,2020,67168,Petrol,Manual,1197,1,289000.0
+Tata,Nexon,2007,200872,Petrol,Automatic,1425,3,128100.0
+Honda,Amaze,2015,120054,Diesel,Automatic,1483,1,187800.0
+Skoda,Kushaq,2007,285536,Petrol,Manual,1181,1,258400.0
+Maruti Suzuki,Alto,2014,70506,CNG,Manual,929,2,82700.0
+Honda,City,2018,91766,Petrol,Automatic,1498,3,530900.0
+Maruti Suzuki,Dzire,2016,134816,CNG,Manual,1197,0,216700.0
+Hyundai,Creta,2005,122937,Diesel,Manual,1559,4,146200.0
+Ford,EcoSport,2011,270693,Diesel,Automatic,1497,2,249400.0
+Toyota,Innova Crysta,2012,99788,Diesel,Manual,2670,1,426100.0
+Maruti Suzuki,Alto,2005,311332,Petrol,Manual,838,3,50000
+Maruti Suzuki,Dzire,2006,277463,Petrol,Automatic,1197,4,82700.0
+Audi,Q3,2005,387106,Petrol,Automatic,1719,4,626200.0
+Toyota,Fortuner,2019,97840,Diesel,Manual,2697,1,1033400.0
+Audi,Q3,2018,61382,Petrol,Automatic,1461,1,1898800.0
+Hyundai,Grand i10,2023,5504,Diesel,Manual,1108,0,340300.0
+Maruti Suzuki,Dzire,2007,122265,CNG,Manual,1197,3,144100.0
+BMW,X1,2013,135431,Petrol,Automatic,1901,2,912500.0
+Maruti Suzuki,Dzire,2012,155019,Petrol,Automatic,1197,2,104700.0
+Kia,Seltos,2011,146376,Diesel,Manual,1390,2,368700.0
+Maruti Suzuki,Dzire,2010,173508,Petrol,Manual,1197,2,160900.0
+Honda,City,2011,241656,Diesel,Manual,1497,2,306600.0
+Hyundai,Grand i10,2022,21699,Petrol,Manual,1150,0,339700.0
+Maruti Suzuki,Alto,2005,169708,CNG,Manual,848,4,50000
+Maruti Suzuki,Swift,2008,300155,Petrol,Automatic,1197,2,117500.0
+Hyundai,i20,2023,13049,Diesel,Automatic,1197,0,601700.0
+Volkswagen,Taigun,2014,116078,Petrol,Manual,1415,3,284200.0
+Hyundai,Verna,2012,81110,Diesel,Automatic,1557,2,424100.0
+Mahindra,Thar,2017,150026,Diesel,Manual,1779,0,550900.0
+Kia,Seltos,2010,157074,Diesel,Automatic,1469,3,379200.0
+Toyota,Innova Crysta,2016,102715,Diesel,Manual,2428,1,919200.0
+Skoda,Slavia,2013,93890,Petrol,Automatic,1239,2,281400.0
+Hyundai,Verna,2018,91375,Petrol,Manual,1542,0,574400.0
+Skoda,Kushaq,2016,168404,Petrol,Automatic,1333,2,280900.0
+Tata,Punch,2022,30662,Petrol,Manual,1199,0,386600.0
+Tata,Punch,2007,219575,Petrol,Automatic,1199,3,117100.0
+Tata,Punch,2005,364435,Petrol,Automatic,1199,3,130800.0
+Audi,A4,2007,204004,Petrol,Automatic,1737,2,674900.0
+Toyota,Innova Crysta,2011,199147,Diesel,Automatic,2502,1,554900.0
+Hyundai,i20,2020,50540,Petrol,Manual,1285,0,488500.0
+Maruti Suzuki,Alto,2009,95849,Petrol,Manual,828,3,63000.0
+Honda,Amaze,2023,22572,Diesel,Manual,1398,0,325900.0
+Toyota,Glanza,2014,205530,Petrol,Automatic,1197,0,196600.0
+Hyundai,Verna,2015,128910,Diesel,Automatic,1535,1,414500.0
+Hyundai,Verna,2021,30845,Petrol,Automatic,1522,0,677700.0
+Hyundai,i20,2014,80843,Petrol,Automatic,1275,1,233400.0
+Honda,Amaze,2015,148898,Diesel,Manual,1229,0,178800.0
+Maruti Suzuki,Alto,2018,120899,Petrol,Manual,802,1,120100.0
+Maruti Suzuki,Alto,2014,224549,CNG,Manual,929,2,65500.0
+Toyota,Glanza,2012,71090,Petrol,Automatic,1197,2,193900.0
+Tata,Nexon,2013,145042,Diesel,Automatic,1297,1,241300.0
+Hyundai,Grand i10,2018,76486,Diesel,Manual,1110,0,131300.0
+Hyundai,Grand i10,2006,223889,CNG,Manual,1179,3,64900.0
+Tata,Harrier,2010,120431,Diesel,Manual,1956,3,341100.0
+Mahindra,XUV700,2012,156692,Diesel,Automatic,2077,4,426500.0
+Skoda,Kushaq,2009,249394,Petrol,Manual,1078,3,257800.0
+Skoda,Slavia,2009,186605,Petrol,Manual,1456,3,281500.0
+Tata,Nexon,2018,140087,Petrol,Manual,1473,2,357800.0
+Tata,Punch,2013,143983,Petrol,Manual,1199,2,234500.0
+Volkswagen,Taigun,2012,211556,Petrol,Manual,1411,2,282200.0
+Tata,Harrier,2020,48888,Diesel,Automatic,1956,0,1118300.0
+Maruti Suzuki,Swift,2009,153802,Petrol,Automatic,1197,1,117300.0

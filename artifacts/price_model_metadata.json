@@ -1,0 +1,50 @@
+{
+  "model_type": "RandomForestRegressor",
+  "model_name": "vehicle_price_random_forest",
+  "training_date": "2026-10-13T10:52:53.415595",
+  "dataset_sources": [
+    "Car details v3.csv",
+    "car details v4.csv"
+  ],
+  "dataset_type": "real",
+  "total_records": 8692,
+  "train_size": 6953,
+  "test_size": 1739,
+  "features": [
+    "year",
+    "km_driven",
+    "engine_cc",
+    "previous_owners",
+    "make",
+    "model",
+    "fuel_type",
+    "transmission"
+  ],
+  "numeric_features": [
+    "year",
+    "km_driven",
+    "engine_cc",
+    "previous_owners"
+  ],
+  "categorical_features": [
+    "make",
+    "model",
+    "fuel_type",
+    "transmission"
+  ],
+  "target": "selling_price",
+  "random_seed": 42,
+  "test_split": 0.2,
+  "hyperparameters": {
+    "n_estimators": 200,
+    "max_depth": 20,
+    "min_samples_split": 5,
+    "min_samples_leaf": 2
+  },
+  "evaluation_metrics": {
+    "mae": 147491.38,
+    "rmse": 447658.98,
+    "r2_score": 0.8802
+  },
+  "data_policy": "Trained exclusively on real CSV datasets. Synthetic 'vehicles.csv' is prohibited."
+}
