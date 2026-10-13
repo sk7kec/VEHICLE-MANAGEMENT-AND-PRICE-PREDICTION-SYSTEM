@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Management and Price Prediction System
 
 ## 👤 Student Details
@@ -478,3 +479,6 @@ This project is developed for academic purposes as part of the coursework by Sah
 ---
 
 *Vehicle Management and Price Prediction System © 2024 — Sahishnakumaar S S (24ADR134)*
+=======
+# VEHICLE-MANAGEMENT-AND-PRICE-PREDICTION-SYSTEM
+>>>>>>> origin/main
